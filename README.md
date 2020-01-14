@@ -53,6 +53,7 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 - [RacketBoy](http://www.racketboy.com/retro), pas mal d'articles dédiés à des genres ou des jeux
 - [History of CRPGs Book](ressources/crpg_book_2.0_hq.pdf) est un livre dédié à l'histoire des RPG occidentaux ([source](https://crpgbook.files.wordpress.com/))
 - "The Untold History of Japanese Game Developers" (John Szczepaniak) est un livre, comme son nom l'indique, dédié à l'histoire des développeurs Japonais
+- [Gaming History 101](https://gaminghistory101.com/), un site dédié à l'histoire des jeux vidéo
 
 ## Remerciements
 
