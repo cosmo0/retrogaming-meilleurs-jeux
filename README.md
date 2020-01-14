@@ -51,6 +51,8 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_video_games) a différents articles sur l'historique des jeux vidéo
 - [Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline), mais c'est assez vague et bourré de légendes urbaines
 - [RacketBoy](http://www.racketboy.com/retro), pas mal d'articles dédiés à des genres ou des jeux
+- [History of CRPGs Book](ressources/crpg_book_2.0_hq.pdf) est un livre dédié à l'histoire des RPG occidentaux ([source](https://crpgbook.files.wordpress.com/))
+- "The Untold History of Japanese Game Developers" (John Szczepaniak) est un livre, comme son nom l'indique, dédié à l'histoire des développeurs Japonais
 
 ## Remerciements
 
