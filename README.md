@@ -1,6 +1,6 @@
 # Retrogaming - la liste des meilleurs jeux
 
-Bienvenue sur la liste des jeux rétrogaming ! _o/
+Bienvenue sur la liste des jeux rétrogaming ! :smile:
 
 Ceci vous permettra de vous y retrouver parmi les milliers de jeux que vous avez -téléch-acheté pour chaque machine. Finis, les romsets de 2000 jeux où vous ne savez pas quoi lancer : concentrez-vous sur le meilleur, la crème de la crème.
 
@@ -8,6 +8,8 @@ En critère "rétrogaming", je vous propose de couvrir les générations 2 (Atar
 
 La liste des machines n'est **pas exhaustive**, je ne mets que les plus connues en occident (en bien ou en mal). Il y a eu beaucoup d'autres machines : des vieilles consoles avec peu de jeux intéressants comme l'Odyssey 2 ou l'Astrocade, des ordinateurs relativement confidentiels comme le BBC Micro, ou sortis uniquement au Japon comme les Nec, Fujitsu et MSX.  
 Si vous avez une liste de 10 jeux minimum pour une machine chère à votre coeur, n'hésitez pas à en parler, et je la rajouterai.
+
+Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé de compiler les avis de différentes personnes pour avoir un panel large, mais les biais de chacun y sont forcément représentés. Il est impossible de faire des listes de "meilleurs jeux" objectives. Elles devraient cependant convenir pour l'usage prévu : **faire découvrir ces machines** aux gens qui ne les connaissent pas.
 
 ## Les listes
 
