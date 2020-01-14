@@ -26,11 +26,14 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 
 ## Ressources
 
-### Listes factuelles
+### Listes et bases de données
 
 - [Liste des consoles de salon](https://en.wikipedia.org/wiki/List_of_home_video_game_consoles)
 - [Liste des consoles portables](https://en.wikipedia.org/wiki/List_of_handheld_game_consoles)
 - [Liste des jeux MAME](http://adb.arcadeitalia.net/lista_mame.php?lang=en)
+- [System 16](https://www.system16.com), site dédié à l'arcade
+- [Arcade Archive](http://arcarc.xmission.com/), qui regorge de ressources liées à l'arcade (images, photos, vieux magazines...)
+- [Liste des acronymes des fichiers de roms](https://www.tosecdev.org/tosec-naming-convention)
 
 ### Autres listes "Top X"
 
@@ -41,15 +44,11 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 
 ### Autres ressources
 
-- [System 16](https://www.system16.com), site dédié à l'arcade
-- [Arcade Archive](http://arcarc.xmission.com/), qui regorge de ressources liées à l'arcade (images, photos, vieux magazines...)
-- [Liste des acronymes des fichiers de roms](https://www.tosecdev.org/tosec-naming-convention)
 - [Hardcore Gaming 101](http://www.hardcoregaming101.net/), des milliers d'infos sur les jeux rétro et néorétro
 - [StrategyWiki](https://strategywiki.org/), un wiki de soluces mais qui a aussi énormément de détails sur les jeux et leurs différentes versions
 - [Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg), une chaîne Youtube qui raconte diverses histoires et anecdotes
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g), une chaîne Youtube qui fait l'historique des jeux de chaque plateforme chronologiquement
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_video_games) a différents articles sur l'historique des jeux vidéo
-- [Museum of Play](https://www.museumofplay.org/about/icheg/video-game-history/timeline), mais c'est assez vague et bourré de légendes urbaines
 - [RacketBoy](http://www.racketboy.com/retro), pas mal d'articles dédiés à des genres ou des jeux
 - [History of CRPGs Book](ressources/crpg_book_2.0_hq.pdf) est un livre dédié à l'histoire des RPG occidentaux ([source](https://crpgbook.files.wordpress.com/))
 - "The Untold History of Japanese Game Developers" (John Szczepaniak) est un livre, comme son nom l'indique, dédié à l'histoire des développeurs Japonais
