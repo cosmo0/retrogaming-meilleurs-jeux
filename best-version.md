@@ -1,13 +1,13 @@
-# Les meilleurs versions
+# ![Les meilleurs versions](images/versions.png)
 
 Les meilleures versions des jeux portés de nombreuses fois sur de nombreuses plateformes.
 
 Généralités :
 
-- Sauf exception (notée), les versions Master System et Game Gear sont souvent très proches, mais la Game Gear ayant une résolution inférieure, les jeux sont souvent croppés.
+- Sauf exception (notée), les versions Master System et Game Gear sont souvent très proches, mais la Game Gear ayant une résolution inférieure, les jeux sont souvent croppés, la version Master System est donc généralement meilleure.
 - Quand un jeu est sorti sur plusieurs ordinateurs, les versions à privilégier sont généralement Amiga, MS DOS, ou Apple II (l'ordre de préférence varie selon les jeux).
-- Quand une version ordinateur est supérieure, si une version console correcte existe, elle sera notée, pour la facilité à utiliser sur émulateur (pas besoin de souris).
-- Quand un jeu arcade est supérieur, mais a des portages corrects sur console, les meilleures versions consoles sont notées, parce qu'il y a souvent d'autres options bienvenues (difficulté revue, mode entraînement, etc).
+- Quand une version ordinateur est supérieure, si une version console correcte existe, elle sera notée, pour la facilité à utiliser sur émulateur (jouable au pad).
+- Quand un jeu arcade est supérieur, mais a des portages corrects sur console, les meilleures versions consoles sont notées, parce qu'il y a souvent d'autres options bienvenues (difficulté revue, mode entraînement, etc), et il est plus facile d'acquérir le support original.
 
 **After Burner**  
 La version arcade est l'originale, et la référence.  

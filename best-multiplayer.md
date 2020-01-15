@@ -1,12 +1,12 @@
-# Les meilleurs jeux multijoueur
+# ![Les meilleurs jeux multijoueur](images/multiplayer.png)
 
 Le but est de proposer une liste de jeux rétro, soit à sortir en soirée ou en LAN rétro, soit à faire en duo avec conjoint(e) et/ou enfant, donc :
 
 - le jeu doit être fun, évidemment
-- le jeu doit être multijoueur local, split screen ou LAN : pas de multijoueur en ligne uniquement (les serveurs seront probablement hors-ligne...)
+- le jeu doit être multijoueur local, split screen ou LAN : pas de multijoueur en ligne uniquement (les serveurs seront probablement hors-ligne depuis...)
 - pas de jeu solo "hotseat" où on joue chacun son tour (ça marche avec tous les jeux solo), uniquement du versus et du coop ; les multi hotseat versus prévus pour sont acceptés, comme Heroes of M&M, Advance Wars, etc.
 
-Je mets en vrac les séries, faites un croisement avec les meilleurs épisodes des séries et les meilleures portages des jeux pour le moment.
+Je mets en vrac les séries, faites un croisement avec les meilleurs épisodes des séries et les meilleures portages des jeux.
 
 ## Coop
 

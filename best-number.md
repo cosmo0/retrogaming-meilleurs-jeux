@@ -1,7 +1,9 @@
-# Les meilleurs numéros
+# ![Les meilleurs numéros](images/number.png)
 
-Les meilleurs numéros/versions des suites comportant de multiples épisodes (au moins 3) mais pas forcément tous indispensables.  
-Le but n'est pas de donner une réponse définitive "il suffit de jouer à cet épisode", mais plutôt de pointer les plus complets, les plus équilibrés, les plus emblématiques, etc.  
+Les meilleurs numéros/versions des suites comportant de multiples épisodes (au moins 3) mais pas forcément tous indispensables.
+
+Le but n'est pas de donner une réponse définitive "il suffit de jouer à cet épisode", mais plutôt de pointer les plus complets, les plus équilibrés, les plus emblématiques, etc.
+
 L'objectif est d'aider les gens qui ont entendu parler d'une série mais n'ont jamais joué à un seul épisode de s'orienter rapidement vers le meilleur épisode.
 
 **Ace Combat**  

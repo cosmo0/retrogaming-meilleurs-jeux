@@ -1,4 +1,16 @@
-# Les meilleurs jeux arcade
+# ![Les meilleurs jeux arcade](images/arcade.jpg)
+
+Il y a deux listes : une dédiée aux jeux facilement émulables, notamment sur Raspberry Pi ; et une autre dédiée à la totalité des jeux, parfois très difficilement émulables sans avoir une borne qui possède des contrôles dédiés.
+
+Les jeux sont découpés par période, grossièrement :
+
+- les débuts et l'expérimentation, jusqu'en 1984
+- la définition des styles et l'amélioration technique, jusqu'en 1989
+- le perfectionnement et la maîtrise, et les débuts de la 3D polygonale, jusqu'en 1999
+- la systématisation des sorties simultanées sur console, depuis 2000
+
+Les jeux arcade ont la particularité de sortir avec des objectifs différents : certains sont très impressionnants techniquement, avec des bornes spécifiques, mais coûtent cher à jouer. D'autres servent de jeu "tout venant" et utilisent des hardwares génériques.  
+C'est pourquoi la même année peuvent sortir OutRun avec des effets pseudo-3D impressionnants dans une borne en forme de voiture quasiment taille réelle, et Bubble Bobble avec des graphismes 8 bits, et personne n'est choqué.
 
 ## Les meilleurs jeux pour l'émulation
 

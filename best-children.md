@@ -1,4 +1,4 @@
-# Les meilleurs jeux pour enfants
+# ![Les meilleurs jeux pour enfants](images/children.png)
 
 Les jeux adaptés aux enfants, pour leur faire découvrir les jeux qui vous ont marqué à leur âge. Je me base sur les critères PEGI pour la violence et les éléments effrayants, et on rajoute le besoin de savoir lire, et la complexité du jeu.
 

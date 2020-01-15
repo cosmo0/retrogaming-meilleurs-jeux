@@ -1,4 +1,4 @@
-# Les meilleurs jeux sur ordinateur
+# ![Les meilleurs jeux sur ordinateur](images/computers.jpg)
 
 Avant la dominance du standard IBM PC (duquel proviennent les PC actuels), les ordinateurs ont tous des formats propriétaires, ce qui génère un grand nombre de machines incompatibles les unes avec les autres.
 

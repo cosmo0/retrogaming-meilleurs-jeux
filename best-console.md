@@ -1,4 +1,4 @@
-# Les meilleurs jeux console
+# ![Les meilleurs jeux console](images/consoles.jpg)
 
 L'objectif est de vous aider à avoir un aperçu de la ludothèque de toutes les consoles que vous ne connaissez pas bien ou pas du tout :
 
@@ -6,19 +6,17 @@ L'objectif est de vous aider à avoir un aperçu de la ludothèque de toutes les
 - des top 20 pour les machines populaires
 - des top moins si il n'y a pas assez de bons jeux
 
-N'hésitez pas à poster vos avis ; les listes évoluent constamment, et c'est toujours intéressant de discuter de ses choix.  
-N'hésitez pas non plus à demander ou poster une liste pour une console totalement inconnue et improbable, l'intérêt étant justement de découvrir des choses.  
-Enfin, vous pouvez parfaitement parler de jeux "à l'unité", ce n'est pas (seulement) le topic des top.
+N'hésitez pas à me donner vos avis ; les listes évoluent constamment, et c'est toujours intéressant de discuter de ses choix.  
+N'hésitez pas non plus à demander ou poster une liste pour une console totalement inconnue et improbable, l'intérêt étant justement de découvrir des choses.
 
 Les critères :
 
-- doit être encore fun à jouer aujourd'hui
-- le jeu doit être connu et reconnu ; il y a une section "pépites méconnues" plus bas pour les bons jeux inconnus
+- le jeu doit être encore fun à jouer aujourd'hui
+- le jeu doit être connu et reconnu ; il y a une page "pépites méconnues" pour les bons jeux inconnus
 - les séries sont acceptées comme une seule entrée pour laisser de la place (ex : Mario, Sonic)
-- les jeux doivent être bons sur le système, même si il est meilleur sur une autre plateforme
+- le jeu doit être bon sur le système, même si il est meilleur sur une autre plateforme
 - cependant, les bons jeux portés sur beaucoup de plateformes sont limités aux meilleures versions, pour éviter de voir Street Fighter 2 ou Prince of Persia partout par exemple
 - si possible, le top d'une console doit être varié, et pas composé à 90% de RPG ou de shmups
-- un minimum d'objectivité est attendu : si vous n'aimez pas un jeu mais qu'il est plébiscité, il va quand-même dans la liste
 
 ## Génération 1
 

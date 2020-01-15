@@ -1,4 +1,4 @@
-# Les meilleurs jeux par genre
+# ![Les meilleurs jeux par genre](images/genre.jpg)
 
 Les meilleurs jeux par genre, indépendamment de la plateforme.
 

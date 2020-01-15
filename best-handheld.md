@@ -1,6 +1,6 @@
-# Les meilleurs jeux portables
+# ![Les meilleurs jeux portables](images/handhelds.png)
 
-[b]Nintendo Gameboy[/b] (1989)
+**Nintendo Gameboy** (1989)
 
 - Castlevania (II, Adventure, Legends)
 - Donkey Kong Land (1, 2, 3)
@@ -16,7 +16,7 @@
 - Wario Land (1, 2)
 - Zelda Link's Awakening
 
-[b]Atari Lynx[/b] (1989)
+**Atari Lynx** (1989)
 
 - Batman Returns
 - Blue Lightning
@@ -32,7 +32,7 @@
 - Warbirds
 - Zarlor's Mercenary
 
-[b]Sega Game Gear[/b] (1990)
+**Sega Game Gear** (1990)
 
 - Aladdin
 - Ax Battler - A Legend of Golden Axe
@@ -50,7 +50,7 @@
 - Super Columns
 - Tails Adventures
 
-[b]Nintendo Gameboy Color[/b] (1998)
+**Nintendo Gameboy Color** (1998)
 
 - Dragon Warrior (Dragon Quest) (1, 2, 3)
 - Mario Tennis
@@ -64,7 +64,7 @@
 - Wario Land (2, 3)
 - Zelda (Oracle of Age, Oracle of Seasons)
 
-[b]SNK NeoGeo Pocket/Color[/b] (1998)
+**SNK NeoGeo Pocket/Color** (1998)
 
 - Biomotor Unitron
 - Faselei
@@ -79,7 +79,7 @@
 - Sonic The Hedgehog Pocket Adventure
 - The Last Blade
 
-[b]Bandai WonderSwan[/b] (1999)
+**Bandai WonderSwan** (1999)
 
 - Beatmania
 - Blue Wing Blitz
@@ -99,7 +99,7 @@
 - Tane Wo Maku Tori
 - Tetris
 
-[b]Nintendo Gameboy Advance[/b] (2001)
+**Nintendo Gameboy Advance** (2001)
 
 - Advance Wars (1, 2)
 - Boktai (1, 2)
@@ -122,7 +122,7 @@
 - Wario Ware Inc
 - Zelda (Link to the Past, Minish Cap)
 
-[b]Nintendo DS[/b] (2004)
+**Nintendo DS** (2004)
 
 - Advance Wars (Dual Strike, Dark Conflict)
 - Castlevania (Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia)
@@ -143,7 +143,7 @@
 - Professeur Layton
 - Zelda (Spirit Tracks, Phantom Hourglass)
 
-[b]Sony PSP[/b] (2004)
+**Sony PSP** (2004)
 
 - Crush
 - DBZ Shin Budokai
