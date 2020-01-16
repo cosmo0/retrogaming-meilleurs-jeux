@@ -207,6 +207,15 @@ La version Megadrive est l'originale, et supérieure en tous points à la versio
 **Micro Machines 2**  
 La version Megadrive est supérieure à tous les niveaux à la version SNES.
 
+**Might & Magic**  
+Les deux premiers épisodes sont plutôt à jouer sur console, les suivants sur plutôt sur ordinateur.
+
+- 1 : sur ordinateur, préférez la version DOS. La version NES a de meilleurs graphismes et une mini-map, mais quelques manques. Il existe un remake sur PC Engine CD mais jamais traduit.
+- 2 : sur ordinateur, préférez la version Amiga. Sur console, préférez la version SNES, légèrement censurée mais un peu plus jolie que la version Megadrive. A noter que la version Super Famicom (Japonaise) est totalement différente, avec d'autres graphismes, d'autres musiques, et un système de combat différent.
+- 3 : sur ordinateur, préférez la version DOS. Sur console, préférez la version SNES, qui supporte la souris, ou PC Engine CD, avec de meilleures musiques.
+
+Les épisodes suivants ne sont sortis que sur PC (DOS puis Windows).
+
 **Mortal Kombat**  
 La version arcade est l'originale, et la référence.  
 La version Megadrive est supérieure à la version SNES, mais la version Mega CD est encore meilleure.  
@@ -423,7 +432,7 @@ La version SNES est honnête malgré les concessions techniques.
 La version 3DO est un remake complet, et largement supérieur même si très différent.
 
 **Wizardry (série)**  
-Encore une série avec beaucoup de versions.
+Encore une série avec beaucoup de versions, dont beaucoup ne sont sorties qu'au Japon.
 
 - Les épisodes 1 à 7 sont disponibles sur DOS dans la compilation Ultimate Wizardry Archive.
 - 1/2/3 : préférez la version Playstation/Saturn (Llylgamyn Saga) ou même, étonnamment, la version SNES (Story of Llylgamyn) qui lui est supérieure.
