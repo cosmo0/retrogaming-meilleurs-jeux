@@ -2,11 +2,97 @@
 
 L'idée est d'essayer de retracer l'histoire des jeux vidéo, avec les origines, les références, les influences, etc, mais sans forcément rentrer dans le détail.
 
-L'objectif est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres indispensables** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui d'ailleurs, mais surtout les **jeux les plus influents**.
-
 Les historiques sont divisés grossièrement par genre, mais tout se mélange un peu, avec des jeux qui influencent ou créent d'autres genres, des jeux influents mais d'un genre unique, des jeux qui mélangent plusieurs genres, etc. Ce n'est donc pas tant une stricte séparation qu'un moyen de faciliter la lecture.
 
-## Jeux occidentaux et jeux Japonais
+## Visite historique accélérée
+
+Vous voulez avoir un aperçu rapide de l'évolution des jeux de chaque genre ? Voici une petite sélection de quelques **titres représentatifs de leurs époques** qui vous permettront de mieux comprendre l'histoire.
+
+### Shmups
+
+- 1978 : Space Invaders (arcade)
+- 1981 : Galaga
+- 1981 : Defender
+- 1982 : Xevious
+- 1982 : Robotron
+- 1985 : Gradius
+- 1987 : R-Type
+- 1987 : After Burner II
+- 1995 : DonPachi
+
+### Aventure
+
+- 1977 : Zork
+- 1984 : King's Quest
+- 1987 : Maniac Mansion
+- 1987 : Shadowgate
+- 1988 : Snatcher
+- 1990 : The Secret of Monkey Island
+- 1993 : Myst
+- 1996 : YU-NO A Girl Who Chants Love...
+- 1997 : Blade Runner
+- 2005 : Fahrenheit
+
+### CRPG
+
+- 1980 : Rogue
+- 1981 : Wizardry
+- 1985 : Ultima IV
+- 1991 : Might & Magic III
+- 1997 : Diablo
+- 1997 : Fallout
+- 1999 : Planescape Torment
+- 2001 : Arcanum
+- 2002 : Morrowind
+- 2003 : Star Wars Knights of the Old Republic
+
+### JRPG
+
+- 1984 : Tower of Druaga
+- 1984 : Hydlide
+- 1986 : The Legend of Zelda
+- 1986 : Dragon Quest
+- 1989 : Phantasy Star II
+- 1991 : Final Fantasy IV
+- 1993 : Secret of Mana
+- 1997 : Final Fantasy VII
+- 2000 : Dragon Quest VII
+- 2001 : Final Fantasy X
+
+### TRPG
+
+- 1991 : Langrisser / Warsong
+- 1992 : Shining Force
+- 1995 : Tactics Ogre
+- 1996 : Vandal Hearts
+- 1997 : Final Fantasy Tactics
+- 1999 : Front Mission 3
+- 2003 : Fire Emblem Blazing Blade
+- 2003 : Disgaea
+
+### Plate-forme
+
+### Combat
+
+### Shooters
+
+### Stratégie
+
+### Puzzle
+
+### Sport
+
+### Course
+
+### Simulation
+
+---
+
+## Histoire détaillée
+
+L'objectif ici est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres indispensables** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui d'ailleurs, mais surtout les **jeux les plus influents**.
+
+### Jeux occidentaux et jeux Japonais
 
 On notera dans beaucoup de genres une distinction forte entre les jeux occidentaux et les jeux Japonais. La distinction s'explique avec deux facteurs principaux : les différences culturelles, mais aussi les différences techniques des supports utilisés.
 
@@ -22,7 +108,7 @@ Enfin, on notera également une simple préférence pour certains types de jeux 
 
 ## Shmups
 
-Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux qui marquent vraiment un tournant sont **Space Invaders**, **Gradius** qui marque l'arrivée des powerups, et **Batsugun SP** qui amorce les bullet hell.
+Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux qui marquent vraiment un tournant sont **Space Invaders**, **Gradius** qui marque l'arrivée des powerups, et **Batsugun SP** qui amorce les bullet hell. Le genre tombe en désuétude avec l'arrivée de la 3D, et ne plaît plus qu'aux fans les plus hardcore.
 
 **Spacewar!** (1962) est **un des premiers jeux vidéo** jamais créés. C'est un shoot multijoueur, où les vaisseaux se dirigent comme dans Asteroids, et est étonnamment complexe : les joueurs doivent gérer leurs munitions, leur carburant, et la gravité des étoiles. Il a été développé sur PDP-1, un "mini-ordinateur" d'environ 2 mètres de haut et vendu à 50 exemplaires. Il n'était évidemment disponible qu'aux quelques académiciens et chercheurs qui avaient accès à cette machine, mais son influence est considérable, et sa popularité non négligeable.
 
@@ -133,6 +219,8 @@ Plusieurs jeux console reprennent le concept, notamment **Nam 1975** (1990, SNK)
 ## Jeux d'aventure
 
 Tout comme les shmups, l'origine des jeux d'aventure peut être retracée aux ordinateurs "mainframe" de plusieurs tonnes trouvables dans les universités et centres de recherche. Leur disponibilité est donc très réduite, mais leur influence est tout aussi considérable.
+
+Les jeux d'aventure ont suivi une évolution assez directe depuis les jeux purement textuels jusqu'aux point & click des années 90, puis tombe à l'abandon dans les années 2000. Il reviendra sous la forme d'histoires interactives à la Telltale, de "walking simulators", et de puzzles games type "escape the room".
 
 ## Jeux textuels, point & click
 
@@ -263,7 +351,7 @@ Les CRPG les plus influents au début sont **Wizardry**, un dungeon crawler où 
 
 :star: **Fable** (2004, Xbox) marquera les débuts de la **simplification** et de la volonté de **rendre accessible** le genre : **marqueurs sur la carte** et **fil d'ariane** pour guider le joueur, autant de choses décriées à sa sortie et repris par tous les jeux depuis.
 
-A voir aussi : **Betrayal at Krondor** (1993, DOS), **Arcanum** (2001, Windows), **Morrowind** (2002, Windows), **Star Wars Knights of the Old Republic** (2003, Xbox), **Vampire The Masquerade Bloodlines** (2004, Windows)
+A voir aussi : **Eye of the Beholder** (1991, DOS), **Betrayal at Krondor** (1993, DOS), **Arcanum** (2001, Windows), **Morrowind** (2002, Windows), **Star Wars Knights of the Old Republic** (2003, Xbox), **Vampire The Masquerade Bloodlines** (2004, Windows)
 
 ### RPG Japonais (JRPG)
 
