@@ -1,11 +1,11 @@
 # Plate-forme
 
-## Hop n B
+## Hop n Bop
 
 Jump Bug
 Donkey Kong
 Pac-Land
-Super Mario Brosop
+Super Mario Bros
 
 ## Action, Run & gun
 

@@ -111,5 +111,4 @@ Enfin, on notera également une simple **préférence pour certains types de jeu
 - [Shoot'Em Up](history/shmup.md)
 - [Shooters, FPS, TPS](history/shooter.md)
 - [Simulation](history/simulation.md)
-- [Sport](history/sports.md)
 - [Strategy](history/strategy.md)
