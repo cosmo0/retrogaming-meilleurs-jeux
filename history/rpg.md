@@ -10,7 +10,7 @@ Les JRPG aiment aussi intégrer des éléments d'autres styles de jeux : visual 
 
 ## RPG occidentaux (CRPG)
 
-A noter [un excellent livre, gratuit, extrêmement complet sur l'histoire des CRPG](https://crpgbook.wordpress.com/)
+A noter [un excellent livre, gratuit, extrêmement complet sur l'histoire des CRPG](https://crpgbook.wordpress.com/) dont une [copie basse définition est disponible ici](../ressources/crpg_book_lowdef.pdf).
 
 L'origine des CRPG et des jeux d'aventure est extrêmement mêlée, les jeux comme **Zork** ou **Colossal Cave Adventure** étant de grandes influences pour les premiers CRPG. A la fin des années 70 de nombreux CRPG, parfois très complexes, sont développés sur mainframe, mais ne sont bien sûr pas exploitables commercialement, étant confinés au domaine académique.
 
