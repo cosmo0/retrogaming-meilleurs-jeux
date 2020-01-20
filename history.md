@@ -86,7 +86,7 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ## Histoire détaillée
 
-L'objectif ici est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres majeurs** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui, mais surtout les **jeux les plus influents**.
+L'objectif ici est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres majeurs** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui, mais surtout les **jeux les plus innovants**. Les **jeux populaires mais qui n'inventent rien** n'ont donc pas d'étoile.
 
 ### Jeux occidentaux et jeux Japonais
 
