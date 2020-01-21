@@ -2,13 +2,17 @@
 
 Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux qui marquent vraiment un tournant sont **Space Invaders**, **Gradius** qui marque l'arrivée des powerups, et **Batsugun SP** qui amorce les bullet hell. Le genre tombe en désuétude avec l'arrivée de la 3D, et ne plaît plus qu'aux fans les plus hardcore.
 
+## Les débuts de l'arcade
+
 **Spacewar!** (1962) est **un des premiers jeux vidéo** jamais créés. C'est un shoot multijoueur, où les vaisseaux se dirigent comme dans Asteroids, et est étonnamment complexe : les joueurs doivent gérer leurs munitions, leur carburant, et la gravité des étoiles. Il a été développé sur PDP-1, un "mini-ordinateur" d'environ 2 mètres de haut et vendu à 50 exemplaires. Il n'était évidemment disponible qu'aux quelques académiciens et chercheurs qui avaient accès à cette machine, mais son influence est considérable, et sa popularité non négligeable.
 
 **Computer Space** (1971, Syzygy) est globalement une repompe simplifiée de Spacewar! : il retire les munitions et le carburant, et rajoute des **ennemis qui tirent** sur le joueur. C'est le **premier jeu vidéo commercial**, et la **première borne d'arcade**. Il n'a pas été un succès retentissant, mais a lancé les idées à la fois des jeux vidéo en tant que produit commercial, et des bornes d'arcade avec hardware dédié. Le concept sera repris et amélioré, avec succès cette fois, dans **Asteroids** (1979, Atari).
 
+**Gun Fight / Western Gun** (1975, Taito) est très peu connu, mais c'est non seulement le **premier véritable twin stick shooter** (un contrôle pour le personnage, un contrôle pour orienter le tir), le **premier jeu avec des armes réelles**, et le **premier jeu qui fait s'affronter des figures humaines**, mais aussi le **premier jeu d'arcade avec un microprocesseur** !
+
 ## Shmups verticaux et horizontaux
 
-:star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. C'est aussi le premier jeu vidéo qui aura **de nombreux clones**.
+:star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. Son côté addictif peut être résumé à une caractéristique : il est **impossible de gagner**, le jeu devenant de plus en plus dur, le but est uniquement d'avoir un score le plus haut possible.
 
 **Galaxian** (1979, Namco) reprend le principe de Space Invaders, et y ajoute des **ennemis qui "cassent" la formation** pour descendre sur le joueur, avec des **ennemis aux comportements différents**, et des **tableaux différents** ; sa suite :star: **Galaga** (1981), similaire mais plus moderne et dynamique, est bien plus connue.
 
@@ -54,15 +58,15 @@ Dérivés des shmups, les twin stick shooters sont caractérisés notamment par 
 Le genre a connu un certain succès dans les années 80, puis est totalement tombé à l'abandon jusqu'à l'apparition des consoles à double stick standards, notamment sur la génération PS3/Xbox 360 où le genre est revenu en force.  
 A noter que "twin stick shooter" est une appellation récente apparue car on utilise les deux sticks analogiques des consoles modernes ; les jeux plus anciens n'utilisaient pas forcément deux sticks.
 
-Les tous premiers shmups sont en fait déjà une "forme primitive" des twin stick shooters : **Spacewars!**, **Computer Space** et **Asteroids** permettent déjà de se déplacer librement et de tirer à 360°, de même que **Bosconian**, qui y rajoute une composante d'exploration.
+**Sheriff** (1979, Nintendo) prend le modèle de Gun Fight (1975) et y ajoutera la possibilité de **se déplacer librement**.
 
-**Gun Fight / Western Gun** (1975, Taito) est très peu connu, mais c'est le **premier véritable twin stick shooter** (un contrôle pour le personnage, un contrôle pour orienter le tir), le **premier jeu avec des armes réelles**, et le **premier jeu qui fait s'affronter des humains**.
+**Berzerk** (1980, Atari) est un des premiers jeux (mais pas le premier) avec de la **synthèse vocale**, et des **salles générées aléatoirement**, et bien qu'il n'utilise **qu'un seul stick**, il sera une grosse inspiration pour d'autres jeux du genre.
 
-**Sheriff** (1979, Nintendo) y ajoutera la possibilité de **se déplacer librement**.
+:star: **Robotron 2084** (1982, Williams) est le **premier jeu populaire** dans le genre. **Smash TV** (1990, Williams), autre grand succès, repompe totalement la formule mais dans un environnement dystopique.
 
-**Berzerk** (1980, Atari) est un des premiers jeux (mais pas le premier) avec de la **synthèse vocale**, et a été une grosse influence sur :star: **Robotron 2084** (1982, Williams), qui est le **premier jeu populaire** dans le genre. **Smash TV** (1990, Williams), autre grand succès, repompe totalement la formule mais dans un environnement dystopique.
+**Dandy** (1983, Atari, Atari 8 bits) mélange des **donjons labyrinthiques** de RPG (ou de Pac-Man, au choix) avec un gameplay de twin stick shooter, le joueur pouvant tirer dans 8 directions. Certains monstres sont placés dès l'entrée dans une pièce, et d'autres sont **créés par un "générateur de monstres"** qui doit être détruit.
 
-:star: **Gauntlet** (1985, Atari) reprend le concept mais en mode RPG/hack & slash medieval fantastique, et c'est le premier jeu du genre à être **jouable à 4 joueurs en simultané**.
+:star: **Gauntlet** (1985, Atari) copie Dandy au point d'en subir un procès ; c'est le premier jeu du genre à être **jouable à 4 joueurs en simultané**.
 
 **Commando** (1985, Capcom) est un des premiers jeux du genre à utiliser un **environnement moderne et réaliste** suite à la sortie et au succès du film Rambo la même année.
 
