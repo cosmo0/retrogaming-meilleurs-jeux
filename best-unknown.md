@@ -1,5 +1,7 @@
 # ![Les meilleurs jeux méconnus](images/unknown.jpg)
 
+**LISTE EN CONSTRUCTION**
+
 Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas vraiment dans le "top" mais valent quand-même le coup d'être joués et découverts.
 
 ## NES

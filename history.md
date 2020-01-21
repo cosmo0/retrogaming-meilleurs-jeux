@@ -88,19 +88,6 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 L'objectif ici est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres majeurs** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui, mais surtout les **jeux les plus innovants**. Les **jeux populaires mais qui n'inventent rien** n'ont donc pas d'étoile.
 
-### Jeux occidentaux et jeux Japonais
-
-On notera dans beaucoup de genres une distinction forte entre les jeux occidentaux et les jeux Japonais. La distinction s'explique avec deux facteurs principaux : les **différences culturelles**, mais aussi les **différences techniques** des supports utilisés.
-
-Niveau culturel, outre les **sensibilités différentes**, au niveau de la violence et du sexe par exemple, il y a aussi les **influences des produits culturels et commerciaux** disponibles et populaires durant certaines périodes. Les mangas sont un exemple évident : ils sont très populaires au Japon dès les années 60, mais virtuellement inconnus aux USA avant le milieu des années 90, et très peu populaire en Europe à cette période, excepté en France ; par conséquent, certains jeu Dragon Ball Z sont sortis uniquement au Japon et en France. L'**influence des mangas sur les jeux vidéo Japonais** est évidente dès le début, aussi bien dans le style graphique que dans les histoires, alors que l'occident reste très ancré dans ses propres traditions pendant longtemps.
-
-De même, les "jeux de rôle" sont populaires en occident depuis des dizaines (voire des centaines) d'années, avec par exemple les reconstitutions médiévales ; les romans d'heroic fantasy comme Le Seigneur des Anneaux sont également très populaires dans les années 60. Donjons & Dragons, le premier jeu de rôle papier commercial, est sorti en 1974 aux USA et connaît un succès toujours grandissant à la fin des années 70 et au début des années 80, mais n'est pas traduit au Japon avant 1985 et n'y connaîtra pas le succès avant plusieurs années, alors que les Japonais ont déjà créé leurs propres styles de jeux de rôle. D&D a donc une influence énorme sur les RPG occidentaux, mais moins importante sur les RPG Japonais.
-
-Par ailleurs, **les machines utilisées divergent radicalement en occident et au Japon**. Outre les marques présentes uniquement sur certains continents, pour afficher des caractères Japonais de manière lisible, les PC occidentaux de l'époque, avec leur résolution généralement de 320x200, ne suffisent pas, et même si l'Apple II est relativement courant dans un premier temps, avec une version Japonaise en 1979, il sera assez vite remplacé par des machines locales : le NEC PC-8001 en 1979 mais surtout le PC-88 en 1981, ainsi que ses suites (PC-98) et concurrents (notamment Sharp et Fujitsu). Les PC Japonais ont donc, dès le début, des résolutions largement supérieures, généralement du 640x400. Ils peuvent afficher des images de bien meilleure qualité, et ne s'en privent pas.  
-Les Japonais ont ainsi accès à beaucoup de jeux occidentaux, notamment sur Apple II ou avec des portages sur machines locales, mais l'inverse n'est pas vrai, et **énormément de jeux Japonais ne sortiront jamais en occident**, particulièrement à cause de la complexité de localisation.
-
-Enfin, on notera également une simple **préférence pour certains types de jeux** ou sujets d'un côté ou de l'autre de l'océan. Par exemple, les shmups sont créés en très large majorité par des studios Japonais, alors que les simulations sont plus appréciées en occident.
-
 ### Historiques par genre
 
 - [Aventure et visual novels](history/adventure.md)
@@ -113,3 +100,16 @@ Enfin, on notera également une simple **préférence pour certains types de jeu
 - [Shooters, FPS, TPS](history/shooter.md)
 - [Simulation](history/simulation.md)
 - [Strategy](history/strategy.md)
+
+### Jeux occidentaux et jeux Japonais
+
+On notera dans beaucoup de genres une distinction forte entre les jeux occidentaux et les jeux Japonais. La distinction s'explique avec deux facteurs principaux : les **différences culturelles**, mais aussi les **différences techniques** des supports utilisés.
+
+Niveau culturel, outre les **sensibilités différentes**, au niveau de la violence et du sexe par exemple, il y a aussi les **influences des produits culturels et commerciaux** disponibles et populaires durant certaines périodes. Les mangas sont un exemple évident : ils sont très populaires au Japon dès les années 60, mais virtuellement inconnus aux USA avant le milieu des années 90, et très peu populaire en Europe à cette période, excepté en France ; par conséquent, certains jeu Dragon Ball Z sont sortis uniquement au Japon et en France. L'**influence des mangas sur les jeux vidéo Japonais** est évidente dès le début, aussi bien dans le style graphique que dans les histoires, alors que l'occident reste très ancré dans ses propres traditions pendant longtemps.
+
+De même, les "jeux de rôle" sont populaires en occident depuis des dizaines (voire des centaines) d'années, avec par exemple les reconstitutions médiévales ; les romans d'heroic fantasy comme Le Seigneur des Anneaux sont également très populaires dans les années 60. Donjons & Dragons, le premier jeu de rôle papier commercial, est sorti en 1974 aux USA et connaît un succès toujours grandissant à la fin des années 70 et au début des années 80, mais n'est pas traduit au Japon avant 1985 et n'y connaîtra pas le succès avant plusieurs années, alors que les Japonais ont déjà créé leurs propres styles de jeux de rôle. D&D a donc une influence énorme sur les RPG occidentaux, mais moins importante sur les RPG Japonais.
+
+Par ailleurs, **les machines utilisées divergent radicalement en occident et au Japon**. Outre les marques présentes uniquement sur certains continents, pour afficher des caractères Japonais de manière lisible, les PC occidentaux de l'époque, avec leur résolution généralement de 320x200, ne suffisent pas, et même si l'Apple II est relativement courant dans un premier temps, avec une version Japonaise en 1979, il sera assez vite remplacé par des machines locales : le NEC PC-8001 en 1979 mais surtout le PC-88 en 1981, ainsi que ses suites (PC-98) et concurrents (notamment Sharp et Fujitsu). Les PC Japonais ont donc, dès le début, des résolutions largement supérieures, généralement du 640x400. Ils peuvent afficher des images de bien meilleure qualité, et ne s'en privent pas.  
+Les Japonais ont ainsi accès à beaucoup de jeux occidentaux, notamment sur Apple II ou avec des portages sur machines locales, mais l'inverse n'est pas vrai, et **énormément de jeux Japonais ne sortiront jamais en occident**, particulièrement à cause de la complexité de localisation.
+
+Enfin, on notera également une simple **préférence pour certains types de jeux** ou sujets d'un côté ou de l'autre de l'océan. Par exemple, les shmups sont créés en très large majorité par des studios Japonais, alors que les simulations sont plus appréciées en occident.

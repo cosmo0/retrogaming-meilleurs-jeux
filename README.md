@@ -17,7 +17,7 @@ Cela devrait aller sans dire, mais **ces listes sont subjectives**. J'ai essayé
 - [Les meilleurs jeux par ordinateur](best-computer.md)
 - [Les meilleurs jeux arcade](best-arcade.md)
 - [Les pépites méconnues](best-unknown.md)
-- [Les meilleurs jeux multijoueurs](best-multiplayer.md)
+- [Les meilleurs jeux multijoueur](best-multiplayer.md)
 - [Les meilleures versions des jeux souvent portés](best-version.md)
 - [Les meilleurs numéros des suites](best-number.md)
 - [Les meilleurs jeux par genre](best-genre.md)

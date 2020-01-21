@@ -1,6 +1,10 @@
 # ![Les meilleurs jeux arcade](images/arcade.jpg)
 
-Il y a deux listes : une dédiée aux jeux facilement émulables, notamment sur Raspberry Pi ; et une autre dédiée à la totalité des jeux, parfois très difficilement émulables sans avoir une borne qui possède des contrôles dédiés.
+Il y a deux listes : une dédiée aux jeux facilement émulables, notamment sur Raspberry Pi ; et une autre dédiée à la totalité des jeux, parfois un peu pénibles à configurer, parfois très difficilement émulables sans avoir une borne qui possède des contrôles dédiés.  
+La liste pour l'émulation n'a donc pas de : trackball, light gun, stick rotatif, spinner, volant/pédales, double sticks...
+
+- [Les meilleurs jeux pour l'émulation](#les-meilleurs-jeux-pour-lémulation)
+- [Les meilleurs jeux dans l'absolu](#les-meilleurs-jeux-dans-labsolu)
 
 Les jeux sont découpés par période, grossièrement :
 
@@ -9,8 +13,7 @@ Les jeux sont découpés par période, grossièrement :
 - le perfectionnement et la maîtrise, et les débuts de la 3D polygonale, jusqu'en 1999
 - la systématisation des sorties simultanées sur console, depuis 2000
 
-Les jeux arcade ont la particularité de sortir avec des objectifs différents : certains sont très impressionnants techniquement, avec des bornes spécifiques, mais coûtent cher à jouer. D'autres servent de jeu "tout venant" et utilisent des hardwares génériques.  
-C'est pourquoi la même année peuvent sortir OutRun avec des effets pseudo-3D impressionnants dans une borne en forme de voiture quasiment taille réelle, et Bubble Bobble avec des graphismes 8 bits, et personne n'est choqué.
+Les jeux arcade ont la particularité de sortir avec des objectifs différents : certains sont très impressionnants techniquement, avec des bornes spécifiques, mais coûtent cher à jouer. D'autres servent de jeu "tout venant" et utilisent des hardwares génériques et peu coûteux. C'est pourquoi la même année peuvent sortir OutRun avec des effets pseudo-3D impressionnants dans une borne en forme de voiture quasiment taille réelle, et Bubble Bobble avec des graphismes 8 bits, et personne n'est choqué : c'est comme si ces jeux sortaient sur deux consoles différentes.
 
 ## Les meilleurs jeux pour l'émulation
 

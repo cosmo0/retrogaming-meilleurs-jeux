@@ -305,7 +305,7 @@ C'est aussi les balbutiements de la 3D (sur console en tout cas) avec des jeux c
 - Viewpoint
 - Windjammer
 
-**Sega Mega CD** (1991 - 13 jeux)
+**Sega Mega CD** (1991)
 
 - Dune
 - Earthworm Jim
