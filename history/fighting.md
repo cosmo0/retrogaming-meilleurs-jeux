@@ -2,28 +2,6 @@
 
 Sauf exception notée, la plupart des jeux de combat et beat'em up sont sortis sur arcade avant tout.
 
-## Beat'em Up
-
-Le genre a connu une vague de popularité à la fin des années 80 et au début des années 90, avant de s'arrêter brutalement face au succès des jeux de combat en versus, Street Fighter 2 en tête. Le genre connaît un renouveau récemment, notamment chez les indépendants, mais il n'y a pas grand-chose de novateur.
-
-Kung Fu Master/Spartan X (1984, Irem) : premier beat'em up, basique et répétitif
-
-Karateka (1984, Apple II) : combine combats versus et déplacements libres, ajoute une histoire
-
-Renegade (1986, Technos) : environnement urbain et persos racailles, histoire de vengeance, déplacements verticaux, combos
-
-Double Dragon (1987, Technos) : deux joueurs coopératif, armes temporaires ramassées, gros succès qui génère plein de copies
-
-Final Fight (1989, Capcom) : excellente technique, trois personnages différents, techniques plus complexes
-
-Golden Axe (1989, Sega) : environnement medfan Conan-style, coups spéciaux qui nettoient l'écran à base de magie à ramasser (repris par Streets of Rage), montures à chevaucher
-
-River City Ransom (1989, Technos, Famicom) : mélange RPG avec argent, monde à explorer, etc
-
-Teenage Mutant Ninja Turtles (1989, Konami) : 4 joueurs coop
-
----
-
 ## Fighting, versus
 
 Heavyweight Champ (1976, Sega) : premier jeu de combat rudimentaire, borne complexe
@@ -65,3 +43,25 @@ Bushido Blade (1998, Square) : combats réalistes
 Garou Mark of the Wolves (1999, SNK) : pinacle du jeu de combat SNK
 
 Super Smash Bros. (1999, Nintendo) : jeu de baston orienté fun : 4 joueurs, items et armes, personnages icôniques, pas de vie mais jeter en-dehors de l'arène, mêmes inputs basiques pour tous les persos, arènes très ouvertes et très verticales, arènes qui changent avec le temps
+
+---
+
+## Beat'em Up
+
+Le genre a connu une vague de popularité à la fin des années 80 et au début des années 90, avant de s'arrêter brutalement face au succès des jeux de combat en versus, Street Fighter 2 en tête. Le genre connaît un renouveau récemment, notamment chez les indépendants, mais il n'y a pas grand-chose de novateur.
+
+Kung Fu Master/Spartan X (1984, Irem) : premier beat'em up, basique et répétitif
+
+Karateka (1984, Apple II) : combine combats versus et déplacements libres, ajoute une histoire
+
+Renegade (1986, Technos) : environnement urbain et persos racailles, histoire de vengeance, déplacements verticaux, combos
+
+Double Dragon (1987, Technos) : deux joueurs coopératif, armes temporaires ramassées, gros succès qui génère plein de copies
+
+Final Fight (1989, Capcom) : excellente technique, trois personnages différents, techniques plus complexes
+
+Golden Axe (1989, Sega) : environnement medfan Conan-style, coups spéciaux qui nettoient l'écran à base de magie à ramasser (repris par Streets of Rage), montures à chevaucher
+
+River City Ransom (1989, Technos, Famicom) : mélange RPG avec argent, monde à explorer, etc
+
+Teenage Mutant Ninja Turtles (1989, Konami) : 4 joueurs coop

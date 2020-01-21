@@ -103,7 +103,7 @@ Enfin, on notera également une simple **préférence pour certains types de jeu
 ### Historiques par genre
 
 - [Aventure et visual novels](history/adventure.md)
-- [Combat et Beat'Em Up](history/combat.md)
+- [Combat et Beat'Em Up](history/fighting.md)
 - [Course](history/racing.md)
 - [Plate-forme](history/platform.md)
 - [Puzzle](history/puzzle.md)
