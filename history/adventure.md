@@ -20,13 +20,13 @@ Sauf exception, tous ces jeux d'aventure sont sortis sur les PC de l'époque.
 
 :star: **Déjà Vu** (1985) est le premier jeu qui permet de faire du **drag & drop**.
 
-:star: **Maniac Mansion** (1987) revoit l'interface avec un **système verbe/objet**, repris un peu partout ensuite.
+:star: **Maniac Mansion** (1987) est le premier jeu utilisant le **moteur SCUMM** réutilisé sur tous les jeux d'aventure Lucas Arts pendant des années, qui repense l'interface avec un **système verbe/objet**, repris un peu partout ensuite.
 
 **Shadowgate** (1987) est un jeu notable pour sa **grande difficulté**, avec des milliers de possibilités de mourir, et parfois **plusieurs solutions aux puzzles**.
 
 **Quest For Glory/Hero's Quest** (1989) se joue comme les autres jeux d'aventure Sierra, mais **inclut des éléments de RPG** : classes qui influent sur les quêtes accessibles et la résolution des puzzles, statistiques, expérience et niveaux, ainsi qu'un cycle jour/nuit et la nécessité de manger.
 
-:star: **The Secret of Monkey Island** (1990) est le premier jeu utilisant le **moteur SCUMM** réutilisé sur tous les jeux d'aventure Lucas Arts pendant des années. C'est aussi le premier jeu d'aventure où il est **impossible de perdre** (à une exception près), ce qui marque un changement radical dans l'approche de ces jeux. Enfin, il est parmi les premiers à avoir un **arbre de dialogue**.
+:star: **The Secret of Monkey Island** (1990) est le premier jeu d'aventure où il est **impossible de perdre** (à une exception près), ce qui marque un changement radical dans l'approche de ces jeux. Enfin, il est parmi les premiers à avoir un **arbre de dialogue**.
 
 :star: **Myst** (1993) introduit un concept de **narration environnementale sans texte** en étant **centré sur les puzzles**, et c'est le **premier jeu distribué uniquement sur CD-ROM**. C'est aussi un jeu qui contribue à changer la perception des "jeux vidéos pour enfants", en touchant aussi un **public plus large et plus âgé**.
 
