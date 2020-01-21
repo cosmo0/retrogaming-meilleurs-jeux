@@ -65,3 +65,5 @@ Golden Axe (1989, Sega) : environnement medfan Conan-style, coups spéciaux qui 
 River City Ransom (1989, Technos, Famicom) : mélange RPG avec argent, monde à explorer, etc
 
 Teenage Mutant Ninja Turtles (1989, Konami) : 4 joueurs coop
+
+Battletoads (1991, Rare, Famicom) : difficulté démente, mélange d'autres genre, pas seulement BTU

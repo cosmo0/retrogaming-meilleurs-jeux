@@ -40,6 +40,8 @@ Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux 
 
 :star: **R-Type** (1987, Irem) ne révolutionne rien, mais transforme un style de jeu traditionnellement extrêmement nerveux et basé sur les réflexes, en jeu **lent et méthodique**, et crée ainsi sa propre "branche".
 
+:star: **Contra** (1987, Konami) applique la formule de **tirs en continu** et d'**évitement de balles** propres aux shmups, et le place dans un contexte de **jeu de plateformes minimaliste**, et **crée ainsi le genre "run and gun"**, qui est caractérisé par cette concentration sur les tirs plutôt que l'aspect plate-formes.
+
 **Batsugun** (1993, Toaplan) et notamment sa "Special Version" (prototype non commercialisé) est généralement considéré comme étant l'origine du style **bullet hell/danmaku**, où l'on se concentre plus sur l'évitement des balles que viser les ennemis, avec notamment une **hitbox réduite** qui permet de se faufiler entre les balles. Il inspirera notamment :star: **DonPachi** (1995, Cave), et les jeux de la série **Touhou** (1997, divers).
 
 **Twinkle Star Sprites** (1996, SNK) est le premier jeu à proposer un **mode versus**, chose qui reste malheureusement assez rare, et des **éléments de puzzle game**.
