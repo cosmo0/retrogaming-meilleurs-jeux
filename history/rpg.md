@@ -211,3 +211,12 @@ Certains RPG que l'on qualifierait de "traditionnels" ont des combats qui corres
 A voir aussi : **Bahamut Lagoon** (1996, SNES), et les séries **Super Robot Wars**, **Suikoden**, **Front Mission**, **Disgaea**
 
 En occident, les jeux du genre sont plutôt inspirés par XCOM, et sont généralement plus orientés tactiques que RPG, à l'inverse des TRPG Japonais, ont plutôt des personnages génériques et "vides", et racontent rarement une histoire très passionnante. On notera surtout **Jagged Alliance** (1994), **Incubation** (1997), **Fallout Tactics** (2001), et **Freedom Force** (2002).
+
+## Sources
+
+- [Wikipedia](https://en.wikipedia.org/wiki/History_of_Western_role-playing_video_games)
+- [The CRPG Book Project](https://crpgbook.wordpress.com/)
+- [The History of Computer Role-PLaying Games (Gamasutra blog)](https://www.gamasutra.com/view/feature/132024/the_history_of_computer_.php)
+- [CRPG History Abridged (Gamasutra blog)](https://www.gamasutra.com/blogs/FelipePepe/20150625/244262/CRPG_History_Abridged__21_RPGs_that_brought_something_new_to_the_table.php)
+- [From D&D To FF7 (The Game Design Forum)](http://thegamedesignforum.com/features/rd_ff7_2.html)
+- [Hardcore Gaming 101](http://www.hardcoregaming101.net/)

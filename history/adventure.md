@@ -69,3 +69,13 @@ Les jeux d'aventure ont connu une évolution parallèle en occident et au Japon,
 :star: **YU-NO: A girl who chants love at the bound of this world** (1996) a une **histoire non linéaire**, avec des **univers parallèles** et du **voyage dans le temps**, et permet de **visualiser les branches de possibilités**, ce qui fait que **le public veut des histoires plus complexes** dans les visual novels. C'est un **jeu majeur du genre**, qui influencera la création de tous les suivants.
 
 **Ace Attorney** (2001, GBA), aussi appelé **Phoenix Wright** lors de sa localisation sur DS, relance l'intérêt pour le genre, et de nombreux visual novels sur DS connaîtront le succès, notamment **Professor Layton** (2007, DS)
+
+## Sources
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Adventure_game)
+- [A Brief History of Adventure Games (Giantbomb)](https://www.giantbomb.com/profile/gbrading/lists/a-brief-history-of-adventure-games/28894/)
+- [A Truly Graphic Adventure (Ars Technica)](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/)
+- [A Look At The History of Adventure Games (Nintendo Enthusiast)](https://gamnesia.nintendoenthusiast.com/articles-a-look-at-the-history-of-adventure-games-the-good-the-bad-and-the-future-o/)
+- [The Rise and Fall of Adventure Games (Digital Museum)](https://www.digitalgamemuseum.org/the-rise-and-fall-of-adventure-games/)
+- [The Past, Present and Future of Adventure Games (IGN)](https://www.ign.com/articles/2015/03/02/the-past-present-and-future-of-adventure-games)
+- [Hardcore Gaming 101](http://www.hardcoregaming101.net/)

@@ -113,3 +113,13 @@ Tant que la technologie du "light gun" n'était pas assez fiable pour les jeux d
 Plusieurs jeux console reprennent le concept, notamment **Nam 1975** (1990, SNK) et **Wild Guns** (1994, Natsume), mais avec un seul contrôle qui alterne entre déplacement et tir.
 
 **Terminator 2 Judgement Day** (1991, Midway) est le premier qui **déguise son joystick en arme**, ce qui sera copié par **Alien 3 The Gun** (1993, Sega).
+
+## Sources
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Shoot_%27em_up)
+- [Shmup Genre History (Fandom)](https://shmup.fandom.com/wiki/Category:Shmup_Genre_History)
+- [The Origin of the Shmup Genre (Gamasutra blog)](https://www.gamasutra.com/blogs/LukeMcMillan/20130206/186184/The_Origin_of_The_Shmup_Genre_A_Historical_Study.php)
+- [Endless Fire: A History of the Shmup (NullPointer)](http://www.nullpointer.co.uk/content/endless-fire-a-history-of-the-shmup/)
+- [Hardcore Gaming 101](http://www.hardcoregaming101.net/)
+- [Games That Defined the Shmups Genre (Racketboy)](http://www.racketboy.com/retro/games-that-defined-the-shmups-genre)
+- [Japan:History of Shooting Games (Shmups.eu)](https://shmups.eu/video/japan-history-of-shooting-game/)
