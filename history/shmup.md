@@ -4,7 +4,7 @@ Les shmups (shoot'em up) ont une histoire assez simple et "linéaire".
 
 Les jeux qui marquent vraiment un tournant sont **Space Invaders** qui popularise le genre ; **Defender** qui introduit le scrolling libre et **Scramble** qui introduit le scrolling forcé et les niveaux ; **Gradius** qui marque l'arrivée des powerups et armes multiples ; et **DonPachi** qui définit le sous-genre des bullet hell, le plus courant dans les shmups modernes.
 
-Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux de baston en arcade et des jeux solo conséquents sur console, et ne plaît plus qu'aux fans les plus hardcore, avec une poignée de développeurs qui améliorent la formule très lentement. Depuis les années 2000, le genre est surtout soutenu par des développeurs indépendants ou amateurs.
+Le genre stagne au début des années 90 malgré l'amélioration de la qualité, et les jeux deviennent de plus en plus difficiles. Avec l'arrivée d'autres genres populaires en arcade et des RPG sur console, les shmups ne plaisent plus qu'aux fans les plus acharnés, et sont relégués à un marché de niche, depuis lors surtout fourni par des développeurs indépendants.
 
 ## Les débuts de l'arcade
 
@@ -16,7 +16,7 @@ Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux
 
 ## Shmups verticaux et horizontaux
 
-:star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. Son côté addictif peut être résumé à une caractéristique : il est **impossible de gagner**, le jeu devenant de plus en plus dur, le but est uniquement d'avoir un score le plus haut possible.
+:star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Ce dernier n'est arrivé qu'un ou deux ans après la sortie du jeu, mais une fois le phénomène établi, il était possible de trouver des bornes Space Invaders absolument partout. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. Son côté addictif peut être résumé à une caractéristique : il est **impossible de gagner**, le jeu devenant de plus en plus dur, le but est uniquement d'avoir un score le plus haut possible.
 
 **Sky Raider** (1978, Atari) est un "proto-shmup" qui est le premier jeu avec un **scrolling scrolling vertical**.
 
@@ -46,7 +46,7 @@ Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux
 
 **Space Seeker** (1981, Taito) permet de **choisir un niveau**, et **alterne scrolling et shoot à la première personne**.
 
-:star: **Xevious** (1982, Namco) n'est que moyennement connu, mais est extrêmement influent, en mélangeant un **scrolling forcé vertical**, des **niveaux distincts visuellement**, des **arrière-plans détaillés** d'inspiration réaliste, **deux niveaux d'attaque** (sol/air), une **IA adaptative**, et des **boss de fin de niveau**. Ce n'est pas toujours le premier à créer chacune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la "formule de base" des shmups à venir.
+:star: **Xevious** (1982, Namco) est probablement le **second jeu majeur du genre**. Il mélange un **scrolling forcé vertical** avec des **arrière-plans détaillés d'inspiration réaliste** et pas seulement quelques étoiles, des **niveaux distincts visuellement** bien qu'ils utilisent tous le même environnement, **deux niveaux d'attaque** (sol/air), une **IA adaptative**, et des **boss de fin de niveau**. Il n'a inventé aucune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la **"formule de base" des shmups à venir**.
 
 **Zaxxon** (1982, Sega) est le premier shmup **isométrique**, style très peu fréquent dans le genre ; on pourra noter **Desert Falcon** (1987, Atari) ou **Viewpoint** (1992, Sammy).
 
@@ -56,7 +56,7 @@ Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux
 
 :star: **1942** (1984, Capcom) introduit le concept de **powerups** qui apparaissent suite à la destruction de certains ennemis.
 
-:star: **Gradius** (1985, Konami) est extrêmement influent, en combinant d'excellente manière bon nombre de concepts déjà existants, mais c'est surtout le premier qui a des **powerups réellement différents**, là où les précédents se contentaient d'améliorer la puissance de feu du joueur. Il laisse d'ailleurs le **choix des powerups**, permettant ainsi à chacun de jouer de la manière qu'il le souhaite. Sa difficulté très élevée nécessite de **mémoriser les apparitions des ennemis**, ce qui sera également repris par la plupart des shmups par la suite.
+:star: **Gradius** (1985, Konami) est le **troisième jeu le plus influent**, en combinant d'excellente manière bon nombre de concepts déjà existants, mais c'est surtout le premier qui a des **powerups réellement différents**, là où les précédents se contentaient d'améliorer la puissance de feu du joueur, et des **niveaux avec des ambiances différentes**. Il laisse d'ailleurs le **choix des powerups**, permettant ainsi à chacun de jouer de la manière qu'il le souhaite. Sa difficulté très élevée nécessite de **mémoriser les apparitions des ennemis**, ce qui sera également repris par la plupart des shmups par la suite.
 
 **TwinBee** (1985, Konami) est le premier jeu d'un genre depuis appelé **"cute'em up"** : un shoot'em up, mais mignon et rigolo. Il inspirera plusieurs successeurs, dont **Fantasy Zone** (1986, Sega), ou **Parodius** (1988, Konami).
 
@@ -66,17 +66,17 @@ Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux
 
 **Darius** (1986, Taito) utilise une borne impressionnante avec **trois écrans côte à côte**, et ses multiples embranchements permettent de **nombreuses fins**.
 
-:star: **R-Type** (1987, Irem) ne révolutionne rien, mais transforme un style de jeu traditionnellement extrêmement nerveux et basé sur les réflexes, en jeu **lent et méthodique**, et crée ainsi sa propre "branche".
+:star: **R-Type** (1987, Irem) est un autre **jeu majeur** avec un **énorme succès**. Bien qu'il ne révolutionne rien, il a un style graphique très particulier inspiré de HR Giger (Alien) avec des **boss énormes et uniques**, et il transforme le gameplay traditionnellement extrêmement nerveux et basé sur les réflexes, en jeu **lent et méthodique**, notamment avec la possibilité de **charger son tir**, ce qui lui donne un feeling unique.
 
 :star: **Contra** (1987, Konami) applique la formule de **tirs en continu** et d'**évitement de balles** propres aux shmups, et le place dans un contexte de **jeu de plateformes minimaliste**, et **définit ainsi le genre "run and gun"**, qui est caractérisé par cette concentration sur les tirs plutôt que l'aspect plate-formes.
 
-**Batsugun** (1993, Toaplan) et notamment sa "Special Version" (prototype non commercialisé) est généralement considéré comme étant **l'origine du style bullet hell/danmaku**, où l'on se concentre plus sur l'évitement des balles que viser les ennemis, avec notamment une **hitbox réduite** qui permet de se faufiler entre les balles.
+**Batsugun** (1993, Toaplan) et notamment sa "Special Version" (prototype non commercialisé) est généralement considéré comme étant **l'origine du style bullet hell/danmaku**, où l'on se concentre plus sur l'évitement des balles que viser les ennemis, avec notamment une **hitbox réduite** qui permet aux balles de toucher visuellement le vaisseau sans le détruire.
 
-:star: **DonPachi** (1995, Cave) explore plus avant la formule de Batsugun, et sera **une référence du bullet hell/danmaku/manic shooter** : **hitboxes réduites** à leur plus simple expression, barrage constant d'une **énorme quantité de tirs ennemis**, arme du joueur qui permet de basculer entre des **tirs larges** mais peu puissants ou des **tirs concentrés** qui font ralentir le vaisseau, etc.
+:star: **DonPachi** (1995, Cave) explore plus avant la formule de Batsugun, et sera **une référence du bullet hell/danmaku/manic shooter** : **hitboxes réduites** à leur plus simple expression, barrage constant d'une **énorme quantité de tirs ennemis**, arme du joueur qui permet de basculer entre des **tirs larges** mais peu puissants ou des **tirs concentrés** qui font ralentir le vaisseau, **boss à patterns** avec plusieurs phases, etc.
 
 **Twinkle Star Sprites** (1996, SNK) est le premier jeu à proposer un **mode versus**, chose qui reste malheureusement assez rare, et des **éléments de puzzle game**.
 
-**Radiant Silvergun** (1998, Treasure) est considéré comme un des meilleurs shmups jamais créés, et le **modèle des shmups modernes**. Il est suivi par **Ikaruga** (2001, Treasure), autre référence du genre, qui mélange du puzzle.
+:star: **Radiant Silvergun** (1998, Treasure) est considéré comme **un des meilleurs shmups jamais créés** : outre sa réalisation au top, il a **trois armes qui peuvent être combinées**, un moyen de **renvoyer les balles ennemies**, invente le **grazing/scratch** qui augmente le score en frôlant les balles, un **système d'expérience**, des morceaux de **puzzle game**, développe un **véritable scénario** présenté par des cinématiques, et est ainsi devenu le **modèle des shmups modernes**, comme **Ikaruga** (2001, Treasure), autre référence du genre.
 
 ---
 
