@@ -62,7 +62,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **Zanac** (1986, Compile) n'innove pas réellement, mais perfectionne un **système avancé de powerups** pour leur donner une identité propre, qui sera repris dans de nombreux shmups du développeur, dont la série **Aleste / Power Strike** (1988, Compile).
 
-**Star Soldier** (1986, Hudson Soft) introduit le concept d'un **"caravan mode"**, une course au high score très courte et technique, système souvent utilisé en compétition depuis.
+**Star Soldier Special Version** (1986, Hudson Soft, Famicom) introduit le concept d'un **"caravan mode"**, une course au high score très courte et technique, système souvent **utilisé en compétition** depuis.
 
 **Darius** (1986, Taito) utilise une borne impressionnante avec **trois écrans côte à côte**, et ses multiples embranchements permettent de **nombreuses fins**.
 
@@ -76,7 +76,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **Twinkle Star Sprites** (1996, SNK) est le premier jeu à proposer un **mode versus**, chose qui reste malheureusement assez rare, et des **éléments de puzzle game**.
 
-:star: **Radiant Silvergun** (1998, Treasure) est considéré comme **un des meilleurs shmups jamais créés** : outre sa réalisation au top, il a **trois armes qui peuvent être combinées**, un moyen de **renvoyer les balles ennemies**, invente le **grazing/scratch** qui augmente le score en frôlant les balles, un **système d'expérience**, des morceaux de **puzzle game**, développe un **véritable scénario** présenté par des cinématiques, et est ainsi devenu le **modèle des shmups modernes**, comme **Ikaruga** (2001, Treasure), autre référence du genre.
+:star: **Radiant Silvergun** (1998, Treasure, Saturn) est considéré comme **un des meilleurs shmups jamais créés** : outre sa réalisation au top, il a **trois armes qui peuvent être combinées**, un moyen de **renvoyer les balles ennemies**, invente le **grazing/scratch** qui augmente le score en frôlant les balles, un **système d'expérience**, des morceaux de **puzzle game**, développe un **véritable scénario** présenté par des cinématiques, et est ainsi devenu le **modèle des shmups modernes**, comme **Ikaruga** (2001, Treasure), autre référence du genre.
 
 ---
 

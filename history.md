@@ -65,14 +65,15 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 ### Shoot'Em Up (shmups)
 
 - 1978 : Space Invaders (arcade)
-- 1979 : Galaxian
-- 1981 : Defender
-- 1982 : Xevious
-- 1982 : Robotron
-- 1985 : Gradius
-- 1987 : R-Type
-- 1987 : After Burner II
-- 1995 : DonPachi
+- 1979 : Galaxian (arcade)
+- 1981 : Defender (arcade)
+- 1981 : Scramble (arcade)
+- 1982 : Xevious (arcade)
+- 1982 : Robotron (arcade)
+- 1985 : Gradius (arcade)
+- 1985 : Space Harrier (arcade)
+- 1987 : R-Type (arcade)
+- 1995 : DonPachi (arcade)
 
 ### Shooters, FPS, TPS
 
