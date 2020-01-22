@@ -1,12 +1,16 @@
 # Shmups
 
-Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux qui marquent vraiment un tournant sont **Space Invaders**, **Gradius** qui marque l'arrivée des powerups, et **Batsugun SP** qui amorce les bullet hell. Le genre tombe en désuétude avec l'arrivée de la 3D, et ne plaît plus qu'aux fans les plus hardcore.
+Les shmups (shoot'em up) ont une histoire assez simple et "linéaire".
+
+Les jeux qui marquent vraiment un tournant sont **Space Invaders** qui popularise le genre ; **Defender** qui introduit le scrolling libre et **Scramble** qui introduit le scrolling forcé et les niveaux ; **Gradius** qui marque l'arrivée des powerups et armes multiples ; et **DonPachi** qui définit le sous-genre des bullet hell, le plus courant dans les shmups modernes.
+
+Le genre tombe en désuétude au début des années 90, avec l'arrivée des jeux de baston en arcade et des jeux solo conséquents sur console, et ne plaît plus qu'aux fans les plus hardcore, avec une poignée de développeurs qui améliorent la formule très lentement. Depuis les années 2000, le genre est surtout soutenu par des développeurs indépendants ou amateurs.
 
 ## Les débuts de l'arcade
 
 **Spacewar!** (1962) est **un des premiers jeux vidéo** jamais créés. C'est un shoot multijoueur, où les vaisseaux se dirigent comme dans Asteroids, et est étonnamment complexe : les joueurs doivent gérer leurs munitions, leur carburant, et la gravité des étoiles. Il a été développé sur PDP-1, un "mini-ordinateur" d'environ 2 mètres de haut et vendu à 50 exemplaires. Il n'était évidemment disponible qu'aux quelques académiciens et chercheurs qui avaient accès à cette machine, mais son influence est considérable, et sa popularité non négligeable.
 
-**Computer Space** (1971, Syzygy) est globalement une repompe simplifiée de Spacewar! : il retire les munitions et le carburant, et rajoute des **ennemis qui tirent** sur le joueur. C'est le **premier jeu vidéo commercial**, et la **première borne d'arcade**. Il n'a pas été un succès retentissant, mais a lancé les idées à la fois des jeux vidéo en tant que produit commercial, et des bornes d'arcade avec hardware dédié. Le concept sera repris et amélioré, avec succès cette fois, dans **Asteroids** (1979, Atari).
+**Computer Space** (1971, Syzygy) est globalement une repompe simplifiée de Spacewar! : il retire les munitions et le carburant, et rajoute des **ennemis qui tirent** sur le joueur. C'est le **premier jeu vidéo commercial**, et la **première borne d'arcade**. Il n'a pas été un succès retentissant, mais a lancé les idées à la fois des jeux vidéo en tant que produit commercial, et des bornes d'arcade avec hardware dédié.
 
 **Gun Fight / Western Gun** (1975, Taito) est très peu connu, mais c'est non seulement le **premier véritable twin stick shooter** (un contrôle pour le personnage, un contrôle pour orienter le tir), le **premier jeu avec des armes réelles**, et le **premier jeu qui fait s'affronter des figures humaines**, mais aussi le **premier jeu d'arcade avec un microprocesseur** !
 
@@ -14,27 +18,45 @@ Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux 
 
 :star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. Son côté addictif peut être résumé à une caractéristique : il est **impossible de gagner**, le jeu devenant de plus en plus dur, le but est uniquement d'avoir un score le plus haut possible.
 
-**Galaxian** (1979, Namco) reprend le principe de Space Invaders, et y ajoute des **ennemis qui "cassent" la formation** pour descendre sur le joueur, avec des **ennemis aux comportements différents**, et des **tableaux différents** ; sa suite :star: **Galaga** (1981), similaire mais plus moderne et dynamique, est bien plus connue.
+**Sky Raider** (1978, Atari) est un "proto-shmup" qui est le premier jeu avec un **scrolling scrolling vertical**.
 
-**Ozma Wars** (1979, SNK) est le premier jeu avec une **barre de vie**, ainsi qu'un des premiers jeux à **scrolling**, bien que celui-ci soit uniquement un effet visuel.
+:star: **Galaxian** (1979, Namco) reprend le principe de Space Invaders, et y ajoute des **ennemis qui "cassent" la formation** pour descendre sur le joueur, avec des **ennemis aux comportements différents**, et des **tableaux différents** ; sa suite **Galaga** (1981), similaire mais plus moderne et dynamique, est bien plus connue.
 
-:star: **Defender** (1981, Williams) est le premier shmup à **scrolling libre**, et aussi un des premiers à avoir une **mini-map**.
+**Asteroids** (1979, Atari) reprend le concept de Spacewar! et Computer Space, mais n'a **quasiment aucun ennemi**, le joueur devant survivre face à l'arrivée massive d'astéroïdes. Il a **tellement de succès** qu'Atari doit équiper la borne d'une "boîte à pièce" plus grosse que d'habitude.
 
-**Scramble** (1981, Konami) n'est pas très connu par le grand public, mais c'est pourtant une étape importante dans l'histoire des shmups : c'est le premier shmup à **scrolling automatique**, et qui a de **multiples niveaux** avec des styles visuels différents, soit la base de tous les shmups modernes.
+**Ozma Wars** (1979, SNK) est le premier jeu avec une **barre de vie**.
 
-**Vanguard** (1981, SNK) alterne **scrolling horizontal et vertical**, et reprend les contrôles aux doubles sticks de Gun Fight et Sheriff pour pouvoir tirer dans toutes les directions.
+**Carnival** (1980, Sega) est un des premiers jeux avec un **round bonus** lorsque certaines conditions sont atteintes.
+
+**Helifire** (1980, Nintendo) est le premier shmup à **scrolling horizontal**, même si celui-ci se fait de gauche à droite, à l'inverse de tous les suivants.
+
+**Radar Scope** (1980, Nintendo) est le premier shmup qui permet de **tirer plusieurs projectiles à la suite**, alors que les précédents n'autorisaient qu'un seul tir à l'écran, et introduit un **effet de perspective** qui sera repris par Beam Rider (1983, Atari 2600) et Silpheed (1993, PC-88). Radar Scope est aussi célèbre pour s'être tellement mal vendu que Nintendo a développé **Donkey Kong** (1981, Nintendo) en réutilisant le hardware de la borne.
+
+:star: **Defender** (1981, Williams) est le premier shmup à **scrolling libre** en ayant aussi un **écran orienté horizontalement**. C'est aussi un des premiers à avoir une **mini-map**, ce qui permet au jeu de "continuer hors écran", et il introduit les **mégabombes** qui nettoient l'écran des tirs ennemis. Le jeu est **extrêmement difficile**, notamment à cause de ses **contrôles complexes** basés sur un grand nombre de boutons, mais ça ne l'empêche pas de rencontrer un **grand succès**.
+
+:star: **Scramble** (1981, Konami) n'est pas très connu par le grand public, mais c'est pourtant une **étape importante** dans l'histoire des shmups : c'est le premier shmup à **scrolling automatique**, et qui a de **multiples niveaux** avec des styles visuels différents, un **terrain sur lequel on peut s'écraser** et qui n'est pas uniquement esthétique, **deux tirs** (laser et bombe) qui peuvent tous deux affecter toutes les cibles... soit à peu près la base de tous les shmups modernes. Il y aura une **vague de "Scramble Clones"** comme il y a eu une vague de "Space Invaders Clones".
+
+**Zero Hour** (1981, Universal) est le **premier shmup à scrolling vertical traditionnel** selon nos définitions actuelles : le vaisseau peut se **déplacer dans toutes les directions**, et il y a de **nombreux sprites à l'écran**, ennemis mais aussi tirs du joueur et des adversaires, ainsi que **différents niveaux**. C'est un **jeu important** dans l'histoire des shmups, mais son manque de succès commercial ne le rend pas très influent.
+
+**Vanguard** (1981, SNK) **alterne scrolling horizontal et vertical**, et permet de **tirer dans toutes les directions**.
 
 **Bosconian** (1981, Namco) est le premier shmup à **déplacement libre**, où l'on peut explorer la carte à loisir, finalement assez peu exploré dans le genre des shmups, et repris par **Time Pilot** (1982, Konami).
 
-:star: **Xevious** (1982, Namco) n'est que moyennement connu, mais est extrêmement influent, en mélangeant un **scrolling forcé vertical**, des **niveaux distincts visuellement**, des **arrière-plans détaillés**, **deux niveaux d'attaque** (sol/air), une **IA adaptative**, et des **boss de fin de niveau**. Ce n'est pas toujours le premier à créer chacune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la "formule de base" des shmups à venir.
+**Gorf** (1981, Midway) a cinq **tableaux qui se jouent totalement différemment**, et reprend successivement Space Invaders, Galaxian, Space Firebird, ainsi que d'autres tableaux plus originaux. C'est aussi un des premiers jeux avec un **combat de boss** dans le dernier tableau.
+
+**Space Seeker** (1981, Taito) permet de **choisir un niveau**, et **alterne scrolling et shoot à la première personne**.
+
+:star: **Xevious** (1982, Namco) n'est que moyennement connu, mais est extrêmement influent, en mélangeant un **scrolling forcé vertical**, des **niveaux distincts visuellement**, des **arrière-plans détaillés** d'inspiration réaliste, **deux niveaux d'attaque** (sol/air), une **IA adaptative**, et des **boss de fin de niveau**. Ce n'est pas toujours le premier à créer chacune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la "formule de base" des shmups à venir.
 
 **Zaxxon** (1982, Sega) est le premier shmup **isométrique**, style très peu fréquent dans le genre ; on pourra noter **Desert Falcon** (1987, Atari) ou **Viewpoint** (1992, Sammy).
+
+**Front Line** (1982, Taito) est le premier **shooter multidirectionnel à scrolling** avec un **environnement réaliste**, formule qui sera reprise avec succès par **Commando** (1985, Capcom) après la sortie du film Rambo.
 
 **Moon Patrol** (1982, Irem) est le premier jeu à introduire du **scrolling parallaxe** pour introduire une impression de profondeur.
 
 :star: **1942** (1984, Capcom) introduit le concept de **powerups** qui apparaissent suite à la destruction de certains ennemis.
 
-:star: **Gradius** (1985, Konami) est extrêmement influent, en combinant d'excellente manière bon nombre de concepts déjà existants, mais c'est surtout le premier qui a des **powerups réellement différents**, là où les précédents se contentaient d'améliorer la puissance de feu du joueur. Il laisse d'ailleurs le **choix des powerups**, permettant ainsi à chacun de jouer de la manière qu'il le souhaite.
+:star: **Gradius** (1985, Konami) est extrêmement influent, en combinant d'excellente manière bon nombre de concepts déjà existants, mais c'est surtout le premier qui a des **powerups réellement différents**, là où les précédents se contentaient d'améliorer la puissance de feu du joueur. Il laisse d'ailleurs le **choix des powerups**, permettant ainsi à chacun de jouer de la manière qu'il le souhaite. Sa difficulté très élevée nécessite de **mémoriser les apparitions des ennemis**, ce qui sera également repris par la plupart des shmups par la suite.
 
 **TwinBee** (1985, Konami) est le premier jeu d'un genre depuis appelé **"cute'em up"** : un shoot'em up, mais mignon et rigolo. Il inspirera plusieurs successeurs, dont **Fantasy Zone** (1986, Sega), ou **Parodius** (1988, Konami).
 
@@ -42,15 +64,21 @@ Les shmups (shoot'em up) ont une histoire assez simple et "linéaire". Les jeux 
 
 **Star Soldier** (1986, Hudson Soft) introduit le concept d'un **"caravan mode"**, une course au high score très courte et technique, système souvent utilisé en compétition depuis.
 
+**Darius** (1986, Taito) utilise une borne impressionnante avec **trois écrans côte à côte**, et ses multiples embranchements permettent de **nombreuses fins**.
+
 :star: **R-Type** (1987, Irem) ne révolutionne rien, mais transforme un style de jeu traditionnellement extrêmement nerveux et basé sur les réflexes, en jeu **lent et méthodique**, et crée ainsi sa propre "branche".
 
-:star: **Contra** (1987, Konami) applique la formule de **tirs en continu** et d'**évitement de balles** propres aux shmups, et le place dans un contexte de **jeu de plateformes minimaliste**, et **crée ainsi le genre "run and gun"**, qui est caractérisé par cette concentration sur les tirs plutôt que l'aspect plate-formes.
+:star: **Contra** (1987, Konami) applique la formule de **tirs en continu** et d'**évitement de balles** propres aux shmups, et le place dans un contexte de **jeu de plateformes minimaliste**, et **définit ainsi le genre "run and gun"**, qui est caractérisé par cette concentration sur les tirs plutôt que l'aspect plate-formes.
 
-**Batsugun** (1993, Toaplan) et notamment sa "Special Version" (prototype non commercialisé) est généralement considéré comme étant l'origine du style **bullet hell/danmaku**, où l'on se concentre plus sur l'évitement des balles que viser les ennemis, avec notamment une **hitbox réduite** qui permet de se faufiler entre les balles. Il inspirera notamment :star: **DonPachi** (1995, Cave), et les jeux de la série **Touhou** (1997, divers).
+**Batsugun** (1993, Toaplan) et notamment sa "Special Version" (prototype non commercialisé) est généralement considéré comme étant **l'origine du style bullet hell/danmaku**, où l'on se concentre plus sur l'évitement des balles que viser les ennemis, avec notamment une **hitbox réduite** qui permet de se faufiler entre les balles.
+
+:star: **DonPachi** (1995, Cave) explore plus avant la formule de Batsugun, et sera **une référence du bullet hell/danmaku/manic shooter** : **hitboxes réduites** à leur plus simple expression, barrage constant d'une **énorme quantité de tirs ennemis**, arme du joueur qui permet de basculer entre des **tirs larges** mais peu puissants ou des **tirs concentrés** qui font ralentir le vaisseau, etc.
 
 **Twinkle Star Sprites** (1996, SNK) est le premier jeu à proposer un **mode versus**, chose qui reste malheureusement assez rare, et des **éléments de puzzle game**.
 
 **Radiant Silvergun** (1998, Treasure) est considéré comme un des meilleurs shmups jamais créés, et le **modèle des shmups modernes**. Il est suivi par **Ikaruga** (2001, Treasure), autre référence du genre, qui mélange du puzzle.
+
+---
 
 ## Twin stick shooters
 
@@ -62,33 +90,35 @@ A noter que "twin stick shooter" est une appellation récente apparue car on uti
 
 **Berzerk** (1980, Atari) est un des premiers jeux (mais pas le premier) avec de la **synthèse vocale**, et des **salles générées aléatoirement**, et bien qu'il n'utilise **qu'un seul stick**, il sera une grosse inspiration pour d'autres jeux du genre.
 
-:star: **Robotron 2084** (1982, Williams) est le **premier jeu populaire** dans le genre. **Smash TV** (1990, Williams), autre grand succès, repompe totalement la formule mais dans un environnement dystopique.
+:star: **Robotron 2084** (1982, Williams) est le premier du genre à permettre de **tirer et de se déplacer** indépendamment et simultanément ; cette caractéristique en fera le **premier jeu populaire du genre**. **Smash TV** (1990, Williams), autre grand succès, repompe totalement la formule mais dans un environnement dystopique.
 
 **Dandy** (1983, Atari, Atari 8 bits) mélange des **donjons labyrinthiques** de RPG (ou de Pac-Man, au choix) avec un gameplay de twin stick shooter, le joueur pouvant tirer dans 8 directions. Certains monstres sont placés dès l'entrée dans une pièce, et d'autres sont **créés par un "générateur de monstres"** qui doit être détruit.
 
 :star: **Gauntlet** (1985, Atari) copie Dandy au point d'en subir un procès ; c'est le premier jeu du genre à être **jouable à 4 joueurs en simultané**.
 
-**Commando** (1985, Capcom) est un des premiers jeux du genre à utiliser un **environnement moderne et réaliste** suite à la sortie et au succès du film Rambo la même année.
+**Ikari Warrior** (1986, SNK) est le premier jeu à utiliser des **joysticks rotatifs** (rotary sticks), mais ceux-ci sont assez fragiles et seront peu utilisés.
 
-**Ikari Warrior** (1986, SNK) est le premier jeu à utiliser des **joysticks rotatifs** (rotary sticks).
+---
 
-## Rail shooters et light gun
+## Rail shooters
 
 Les rail shooters sont une forme de shmup dans lequel le scrolling se fait "en profondeur", et le joueur avance "dans" l'image.
 
 **Radar Scope** (1980, Nintendo) est le premier shooter qui introduit une **perspective en profondeur**, mais il n'y a pas encore de scrolling.
 
-:star: **Tempest** (1981) est le premier **"tube shooter"**, avec des ennemis qui nous arrivent dessus avec un effet de perspective, mais il n'y a un scrolling qu'entre les tableaux.
+:star: **Tempest** (1981, Atari) est le premier **"tube shooter"**, avec des ennemis qui nous arrivent dessus avec un effet de perspective, mais il n'y a un scrolling qu'entre les tableaux.
 
-**Star Wars** (1983, Atari) est un des premiers **véritables rail shooters**, et aura un **énorme succès commercial**.
+:star: **Buck Rogers: Planet of Zoom** (1982, Sega) est un des premiers **véritables rail shooters**, avec du **sprite scaling** pour simuler l'effet de profondeur.
 
-:star: **Space Harrier** (1985, Sega) introduit une pseudo-3D simulée par du **sprite scaling** et une **borne rotative sur vérins**, technologies qui seront aussi utilisées par **After Burner** (1987, Sega).
+**Astron Belt** (1983, Sega) est le **premier jeu Laserdisc**, et superpose aux vidéos le vaisseau du joueur et les tirs ennemis.
 
-**Starblade** (1991, Namco) est le premier shooter en **3D polygonale texturée**.
+:star: **Space Harrier** (1985, Sega) se joue dans une **borne rotative sur vérins**, technologie qui sera aussi utilisée par **After Burner** (1987, Sega).
+
+**Starblade** (1991, Namco) est le premier shooter en **3D polygonale**.
 
 :star: **Star Fox** (1993, Nintendo) est le premier shooter avec une **véritable histoire mise au premier plan**, alors qu'elle servait surtout de prétexte auparavant.
 
-On pourra noter également **Panzer Dragoon** (1995, Sega), **REZ** (2001, Sega), ou encore **Killer 7** (2005, Capcom).
+---
 
 ## Light gun
 
@@ -113,6 +143,8 @@ Tant que la technologie du "light gun" n'était pas assez fiable pour les jeux d
 Plusieurs jeux console reprennent le concept, notamment **Nam 1975** (1990, SNK) et **Wild Guns** (1994, Natsume), mais avec un seul contrôle qui alterne entre déplacement et tir.
 
 **Terminator 2 Judgement Day** (1991, Midway) est le premier qui **déguise son joystick en arme**, ce qui sera copié par **Alien 3 The Gun** (1993, Sega).
+
+---
 
 ## Sources
 
