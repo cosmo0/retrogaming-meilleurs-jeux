@@ -101,6 +101,27 @@ L'objectif ici est de proposer une liste des titres marquants et influents, et d
 - [Simulation](history/simulation.md)
 - [Strategy](history/strategy.md)
 
+### Hardware
+
+Les premiers **ordinateurs centraux "mainframe"**, qui pesaient plusieurs tonnes, sont apparus dans les années 50 et se programmaient avec des cartes à trous, et **dès le début, des chercheurs programment des jeux rudimentaires dessus**.  
+Les années 60 leur apportent des écrans, et le **premier jeu vidéo** tel qu'on les définit aujourd'hui est créé : Spacewar!.  
+Au début des années 70, les mainframes généralisent les terminaux écran/clavier accessibles aux opérateurs, qui affichent généralement des données en texte ou en vecteurs, et **les jeux vidéo suivent**, créés par des chercheurs ou des étudiants, et deviennent relativement courants.
+
+Dans les années 70 apparaissent les **premiers microprocesseurs**, étape cruciale dans l'apparition à la fois des ordinateurs personnels et des consoles : Intel 8008 (1972), Intel 8080 (1974), Motorola 68000 (1974), MOS 6502 (1975), Zilog Z80 (1976). Ces processeurs sont généralement incompatibles entre eux et nécessitent de réécrire ou adapter les programmes à chaque fois.
+
+Des **ordinateurs personnels** sont commercialisés dès 1972, mais il faudra attendre la **"trinité de 1977"** (Apple II, Commodore PET, TRS 80) pour que ces ordinateurs deviennent vraiment populaires. On notera ensuite les Atari 400/800 (1979), TI-99 (1979), BBC Micro (1981), IBM PC (1981), Sinclair ZX Spectrum (1982), et Commodore 64 (1982), Amstrad CPC (1984), Commodore Amiga (1985), Atari ST (1985). Les "clones IBM" écrasent ensuite totalement la concurrence, avec une architecture modulaire et compatible entre les modèles et fabricants.
+
+**Côté Japonais**, l'Apple II est localisé avec une version spéciale en 1979, mais sa faible résolution l'empêche d'afficher des Kanjis (il est limité au Katakana), et la norme PAL utilisée au Japon, plus complexe, oblige à se limiter au noir & blanc, à moins d'acheter une carte vidéo supplémentaire. Les fabricants Japonais lancent rapidement leurs propres modèles, adaptés à ces critères : Nec PC-8001 (1979) puis PC-8801 (1981) et PC-9801 (1982), Fujitsu FM-7 (1982) puis FM Towns (1989).
+En 1983, le standard MSX est créé par Microsoft et ASCII, pour unifier les architectures, et sera utilisé par quasiment tous les constructeurs Japonais à un moment ou un autre. Il sera mis à jour plusieurs fois, puis abandonné, n'ayant pas réussi à évoluer aussi vite que la concurrence.
+
+La **première génération de consoles** utilise des hardware dédiés, et ne sont généralement pas capables d'afficher grand-chose de plus que 2 ou 3 carrés et quelques lignes. L'arrivée des microprocesseurs permet de déporter la logique des jeux sur des cartouches interchangeables, et c'est la Fairchild F (1976) qui ouvre le bal, suivie de près par l'Atari 2600 (1977), puis par de nombreux concurrents.
+
+Dans les **salles d'arcade**, les **premiers "jeux vidéo"** apparaissent dans les années 60. Ils sont de nature **électro-mécaniques**, et mélangent comme leur nom l'indique des circuits électroniques avec des éléments mécaniques. Sega et Nintendo sont dès le début de gros acteurs dans ce marché. On notera notamment Duck Hunt (1969, Nintendo), Grand Prix (1969, Sega), Missile (1969, Sega), Jet Rocket (1970, Sega), Wild Gunman (1974, Nintendo) ou F-1 (1976, Namco). Tous ces jeux sont bien évidemment impossibles à émuler car ils nécessitent des pièces mécaniques pour fonctionner, et vous devrez vous contenter d'en rechercher des vidéos Youtube. Les jeux électro-mécaniques sont chers à produire et à maintenir, et ils seront progressivement remplacés par les jeux vidéo électroniques, à commencer par Pong (1972, Atari), le premier du genre à connaître le succès.
+
+La **caractéristique des jeux d'arcade**, c'est qu'étant des bornes dédiés à un seul jeu, ils ont un **hardware dédiés au jeu**, qui sera souvent "recyclé" pour faire plusieurs jeux à moindre coût en utilisant la même base. Cela permet aux jeux d'être parfaitement optimisés, et de proposer des expériences largement plus avancées que sur le matériel "générique" et multi-tâche que l'on trouve dans les ordinateurs et consoles. Le fait qu'ils soient achetés par des professionnels pour plusieurs milliers de dollars leur permet aussi d'utiliser des technologies de pointe, et dans les années 80 et 90, les jeux d'arcade repousseront sans cesse les limites de la technique.
+
+Au début des années 2000, les **salles d'arcade sont en chute libre**, le matériel grand public a rattrapé les bornes d'arcade, les coûts pour développer du hardware dédié a explosé, la complexité des jeux aussi... Cette somme de facteurs fait disparaître les jeux purement arcade, qui sortent quasi-systématiquement sur console, et deviennent ainsi bien moins attractifs. Seules les salles Japonaises survivent tant bien que mal, mais leur nombre décline également.
+
 ### Jeux occidentaux et jeux Japonais
 
 On notera dans beaucoup de genres une distinction forte entre les jeux occidentaux et les jeux Japonais. La distinction s'explique avec deux facteurs principaux : les **différences culturelles**, mais aussi les **différences techniques** des supports utilisés.
@@ -113,3 +134,8 @@ Par ailleurs, **les machines utilisées divergent radicalement en occident et au
 Les Japonais ont ainsi accès à beaucoup de jeux occidentaux, notamment sur Apple II ou avec des portages sur machines locales, mais l'inverse n'est pas vrai, et **énormément de jeux Japonais ne sortiront jamais en occident**, particulièrement à cause de la complexité de localisation.
 
 Enfin, on notera également une simple **préférence pour certains types de jeux** ou sujets d'un côté ou de l'autre de l'océan. Par exemple, les shmups sont créés en très large majorité par des studios Japonais, alors que les simulations sont plus appréciées en occident.
+
+## Sources
+
+- [Wikipedia](https://www.wikipedia.org/)
+- [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/)
