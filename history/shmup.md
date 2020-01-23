@@ -18,7 +18,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 :star: **Space Invaders** (1978, Taito) est le **premier jeu vidéo arcade à succès retentissant**. Ce dernier n'est arrivé qu'un ou deux ans après la sortie du jeu, mais une fois le phénomène établi, il était possible de trouver des bornes Space Invaders absolument partout. Il crée ou rend populaire de nombreuses choses reprises partout depuis : les **vies multiples**, le **high score** qui reste mémorisé, les **ennemis avec de vrais sprites** et une certaine "personnalité", une **difficulté croissante** avec les ennemis qui accélèrent, une **musique de fond**, etc. Son côté addictif peut être résumé à une caractéristique : il est **impossible de gagner**, le jeu devenant de plus en plus dur, le but est uniquement d'avoir un score le plus haut possible.
 
-**Sky Raider** (1978, Atari) est un "proto-shmup" qui est le premier jeu avec un **scrolling scrolling vertical**.
+**Sky Raider** (1978, Atari) est un "proto-shmup" qui est le premier jeu du genre avec un **scrolling vertical**.
 
 :star: **Galaxian** (1979, Namco) reprend le principe de Space Invaders, et y ajoute des **ennemis qui "cassent" la formation** pour descendre sur le joueur, avec des **ennemis aux comportements différents**, et des **tableaux différents** ; sa suite **Galaga** (1981), similaire mais plus moderne et dynamique, est bien plus connue.
 
