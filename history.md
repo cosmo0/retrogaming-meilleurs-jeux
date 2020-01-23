@@ -99,6 +99,7 @@ L'objectif ici est de proposer une liste des titres marquants et influents, et d
 - [Shoot'Em Up](history/shmup.md)
 - [Shooters, FPS, TPS](history/shooter.md)
 - [Simulation](history/simulation.md)
+- [Sport](history/sports.md)
 - [Strategy](history/strategy.md)
 
 ### Hardware
@@ -116,7 +117,7 @@ En 1983, le standard MSX est créé par Microsoft et ASCII, pour unifier les arc
 
 La **première génération de consoles** utilise des hardware dédiés, et ne sont généralement pas capables d'afficher grand-chose de plus que 2 ou 3 carrés et quelques lignes. L'arrivée des microprocesseurs permet de déporter la logique des jeux sur des cartouches interchangeables, et c'est la Fairchild F (1976) qui ouvre le bal, suivie de près par l'Atari 2600 (1977), puis par de nombreux concurrents.
 
-Dans les **salles d'arcade**, les **premiers "jeux vidéo"** apparaissent dans les années 60. Ils sont de nature **électro-mécaniques**, et mélangent comme leur nom l'indique des circuits électroniques avec des éléments mécaniques. Sega et Nintendo sont dès le début de gros acteurs dans ce marché. On notera notamment Duck Hunt (1969, Nintendo), Grand Prix (1969, Sega), Missile (1969, Sega), Jet Rocket (1970, Sega), Wild Gunman (1974, Nintendo) ou F-1 (1976, Namco). Tous ces jeux sont bien évidemment impossibles à émuler car ils nécessitent des pièces mécaniques pour fonctionner, et vous devrez vous contenter d'en rechercher des vidéos Youtube. Les jeux électro-mécaniques sont chers à produire et à maintenir, et ils seront progressivement remplacés par les jeux vidéo électroniques, à commencer par Pong (1972, Atari), le premier du genre à connaître le succès.
+Dans les **salles d'arcade**, les **premiers "jeux vidéo"** apparaissent dans les années 60. Ils sont de nature **électro-mécaniques**, et mélangent comme leur nom l'indique des circuits électroniques avec des éléments mécaniques. La plupart des développeurs de jeux d'arcade (Sega, Nintendo, Taito, Namco, Williams...) sont dès le début de gros acteurs dans ce marché. On notera notamment Duck Hunt (1969, Nintendo), Grand Prix (1969, Sega), Missile (1969, Sega), Jet Rocket (1970, Sega), Wild Gunman (1974, Nintendo) ou F-1 (1976, Namco). Tous ces jeux sont bien évidemment impossibles à émuler car ils nécessitent des pièces mécaniques pour fonctionner, et vous devrez vous contenter d'en rechercher des vidéos Youtube. Les jeux électro-mécaniques sont chers à produire et à maintenir, et ils seront progressivement remplacés par les jeux vidéo électroniques, à commencer par Pong (1972, Atari), le premier du genre à connaître le succès.
 
 La **caractéristique des jeux d'arcade**, c'est qu'étant des bornes dédiés à un seul jeu, ils ont un **hardware dédiés au jeu**, qui sera souvent "recyclé" pour faire plusieurs jeux à moindre coût en utilisant la même base. Cela permet aux jeux d'être parfaitement optimisés, et de proposer des expériences largement plus avancées que sur le matériel "générique" et multi-tâche que l'on trouve dans les ordinateurs et consoles. Le fait qu'ils soient achetés par des professionnels pour plusieurs milliers de dollars leur permet aussi d'utiliser des technologies de pointe, et dans les années 80 et 90, les jeux d'arcade repousseront sans cesse les limites de la technique.
 
