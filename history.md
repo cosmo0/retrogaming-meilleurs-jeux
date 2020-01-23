@@ -18,15 +18,14 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 ### Aventure et visual novels
 
 - 1977 : Zork
-- 1984 : King's Quest
-- 1987 : Maniac Mansion
-- 1987 : Shadowgate
-- 1988 : Snatcher
-- 1990 : The Secret of Monkey Island
-- 1993 : Myst
-- 1996 : YU-NO A Girl Who Chants Love...
-- 1997 : Blade Runner
-- 2005 : Fahrenheit
+- 1984 : King's Quest (Apple II, DOS)
+- 1987 : Maniac Mansion (Apple II, DOS)
+- 1988 : Snatcher (Mega CD)
+- 1990 : The Secret of Monkey Island (DOS)
+- 1993 : Myst (Windows)
+- 1996 : YU-NO A Girl Who Chants Love... (Saturn, Vita, PS4, Switch)
+- 1997 : The Last Express (Windows, iOS, Android)
+- 2005 : Fahrenheit (Windows, Playstation 2, Xbox)
 
 ### Combat et Beat'Em Up
 
