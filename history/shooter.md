@@ -19,15 +19,15 @@ MIDI Maze (1987, Atari ST, Xanth) : premier deathmatch en LAN sur machine grand 
 
 The Colony (1988, Macintosh, Mindscape) : très peu connu et pas très influent, mais très novateur. Premier "immersive sim" avec plein d'interactions, grande carte à explorer, visée semi-libre à la souris
 
-Catacomb 3-D (1991, DOS, id Software) : premier moteur en ray-casting qui ne traite que ce qu'on voit (utilisé sur Hovertank 3D, jeu précédent de id Software), murs texturés, affiche l'arme sélectionnée
+Catacomb 3-D (1991, DOS, id Software) : premier moteur en ray-casting qui ne traite que ce qu'on voit (utilisé sur Hovertank 3D, jeu précédent de id Software), murs texturés inspiré de ce que Carmack a entendu du développement de Ultima Underworld, affiche l'arme sélectionnée
 
 Ultima Underworld (1992, DOS, Looking Glass) : regard haut/bas, murs à 45° (et pas seulement 90), plusieurs hauteurs, surfaces inclinées, peut sauter, moteur physique
 
-Wolfenstein 3D (1992, DOS, id Software) : inspiré par Ultima Underworld mais en rapide et nerveux, aucun élément narratif et pur action, suppression de plein d'éléments prévus : cacher les corps, items de quête, etc. Focus sur la représentation du personnage à travers le "head bob" en marchant ou l'écran qui devient rouge quand on se fait toucher. Encore attaché aux racines des "jeux de labyrinthes". Premier gros succès grâce à ou malgré son ultra violence et imagerie controversiale.
+Wolfenstein 3D (1992, DOS, id Software) : inspiré par Ultima Underworld mais en rapide et nerveux, aucun élément narratif et pur action, suppression de plein d'éléments prévus : cacher les corps, items de quête, etc. Focus sur la représentation du personnage à travers le "head bob" en marchant ou l'écran qui devient rouge quand on se fait toucher. Encore attaché aux racines des "jeux de labyrinthes" avec plein de recoins et de portes secrètes. Premier gros succès grâce à (ou malgré) son ultra violence et imagerie controversiale.
 
 Gun Buster (1992, arcade, Taito) : mélange FPS et light gun, team deathmatch
 
-Doom (1993, DOS, id Software) : énorme succès, encore joué aujourd'hui, éclairage dynamique, niveaux vastes, ouverts et variés, musiques qui tabassent, deathmatches (+ invention du terme) extrêmement populaires, violence et imagerie démoniaque à controverse, moddable grâce à la séparation des assets et du moteur, mods encore créés aujourd'hui.
+Doom (1993, DOS, id Software) : énorme succès, encore joué aujourd'hui, éclairage localisé et dynamique, niveaux vastes, ouverts et variés, musiques qui tabassent, deathmatches (+ invention du terme) extrêmement populaires, violence et imagerie démoniaque à controverse, volontairement moddable grâce à la séparation des assets et du moteur, mods encore créés aujourd'hui.
 
 Pathways Into Darkness (1993, Mac, Bungie) : aventure avec éléments narratifs
 
@@ -35,21 +35,21 @@ Heretic (1994, DOS, Raven) : visée verticale, inventaire, gibs
 
 Rise of the Triad (1994, DOS, Apogee) : 5 persos, gibs, objets destructibles, physique rudimentaire
 
-Marathon (1994, Mac, Bungie) : freelook, dual-wield, armes à deux fonctions, multiples modes multijoueur, coop, NPCs, chat vocal
+Marathon (1994, Mac, Bungie) : freelook, dual-wield, armes à deux fonctions, histoire, logs texte, NPCs, multiples modes multijoueur, coop, chat vocal
 
-System Shock (1994, DOS, Looking Glass) : mélange avec aventure/exploration/énigmes, puzzles, non linéaire, "gameplay émergent", possibilité de se pencher, se baisser et même ramper, inventaire, minimap, plein de logs à lire, armes à plusieurs munitions, grosse influence pour les "FPS à ambiance"
+System Shock (1994, DOS, Looking Glass) : lorgne plutôt du côté RPG, mélange avec aventure/exploration/énigmes/puzzles, non linéaire, "gameplay émergent", possibilité de se pencher, se baisser et même ramper, inventaire, minimap, plein de logs à lire, armes à plusieurs munitions, grosse influence pour les "FPS à ambiance"
 
 Dark Forces (1995, DOS, Lucas Arts) : sauter, objets 3D ingame, effets atmosphériques comme brouillard, et surtout la possibilité de mettre des pièces les unes au-dessus des autres
 
 Hexen (1995, DOS, Raven) : exploration et backtracking
 
-Quake (1996, DOS, id Software) : successeur spirituel à Doom, maps très verticales, full polygones, support accélérateurs 3D, jeu en ligne avec plein de types de jeu, suivi par des "clans" et débuts de l'esport avec tournois sponsorisés
+Duke Nukem 3D (1996, DOS, 3D Realms) : jet pack, interaction avec l'environnement (arcade, billard, WC...), bourré de références pop-culture, ambiance américano-macho sexiste parodique, commentaires audio du perso
 
-Duke Nukem 3D (1996, DOS, 3D Realms) : jet pack, interaction avec l'environnement (arcade, billard, WC...), bourré de références pop-culture, ambiance américano-macho parodique, commentaires audio du perso
+Quake (1996, DOS, id Software) : successeur spirituel à Doom, maps très verticales, full polygones, éclairage totalement dynamique, courbes partout, support accélérateurs 3D, standardise le mouselook, jeu en ligne avec plein de types de jeu, suivi par des "clans" et débuts de l'esport avec tournois sponsorisés, thème/look très aléatoire et pas très cohérent à cause des dissensions internes
 
 Team Fortress (1996, DOS) : mod de Quake à succès, plusieurs classes, focus sur jeu en équipe, origine des FPS en équipe modernes comme Overwatch
 
-GoldenEye 007 (1997, N64, Rare) : premier FPS console à succès qui ne soit pas un portage, fusil de sniper, headshots, infiltration, recharge, animations ennemies différentes selon l'endroit du tir, multijoueur split screen hyper populaire
+GoldenEye 007 (1997, N64, Rare) : premier FPS console à succès qui ne soit pas un portage, fusil de sniper, headshots, infiltration, recharge, localisation des tirs avec animations correspondantes, multijoueur split screen hyper populaire, prouve qu'il est possible de faire un FPS jouable sur console
 
 Unreal (1998, Windows, Epic) : moteur très avancé avec effets inédits comme brouillard volumétrique, outil de modding en temps réel et scripting
 
@@ -59,7 +59,7 @@ Thief (1998, Windows, Looking Glass) : basé sur l'infiltration et la navigation
 
 Half-Life (1998, Windows, Valve) : technique de pointe, alternance couloirs et espaces ouverts, IA avancée, pas de séparation des niveaux qui se suivent logiquement et se "fondent" les uns dans les autres, fort élément narratif avec PNJ qui ont des dialogues et mises en scène scriptées, cinématiques ingame qui restent à la première personne en permanence
 
-Starsiege Tribes (1998, Windows, Dynamix) : 32 joueurs en simultané, jeu en équipe avec classes spécialisée, jet pack
+Starsiege Tribes (1998, Windows, Dynamix) : maps immenses, 32 joueurs en simultané, jeu en équipe avec classes spécialisée, jet pack
 
 Medal of Honor (1999, Windows, DreamWorks Interactive) : univers moderne réaliste et crédible vs SF/medfan, scénario de type film d'action, premier shooter à grand spectacle, scène de débarquement viscérale inspirée de Il Faut Sauver le Soldat Ryan, gros succès qui lance une mode de FPS WWII encore visible aujourd'hui
 
