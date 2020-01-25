@@ -38,17 +38,27 @@ Paris-Dakar Rally Special (1988, NES, Sony) : plusieurs vues, éléments d'avent
 
 Winning Run (1988, Namco) : 3D polygonale
 
+RC Pro Am (1988, NES, Rare) : collecte d'items qui servent d'armes
+
 Hard Drivin' (1989, Atari) : loopings, embrayage qui peut faire caler, replay des crashs
 
-Virtua Racing (1992, Sega) : 3D beaucoup plus complexe, décor, multiples points de vue, humains. Le jeu qui popularise la 3D.
+Super Off Road (1989, Leland) : amélioration des véhicules entre les courses
 
-Formula One Grand Prix (1992, DOS, Geoff Crammond)
+Indianapolis 500: The Simulation (1989, DOS, Papyrus) : première "vraie" simulation qui cherche à reproduire le feeling des voitures, réglages, règles du championnat, entraînement, qualifs, distance réelle avec 200 tours, replays avec multiples angles de caméra, crashs réalistes avec les concurrents qui restent sur la piste, pannes et dégâts réalistes (pour l'époque)
 
-Grand Prix Legend
-GTR
-Rally X
-RC Pro Am
-Super Off Road
+Virtua Racing (1992, Sega) : 3D beaucoup plus complexe, décor, multiples points de vue, humains en 3D, jeu réseau à plusieurs bornes
+
+Formula One Grand Prix (1992, DOS, Geoff Crammond) : 2e simulation à exister, reprend tout plus saison complète avec 16 circuits correctement modélisés, pas de licence officielle mais éditeur de noms, plein d'assistances dont les freins auto, l'affichage d'une ligne idéale, le rapport idéal pour un virage,moteur qui "lisse" les inputs quand on joue au clavier, graphismes avancés et sons réalistes, ambiance avec commissaires de piste et pit crew
+
+Daytona USA (1993, Sega) : un des premiers jeux avec des textures filtrées
+
+Sega Rally (1995, Sega) : premier avec différentes surfaces qui changent la maniabilité
+
+Mario Kart 64 (1996, N64, Nintendo) : items obtenus aléatoirement selon la posisiton du joueur, mécanismes de rubber banding multijoueur, génère plein de clones
+
+Gran Turismo (1997, Playstation, Polyphony) : première simu console qui reste accessible, plein de tuning, des tonnes de voitures à acheter, mode carrière avec progression libre et permis à passer
+
+Midtown Madness (1999, Windows, Microsoft) : premier jeu de course open world
 
 ---
 
