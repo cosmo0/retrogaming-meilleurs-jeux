@@ -86,7 +86,7 @@ Call of Duty (2003, Windows, Activision) : reprend la formule de Medal of Honor 
 
 Far Cry (2004, Windows, Crytek) : moteur avancé avec végétation, moteur physique, environnement ouvert et liberté d'exploration et d'approche des situations
 
-Halo 2 (2004, Xbox, Bungie) : premier matchmaking : playlists, groupes, ranking
+Halo 2 (2004, Xbox, Bungie) : matchmaking moderne : playlists, groupes et clans, ranking, lobbies, etc
 
 Half-Life 2 (2004, Windows, Valve) : moteur physique avancé
 
