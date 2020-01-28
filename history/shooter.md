@@ -2,10 +2,9 @@
 
 J'inclus uniquement des shooters "à pied" (sauf Battlezone), donc pas Descent par exemple : même si le concept central est proche, le jeu se rapproche plus des simulations spatiales. En revanche j'inclus quelques jeux qui ne sont pas vraiment des shooters, notamment Ultima Underworld qui a eu une influence considérable sur Doom.
 
-Paradoxalement, les jeux les plus influents du genre ne sont pas forcément les plus innovants : Doom avec son gameplay ultra nerveux ; Quake avec son moteur 3D ; Golden Eye 007 avec tous ses gadgets et l'accessibilité du multijoueur ; Half-Life avec son scénario ; Quake III/Unreal Tournament dédiés au multijoueur ; Halo avec son adaptation au contrôle au pad.  
-Un peu moins rétro, Call of Duty 4 Modern Warfare (2007) introduit un système d'expérience, de niveaux et de choses à débloquer, qui sera repris et étendu par quasiment tous les FPS multi par la suite.
+Les FPS influents sont nombreux : **Wolfenstein 3D** et son moteur révolutionnaire ; **Doom** avec son gameplay ultra nerveux, ses vastes niveaux, ses mods et son multijoueur ; **Quake** avec son moteur 3D et la popularisation du multijoueur en ligne ; **Golden Eye 007** avec tous ses gadgets et l'accessibilité des FPS sur console ; **Half-Life** avec son scénario et sa mise en scène ; **Medal of Honor** et sa réalisation à grand spectacle dans un environnement réaliste ; **Quake III** et **Unreal Tournament** et leur totale dédication au multijoueur ; **Halo** avec ses adaptations pour le contrôle au pad.
 
-Le genre est encore très populaire aujourd'hui et les FPS sont de plus en plus complexes en mélangeant plein d'autres genres : RPG, aventure, plateforme, puzzle, etc.
+Le genre est encore très populaire aujourd'hui, ils sont de plus en plus complexes et diversifiés, continuent à créer des avancées en terme de gameplay et game design, et mélangent de plus en plus d'autres genres : RPG, aventure, plateforme, puzzle, etc.
 
 ## FPS
 
@@ -45,47 +44,49 @@ Hexen (1995, DOS, Raven) : exploration et backtracking
 
 Duke Nukem 3D (1996, DOS, 3D Realms) : jet pack, interaction avec l'environnement (arcade, billard, WC...), bourré de références pop-culture, ambiance américano-macho sexiste parodique, commentaires audio du perso
 
-Quake (1996, DOS, id Software) : successeur spirituel à Doom, maps très verticales, full polygones, éclairage totalement dynamique, courbes partout, support accélérateurs 3D, standardise le mouselook, jeu en ligne avec plein de types de jeu, suivi par des "clans" et débuts de l'esport avec tournois sponsorisés, thème/look très aléatoire et pas très cohérent à cause des dissensions internes
+Quake (1996, DOS, id Software) : successeur spirituel à Doom, maps très verticales, full polygones, éclairage totalement dynamique, courbes partout, support accélérateurs 3D, standardise le mouselook, serveurs dédiés, jeu en ligne avec plein de types de jeu, suivi par des "clans" et débuts de l'esport avec tournois sponsorisés, thème/look très aléatoire et pas très cohérent à cause des dissensions internes
 
 Team Fortress (1996, DOS) : mod de Quake à succès, plusieurs classes, focus sur jeu en équipe, origine des FPS en équipe modernes comme Overwatch
 
-GoldenEye 007 (1997, N64, Rare) : premier FPS console à succès qui ne soit pas un portage, fusil de sniper, headshots, infiltration, recharge, localisation des tirs avec animations correspondantes, multijoueur split screen hyper populaire, prouve qu'il est possible de faire un FPS jouable sur console
+GoldenEye 007 (1997, N64, Rare) : premier FPS console à succès qui ne soit pas un portage, moins "run and gun" et plus lent et méthodique, premier fusil de sniper dans un FPS, premiers headshots, premières phases d'infiltration, premier à demander de recharger, localisation des tirs avec animations correspondantes, multijoueur split screen hyper populaire, prouve qu'il est possible de faire un FPS jouable sur console
 
 Unreal (1998, Windows, Epic) : moteur très avancé avec effets inédits comme brouillard volumétrique, outil de modding en temps réel et scripting
 
-Rainbow Six (1998, Windows, Red Storm) : FPS tactique multijoueur pseudo-réaliste, multi coop, pas le premier mais le mieux réalisé, lance une courte mode de FPS tactiques, réintégrés dans les FPS grand public par la suite
+Rainbow Six (1998, Windows, Red Storm) : FPS tactique multijoueur pseudo-réaliste, localisation des dégâts avec possibilité d'incapaciter, permadeath pour l'équipe, multi coop, pas le premier mais le mieux réalisé, lance une courte mode de FPS tactiques, réintégrés dans les FPS grand public par la suite
 
-Thief (1998, Windows, Looking Glass) : basé sur l'infiltration et la navigation/exploration, gestion du son et de la lumière, premier avec un indicateur de visibilité, choix d'éliminer les gardes ou non
+Thief (1998, Windows, Looking Glass) : basé sur l'infiltration et la navigation/exploration, gestion du son et de la lumière, IA avancée qui réagit naturellement aux sons, aux changements d'environnement (lumière éteinte) et au joueur (peuvent fuir et prévenir les autres), premier avec un indicateur de visibilité, choix d'éliminer les gardes ou non
 
-Half-Life (1998, Windows, Valve) : technique de pointe, alternance couloirs et espaces ouverts, IA avancée, pas de séparation des niveaux qui se suivent logiquement et se "fondent" les uns dans les autres, fort élément narratif avec PNJ qui ont des dialogues et mises en scène scriptées, cinématiques ingame qui restent à la première personne en permanence
+Half-Life (1998, Windows, Valve) : technique de pointe, alternance couloirs et espaces ouverts, IA avancée, pas de séparation des niveaux qui se suivent logiquement et se "fondent" les uns dans les autres, fort élément narratif avec PNJ qui ont des dialogues et mises en scène scriptées, cinématiques ingame qui restent à la première personne en permanence, référence pour les FPS solo à histoire
 
 Starsiege Tribes (1998, Windows, Dynamix) : maps immenses, 32 joueurs en simultané, jeu en équipe avec classes spécialisée, jet pack
 
-Medal of Honor (1999, Windows, DreamWorks Interactive) : univers moderne réaliste et crédible vs SF/medfan, scénario de type film d'action, premier shooter à grand spectacle, scène de débarquement viscérale inspirée de Il Faut Sauver le Soldat Ryan, gros succès qui lance une mode de FPS WWII encore visible aujourd'hui
+Medal of Honor (1999, Windows, DreamWorks Interactive) : univers moderne réaliste et crédible vs SF/medfan, scénario de type film d'action écrit par Spielberg, premier shooter à grand spectacle, scène de débarquement viscérale inspirée de Il Faut Sauver le Soldat Ryan, gros succès qui lance une mode de FPS WWII encore visible aujourd'hui
 
 Quake III Arena (1999, Windows, id Software) et Unreal Tournament (1999, Windows, Epic) : focus sur jeu en ligne sans aucun solo, les deux ont surtout permi la vente de leurs moteurs respectifs à des dizaines/centaines de boîtes
 
-Counter Strike (1999, Windows) : jeu tactique en équipe, premier mod avec autant de succès, ré-intégré en 2000 dans le giron de Valve et sort en version standalone, extrêmement influent sur l'esport et les FPS multi
+Counter Strike (1999, Windows) : jeu tactique en équipe, premier mod avec autant de succès, ré-intégré en 2000 dans le giron de Valve et sort en version standalone, extrêmement influent sur l'esport et les FPS multi, plus posé, moins basé sur les réflexes mais plus sur la tactique et le jeu en équipe, grosse part de furtivité, pas de respawn immédiat donc plus réfléchi, plus facile de suivre l'action pour les spectateurs
 
-Deus Ex (2000, Windows, Ion Storm) : à mi-chemin entre RPG et FPS
+Deus Ex (2000, Windows, Ion Storm) : à mi-chemin entre RPG et FPS, plein de choix d'approche avec furtivité, hacking ou bourrinage
 
 SWAT 3 (2000, Windows, Sierra) : tactiques et procédures réelles, privilégie le non-léthal, arrêt des ennemis
 
 Operation Flashpoint (2001, Windows) : immense carte, simulation de combat réel très réaliste pour l'époque, nombreux véhicules, visée ironsight, IA avancée, suivre les ordres supérieurs, donner des ordres aux alliés
 
-Halo (2001, Xbox, Bungie) : alternance couloirs et espaces ouverts, look lumineux et fluo plutôt que sombre, multiples véhicules, repense les contrôles des FPS console qui deviennent beaucoup plus accessibles, univers travaillé et gros focus sur l'histoire, IA évoluée qui interagit entre elle (flood/covenant), énorme succès commercial, bouclier qui se recharge, autoaim et bullet magnetism généreux, premier multi LAN sur console
+Halo (2001, Xbox, Bungie) : alternance couloirs et espaces ouverts, look lumineux et fluo plutôt que sombre, multiples véhicules (premiers dans un FPS grand public), armes réellement variées et originales, repense les contrôles des FPS console qui deviennent beaucoup plus accessibles, univers travaillé et gros focus sur l'histoire, IA évoluée qui interagit entre elle (flood/covenant), énorme succès commercial, bouclier qui se recharge, autoaim et bullet magnetism généreux, premier multi LAN sur console
 
 Serious Sam (2001, Windows, Croteam) : retour aux racines simples et brutales
 
 Metroid Prime (2002, Gamecube, Retro) : prend la formule Metroid avec exploration et puzzles, et la fait jouer en FPS mais sans que le tir soit un aspect primordial
 
-Battlefield 1942 (2002, Windows, EA) : FPS uniquement multi à beaucoup avec plein de véhicules, pousse les tactiques de squad et le jeu en équipe
+Battlefield 1942 (2002, Windows, EA) : FPS uniquement multi à beaucoup, classes, véhicules, plusieurs types d'objectifs qui permettent à chacun de jouer à sa manière, pousse les tactiques de squad et le jeu en équipe
 
 Planetside (2003, Windows, Sony) : premier MMO/FPS
 
+Call of Duty (2003, Windows, Activision) : reprend la formule de Medal of Honor mais on change de personnage et on joue sur plusieurs fronts (US, UK, Russe)
+
 Far Cry (2004, Windows, Crytek) : moteur avancé avec végétation, moteur physique, environnement ouvert et liberté d'exploration et d'approche des situations
 
-Halo 2 (2004, Xbox, Bungie) : premier multi online sur console
+Halo 2 (2004, Xbox, Bungie) : premier matchmaking : playlists, groupes, ranking
 
 Half-Life 2 (2004, Windows, Valve) : moteur physique avancé
 
