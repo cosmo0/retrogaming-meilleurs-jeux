@@ -92,13 +92,30 @@ Half-Life 2 (2004, Windows, Valve) : moteur physique avancé
 
 ## TPS
 
-Tomb Raider
+Les TPS sont souvent mélangés avec les FPS pour l'objectif final (tirer sur tout ce qui bouge), mais permettent des types de jeux très différents, notamment au niveau des mouvements possibles. La visualisation constante de l'avatar facilite aussi le développement du personnage.  
+Dans les TPS ci-dessous j'intègre aussi les jeux plus orientés infiltration comme Metal Gear Solid, qui ont souvent eu beaucoup d'influence sur d'autres TPS.
+
+Last Survivor (1988, arcade, Sega) : premier TPS basique avec déplacements libres
+
+Virtuoso (1994, DOS, Elite) : moteur type Doom, possibilité de s'adosser aux murs
+
+Fade To Black (1995, DOS, Delphine) : suite de Flashback, 3D polygonale complète avec éléments d'aventure et de plateforme
+
+Tomb Raider (1996, Playstation/Saturn/DOS, Eidos) : étape majeure, premier FPS vraiment jouable même si encore très rigide, mélange de shooter et de Prince of Persia des temps modernes, plateformes/puzzles/combats, nombreux mouvements rendus possibles par la vue extérieure, héroïne à forte... personnalité, mélange de caméra manuelle et automatique avec quelques points de vue larges
+
+MDK (1997, DOS, Shiny) : esprit FPS dans un TPS, mélange d'autres styles comme plateforme ou snowboard, passe en FPS pour le sniper qui zoome à 100x, parachute qui permet de s'envoler
+
+Metal Gear Solid (1998, Playstation, Konami) : jeu majeur pas seulement en TPS, premier TPS orienté infiltration avec beaucoup de possibilités et de subtilités (Thief sorti la même année avec moins de succès), radar avec cônes de vision, très cinématique qui essaye de copier les films avec cutscenes très longues et gros travail de mise en scène, histoire un peu délirante mais originale et très politique
+
+Kill Switch (2003, Playstation 2/Xbox, Namco) : couverture et tir à l'aveugle derrière des murets et autres éléments de décor, repris par tous les TPS depuis notamment Gears of War
+
+Resident Evil 4 (2005, Gamecube, Capcom) : définit la caméra "par-dessus l'épaule" avec personnage excentré
 
 ---
 
 ## Sources
 
-- [Wikipedia](https://en.wikipedia.org/wiki/First-person_shooter)
+- [Wikipedia](https://en.wikipedia.org/)
 - [The Complete History of FPS (geek.com)](https://www.geek.com/games/the-complete-history-of-first-person-shooters-1713135/)
 - [The history of FPS (PCGamer)](https://www.pcgamer.com/the-history-of-the-first-person-shooter/)
 - [Headshot: A Visual history of FPS (Ars Technica)](https://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/)
