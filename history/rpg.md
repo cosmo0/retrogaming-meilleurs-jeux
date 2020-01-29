@@ -178,11 +178,11 @@ Les Tactical (en occident) ou Strategy (au Japon) RPG sont caractérisés par de
 
 Certains RPG que l'on qualifierait de "traditionnels" ont des combats qui correspondent à cette définition, comme par exemple **Tunnels of Doom** (1982, TI-99), **The Dragon and Princess** (1982, PC) ou **Ultima III** (1983, Apple II), mais ces jeux sont avant tout des RPG qui ont des combats tactiques, alors que les TRPG sont des jeux de tactique avec des éléments RPG. Il faudra attendre **Wizard's Crown** (1985, Apple II) pour voir apparaître les éléments des TRPG comme on les connaît aujourd'hui.
 
+A noter quelques titres de stratégie sans élément de RPG, mais qui ont été très influents sur les TRPG : **Romance of the Three Kingdoms** (1985, PC) par les développeurs de Nobugana's Ambition, et **Daisenryaku** (1985, PC), qui influencera **Famicom Wars** (1988, Famicom) par les développeurs de Fire Emblem.
+
 **Bokosuka Wars** (1983, PC) est le premier jeu à **mélanger stratégie et RPG**, et **pose les fondations du genre**.
 
 **Nobugana's Ambition** (1983, PC) est, à l'inverse, un **jeu de stratégie dans lequel sont insérés des morceaux de RPG**
-
-**Romance of the Three Kingdoms** (1985, PC) est une série de **jeux de stratégie** qui n'ont que de très vagues éléments de RPG, mais sont tout de même très populaires et influents sur le genre au Japon.
 
 **Silver Ghost** (1988, PC) mélange **stratégie temps réel** en point & click, et **combats action** ; il influencera la création de Shining Force.
 
