@@ -126,6 +126,8 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 
 **Dragon Quest III** (1988, Famicom) est le premier qui permet de **changer la classe des personnages** à n'importe quel moment, ce qui inspirera le système de "job" de **Final Fantasy III** (1990, Famicom).
 
+**Digan no Maseki**/The Magic Stone of Digan (1988, PC) est un RPG original avec son focus sur la **simulation du monde** : cycle jour/nuit, le besoin de manger et de dormir, une **gestion des blessures et même des maladies** bénignes ou graves, le **besoin de travailler** pour gagner de l'argent... Des personnages peuvent être recrutés mais ne sont **pas contrôlables directement**, et leurs réactions dépendent de leurs relations avec le joueur.
+
 :star: **Phantasy Star II** (1989, Megadrive) sera un des premiers avec une **histoire centrée sur les personnages** qui touche des **sujets importants et personnels** avec une **morale ambiguë**, plutôt que les classiques "sauver le monde/la princesse/tuer le méchant" ; tout ceci sera **repris par la plupart des JRPG** par la suite, et qui les distinguera des CRPG pendant de nombreuses années.
 
 **Sweet Home** (1989, Famicom) est considéré comme le **premier survival horror** et servira de modèle à Resident Evil, bien des années plus tard.
@@ -138,7 +140,7 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 
 **Metal Max** (1991, Famicom) est une **forme primitive d'open world** libre et non dirigiste. C'est aussi le premier RPG qui permet de **continuer à jouer après la fin**, aujourd'hui appelé "post-game".
 
-**Dragon Quest V** (1992, SNES) propose une **histoire non linéaire** avec un découpage original, et introduit le concept de **capture de monstres**, qui sera repris par vous-savez-qui.
+**Dragon Quest V** (1992, SNES) propose une **histoire non linéaire** avec un découpage original, et introduit le concept de **capture de monstres**, qui sera repris par Pokémon.
 
 **Shin Megami Tensei** (1992, SNES) développe un système d'**alignement moral** chaotique / neutre / loyal qui influe sur l'histoire ; même si ce n'est pas le premier à l'utiliser, **Hydlide II** (1985) utilisant déjà un système similaire, c'est le premier qui s'en sert pour **changer les fins disponibles**.
 
@@ -179,6 +181,8 @@ Certains RPG que l'on qualifierait de "traditionnels" ont des combats qui corres
 **Bokosuka Wars** (1983, PC) est le premier jeu à **mélanger stratégie et RPG**, et **pose les fondations du genre**.
 
 **Nobugana's Ambition** (1983, PC) est, à l'inverse, un **jeu de stratégie dans lequel sont insérés des morceaux de RPG**
+
+**Romance of the Three Kingdoms** (1985, PC) est une série de **jeux de stratégie** qui n'ont que de très vagues éléments de RPG, mais sont tout de même très populaires et influents sur le genre au Japon.
 
 **Silver Ghost** (1988, PC) mélange **stratégie temps réel** en point & click, et **combats action** ; il influencera la création de Shining Force.
 
