@@ -2,6 +2,11 @@
 
 Il y a beaucoup de sous-genre de platformers : certains plus concentrés sur l'aspect "plateforme" pur, d'autres sur les puzzles, d'autres sur l'action, d'autres encore sur l'exploration. Les jeux d'exploration, aujourd'hui appelés metroidvania, ont une histoire suffisament distincte, mais les autres ont une histoire très mêlée, et il est difficile de les distinguer et séparer.
 
+Les jeux de plateforme les plus influents sont **Donkey Kong** et ses sauts au-dessus d'obstacles et de trous ; **Pitfall** et ses multiples écrans ; **Super Mario Bros**, ses multiples mondes, la précision de son gameplay et ses nombreux secrets ; et **Super Mario 64** et son passage réussi à la 3D.
+
+Le genre est encore très populaire aujourd'hui, particulièrement chez les développeurs indépendants, qui aiment y mélanger beaucoup d'autres genres : aventure, RPG, etc.  
+Après Symphony of the Night, les metroidvania ont connu un longue période de creux ponctuée de quelques Castlevania sur Game Boy Advance et DS, puis plus rien jusqu'à l'explosion récente de jeux indés dans le genre.
+
 ## Plate-forme, action et puzzle
 
 Space Panic (1980, arcade, Universal) : plateformes desquelles on peut tomber (mais pas sauter)
@@ -50,11 +55,9 @@ Bug! (1995, Saturn) : visualisation 3D mais gameplay 2D
 
 Jumping Flash (1995, Playstation) : vrai gameplay 3D, exploration et shoot, premier vrai platformer 3D sur console
 
-Crash Bandicoo (1996, Playstation) : premier "vrai" gameplay 3D mais pas partout et très restreint
+Crash Bandicoot (1996, Playstation) : premier "vrai" gameplay 3D mais pas partout et très restreint
 
 Super Mario 64 (1996, N64) : exploration libre de niveaux, plusieurs objectifs nécessitent de refaire plusieurs fois, utilise le stick analogique, caméra dynamique
-
-Tomb Raider (1996, Playstation/Saturn/DOS) : shooter avec gros passages plateforme, exploration et puzzle
 
 ## Exploration, metroidvania
 

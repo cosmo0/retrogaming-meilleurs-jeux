@@ -1,6 +1,12 @@
 # Course
 
-Jeux électro-mécaniques
+De tous temps, les jeux de course ont été populaires, y compris avec les jeux électro-mécaniques des années 60/70, à la fois rudimentaires et ingénieux.
+
+Les jeux les plus influents sont **Pole Position** qui définit tous les marqueurs du genre ; **Formula One Grand Prix** et son focus sur le réalisme ; **Mario Kart 64** et son focus sur l'accessibilité ; et **Gran Turismo**, sa variété et son équilibre entre réalisme et accessibilité.
+
+Le genre est toujours relativement populaire, mais a du mal à se diversifier : simulations plus ou moins accessibles (Forza/Gran Turismo), jeux de kart avec objets (Mario Kart), et jeux "arcade" faciles d'accès (Need for Speed) sont grosso modo les seuls genres existant.
+
+---
 
 Space Race (1973, Atari) : premier jeu de course
 

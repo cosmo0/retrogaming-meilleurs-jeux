@@ -1,12 +1,18 @@
 # Combat
 
-Sauf exception notée, la plupart des jeux de combat et beat'em up sont sortis sur arcade avant tout.
+Les jeux de combat et les beat'em up ont une histoire mêlée, les seconds s'inspirant beaucoup des premiers.
+
+Les jeux les plus influents sont **Yie Ar Kung Fu** et ses multiples adversaires ; **Street Fighter II** et ses combos qui rendent le jeu technique ; et **Battle Arena Toshiden** et ses pas latéraux qui font entrer le style dans la 3D, même si c'est plutôt **Tekken** qui le popularisera.
+
+Le genre a connu son heure de gloire dans les années 90, mais comme pour les shmups, la technicité toujours plus grande des jeux a progressivement fait basculer les jeux de baston vers une niche de joueurs hardcore.
 
 ## Fighting, versus
 
+Sauf exception (notée), la plupart des jeux de combat sont sortis sur arcade avant tout.
+
 Heavyweight Champ (1976, Sega) : premier jeu de combat rudimentaire, borne complexe
 
-Punch Out (1983, Nintendo)
+Punch Out (1983, Nintendo) : basé sur le timing et les esquives/contres
 
 Karate Champ (1984, Data East) : plusieurs coups, commence à populariser le genre
 
@@ -48,22 +54,22 @@ Super Smash Bros. (1999, Nintendo) : jeu de baston orienté fun : 4 joueurs, ite
 
 ## Beat'em Up
 
-Le genre a connu une vague de popularité à la fin des années 80 et au début des années 90, avant de s'arrêter brutalement face au succès des jeux de combat en versus, Street Fighter 2 en tête. Le genre connaît un renouveau récemment, notamment chez les indépendants, mais il n'y a pas grand-chose de novateur.
+Le genre a connu une vague de popularité à la fin des années 80 et au début des années 90, avant de s'arrêter brutalement face au succès des jeux de combat en versus, Street Fighter 2 en tête. Le genre connaît un renouveau récemment, notamment chez les indépendants, mais il n'y a pas grand-chose de novateur depuis **Double Dragon**.
 
-Kung Fu Master/Spartan X (1984, Irem) : premier beat'em up, basique et répétitif
+Kung Fu Master/Spartan X (1984, arcade, Irem) : premier beat'em up, basique et répétitif
 
-Karateka (1984, Apple II) : combine combats versus et déplacements libres, ajoute une histoire
+Karateka (1984, Apple II, Broderbund) : combine combats versus et déplacements libres, ajoute une histoire
 
-Renegade (1986, Technos) : environnement urbain et persos racailles, histoire de vengeance, déplacements verticaux, combos
+Renegade (1986, arcade, Technos) : environnement urbain et persos racailles, histoire de vengeance, déplacements verticaux, combos
 
-Double Dragon (1987, Technos) : deux joueurs coopératif, armes temporaires ramassées, gros succès qui génère plein de copies
+Double Dragon (1987, arcade, Technos) : deux joueurs coopératif, armes temporaires ramassées, gros succès qui génère plein de copies
 
-Final Fight (1989, Capcom) : excellente technique, trois personnages différents, techniques plus complexes
+Final Fight (1989, arcade, Capcom) : excellente technique, trois personnages différents, techniques plus complexes
 
-Golden Axe (1989, Sega) : environnement medfan Conan-style, coups spéciaux qui nettoient l'écran à base de magie à ramasser (repris par Streets of Rage), montures à chevaucher
+Golden Axe (1989, arcade, Sega) : environnement medfan Conan-style, coups spéciaux qui nettoient l'écran à base de magie à ramasser (repris par Streets of Rage), montures à chevaucher
 
-River City Ransom (1989, Technos, Famicom) : mélange RPG avec argent, monde à explorer, etc
+River City Ransom (1989, Famicom, Technos) : mélange RPG avec argent, monde à explorer, etc
 
-Teenage Mutant Ninja Turtles (1989, Konami) : 4 joueurs coop
+Teenage Mutant Ninja Turtles (1989, arcade, Konami) : 4 joueurs coop
 
-Battletoads (1991, Rare, Famicom) : difficulté démente, mélange d'autres genre, pas seulement BTU
+Battletoads (1991, Famicom, Rare) : difficulté démente, mélange d'autres genre, pas seulement BTU

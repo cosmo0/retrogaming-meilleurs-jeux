@@ -8,6 +8,10 @@ Très tôt, les RPG Japonais cherchent à **créer leurs propres règles et leur
 
 Les JRPG aiment aussi intégrer des éléments d'autres styles de jeux : visual novel, drague, "life sim", etc... alors que les CRPG restent centrés uniquement sur les aspects RPG et aventure jusque dans les années 2000. A l'inverse, les CRPG se préoccupent énormément, encore une fois dans la lignée de D&D, de laisser un maximum de choix au joueur, avec des systèmes d'alignement moral, des multiples résolutions de quêtes, une personnalisation des stats et du personnage, etc, tandis que les JRPG ont plutôt tendance à suivre des histoires prédéfinies, parfois avec plusieurs fins possibles.
 
+Les CRPG les plus influents au début sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres, et **Ultima**, qui y rajoute un peu d'overworld. La plupart des RPG se contenteront de recopier, étendre et améliorer la formule. L'histoire des CRPG est assez linéaire, et même si ils se piquent tous des idées les uns aux autres, à part Wizardry et Ultima, il n'y a pas vraiment de jeu "avant/après" qui définit ou transforme le genre, contrairement aux JRPG ou à d'autres genres.
+
+Le genre est un peu tombé à l'abandon, et sauf quelques exceptions, se sont très mélangés avec les jeux d'actions et les shooters.
+
 ## RPG occidentaux (CRPG)
 
 A noter [un excellent livre, gratuit, extrêmement complet sur l'histoire des CRPG](https://crpgbook.wordpress.com/) dont une [copie basse définition est disponible ici](../ressources/crpg_book_lowdef.pdf).
@@ -17,8 +21,6 @@ L'origine des CRPG et des jeux d'aventure est extrêmement mêlée, les jeux com
 Dans ces anciens jeux sur mainframe, on pourra noter **Maze War** (1973), le premier jeu qui se joue à la première personne dans un labyrinthe en wireframe (mais qui n'est pas un RPG), **dnd** (1974), le premier jeu avec des boss, **Dungeon** (1975), le premier à implémenter les règles de D&D, **pedit5** (1975), le premier dungeon crawler avec un placement aléatoire des ennemis, et surtout **Moria** (1975), un système de stats basé sur l'utilisation des compétences, le besoin de manger, un monde immense avec une grande ville et plus de 200 niveaux, et surtout, c'est le premier jeu multijoueur : jusqu'à 10 personnes peuvent jouer ensemble. **Oubliette** (1977) a 15 classes, un monde vaste, des boutiques, une ville, des mini-jeux, un temple, et la possibilité de charmer des monstres pour qu'ils combattent à vos côtés. En 1980 est créé **MUD** (Multi-User Dungeon), un RPG/jeu d'aventure textuel multijoueur, et le premier jeu jouable sur ARPANET (l'ancêtre d'internet). Il inspirera toute une série de clones, dont certains continueront à sortir dans les années 90.
 
 Les premiers ordinateurs personnels (Apple II et compagnie) sont accompagnés par des manuels, qui donnent souvent des listings de code qui permettent de créer des jeux primitifs, y compris des RPG/dungeon crawlers simples ; les magazines de l'époque ont également des pages dédiées à ce genre de pratique. Dans les années 77 et 78 vous trouverez donc un grand nombre de jeux basiques de ce type.
-
-Les CRPG les plus influents au début sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres, et **Ultima**, qui y rajoute un peu d'overworld. La plupart des RPG se contenteront de recopier, étendre et améliorer la formule. L'histoire des CRPG est assez linéaire, et même si ils se piquent tous des idées les uns aux autres, à part Wizardry et Ultima, il n'y a pas vraiment de jeu "avant/après" qui définit ou transforme le genre, contrairement aux JRPG ou à d'autres genres.
 
 **Temple of Apshai** (1979, TRS-80) est le **premier RPG graphique vendu sur ordinateur personnel**, mais les graphismes sont très... abstraits. Il aura de nombreuses suites, et la série sera **très bien vendue** pour l'époque.
 

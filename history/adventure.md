@@ -2,7 +2,7 @@
 
 Tout comme les shmups, l'origine des jeux d'aventure peut être retracée aux ordinateurs "mainframe" de plusieurs tonnes trouvables dans les universités et centres de recherche. Leur disponibilité est donc très réduite, mais leur influence est tout aussi considérable. Deux acteurs majeurs se font concurrence dans les années 80 et 90, Sierra On-Line et Lucas Arts, avec deux approches différentes du jeu d'aventure ; ils ne survivront malheureusement pas aux années 90.
 
-Les jeux d'aventure les plus marquants sont **King's Quest** et ses graphismes avancés (pour l'époque) ; **Déjà Vu** et son interface évoluée ; **Maniac Mansion** et son design "permissif" ; et **Myst** qui se contente d'une série de puzzles presque sans histoire autour.
+Les jeux d'aventure les plus influents sont **King's Quest** et ses graphismes avancés (pour l'époque) ; **Déjà Vu** et son interface évoluée ; **Maniac Mansion** et son design "permissif" ; et **Myst** qui se contente d'une série de puzzles presque sans histoire autour.
 
 Les jeux d'aventure ont suivi une évolution assez directe depuis les jeux purement textuels jusqu'aux point & click, puis tombe en désuétude au milieu des années 90. Il reviendra bien plus tard sous la forme d'histoires interactives, de "walking simulators", et de puzzles games type "escape the room".
 

@@ -1,6 +1,6 @@
 # Shmups
 
-Les shmups (shoot'em up) ont une histoire assez simple et "linéaire".
+Les shmups (shoot'em up) ont une histoire assez simple et "linéaire" : écran fixe, scrolling, powerups, puis bullet hell.
 
 Les jeux qui marquent vraiment un tournant sont **Space Invaders** qui popularise le genre ; **Defender** qui introduit le scrolling libre et **Scramble** qui introduit le scrolling forcé et les niveaux ; **Gradius** qui marque l'arrivée des powerups et armes multiples ; et **DonPachi** qui définit le sous-genre des bullet hell, le plus courant dans les shmups modernes.
 
