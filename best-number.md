@@ -272,7 +272,7 @@ The Curse of Monkey Island (Windows) est le plus accessible, et très bon.
 Les deux premiers épisodes (DOS) sont aussi très bons, mais un peu plus old school.
 
 **Mortal Kombat**  
-Ultimate Mortal Kombat 3 (arcade, SNES, Megadrive) est la version 16 bits la plus complète, mais certains lui préfèrent l'épisode 2 (arcade, SNES, Megadrive).  
+Ultimate Mortal Kombat 3 (arcade, SNES) est la version 16 bits la plus complète, mais certains lui préfèrent l'épisode 2 (arcade, SNES, Megadrive).  
 Evitez les épisodes 3D des générations PS1 et PS2, oscillant entre le médiocre et le mauvais.
 
 **Need for Speed**  

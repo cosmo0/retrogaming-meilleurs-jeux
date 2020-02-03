@@ -218,13 +218,18 @@ Les épisodes suivants ne sont sortis que sur PC (DOS puis Windows).
 
 **Mortal Kombat**  
 La version arcade est l'originale, et la référence.  
-La version Megadrive est supérieure à la version SNES, mais la version Mega CD est encore meilleure.  
-La version DOS est quasiment "arcade-perfect".
+La version Megadrive est correcte, mais la version Mega CD est encore meilleure, malgré un combat final qui lag. La version SNES est médiocre.  
+La version PC-CDROM est excellente mais manque de fluidité quand elle tourne sous DOSBox.
 
 **Mortal Kombat 2**  
 La version arcade est l'originale, et la référence.  
 Cette fois-ci c'est la version SNES qui est supérieure à la version Megadrive, mais pas de beaucoup.  
-En revanche, la version 32X est encore meilleure, et quasiment "arcade-perfect".
+En revanche, la version Sega 32X est encore meilleure, et quasiment "arcade-perfect".
+
+**Mortal Kombat 3/Ultimate Mortal Kombat 3**
+Les versions arcade sont les originales, et les références.  
+Les versions SNES sont aussi correctes que pour MK2, en revanche les versions Megadrive sont moins bonnes cette fois-ci.  
+La version DS de UMK3 est quasiment arcade-perfect, et inclut en plus le mode "puzzle kombat".
 
 **Ninja Gaiden/Shadow Warrior**  
 Accrochez-vous bien.
