@@ -110,15 +110,3 @@ Metal Gear Solid (1998, Playstation, Konami) : jeu majeur pas seulement en TPS, 
 Kill Switch (2003, Playstation 2/Xbox, Namco) : couverture et tir à l'aveugle derrière des murets et autres éléments de décor, repris par tous les TPS depuis notamment Gears of War
 
 Resident Evil 4 (2005, Gamecube, Capcom) : définit la caméra "par-dessus l'épaule" avec personnage excentré
-
----
-
-## Sources
-
-- [Wikipedia](https://en.wikipedia.org/)
-- [The Complete History of FPS (geek.com)](https://www.geek.com/games/the-complete-history-of-first-person-shooters-1713135/)
-- [The history of FPS (PCGamer)](https://www.pcgamer.com/the-history-of-the-first-person-shooter/)
-- [Headshot: A Visual history of FPS (Ars Technica)](https://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/)
-- [Bullet Bombs: A History of FPS (GamesRadar)](https://www.gamesradar.com/bullets-bombs-history-first-person-shooters/)
-- [The origin of FPS arcade games (Charleston Fun Park)](https://charlestonfunpark.com/the-origin-of-first-person-shooter-arcade-games/)
-- [The 10 most influencial FPS in history (Gamecrate)](https://www.gamecrate.com/10-most-influential-games-fps-history/17217)

@@ -37,9 +37,3 @@ Football Champ (1990, Taito) : peut faire des fautes volontairement (coup de pie
 Tecmo Super Bowl (1991, NES, Tecmo) : premier avec toutes les licences tournois, équipes, joueurs ; avant c'était l'un ou l'autre
 
 Virtua Striker (1994, Sega) : premier en 3D polygonale
-
----
-
-## Sources
-
-- [Wikipedia](https://www.wikipedia.org/)

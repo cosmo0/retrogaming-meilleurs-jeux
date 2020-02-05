@@ -65,9 +65,3 @@ Mario Kart 64 (1996, N64, Nintendo) : items obtenus aléatoirement selon la posi
 Gran Turismo (1997, Playstation, Polyphony) : première simu console qui reste accessible, plein de tuning, des tonnes de voitures à acheter, mode carrière avec progression libre et permis à passer
 
 Midtown Madness (1999, Windows, Microsoft) : premier jeu de course open world
-
----
-
-## Sources
-
-- [Wikipedia](https://www.wikipedia.org/)
