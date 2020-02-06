@@ -1,112 +1,108 @@
 # Shooter, FPS, TPS
 
-J'inclus uniquement des shooters "à pied" (sauf Battlezone), donc pas Descent par exemple : même si le concept central est proche, le jeu se rapproche plus des simulations spatiales. En revanche j'inclus quelques jeux qui ne sont pas vraiment des shooters, notamment Ultima Underworld qui a eu une influence considérable sur Doom.
+J'inclus uniquement des shooters "à pied", donc pas Descent par exemple : même si le concept central est proche, le jeu se rapproche plus des simulations spatiales. En revanche, je mélange les FPS et les "immersive sim" (System Shock, Deus Ex...) qui sont souvent difficile à vraiment distinguer, ainsi que Ultima Underworld qui est plutôt un RPG, mais a eu une influence considérable sur les FPS.
 
-Les FPS influents sont nombreux : **Wolfenstein 3D** et son moteur révolutionnaire ; **Doom** avec son gameplay ultra nerveux, ses vastes niveaux, ses mods et son multijoueur ; **Quake** avec son moteur 3D et la popularisation du multijoueur en ligne ; **Golden Eye 007** avec tous ses gadgets et l'accessibilité des FPS sur console ; **Half-Life** avec son scénario et sa mise en scène ; **Medal of Honor** et sa réalisation à grand spectacle dans un environnement réaliste ; **Quake III** et **Unreal Tournament** et leur totale dédication au multijoueur ; **Halo** avec ses adaptations pour le contrôle au pad.
+L'origine des FPS peut être retracée à **Maze War** (1973/1974) sur mainframe ; c'est un FPS multijoueur, il peut avoir des adversaires contrôlés par le CPU avec une IA basique, des couloirs tracés en vecteurs, un déplacement case par case, une représentation basique des adversaires, une carte du niveau qui présente la position du joueur, un éditeur de niveaux, un mode spectateur, il est jouable en ligne à 8 (sur Arpanet), il a un tableau de scores en ligne, des codes de triche, des hacks, et des mesures préventives contre la triche.
 
-Le genre est encore très populaire aujourd'hui, ils sont de plus en plus complexes et diversifiés, continuent à créer des avancées en terme de gameplay et game design, et mélangent de plus en plus d'autres genres : RPG, aventure, plateforme, puzzle, etc.
+Les FPS influents sont nombreux : **Wolfenstein 3D** et son moteur révolutionnaire ; **Doom** avec son gameplay ultra nerveux, ses vastes niveaux, ses mods et son multijoueur ; **Quake** avec son moteur 3D et la popularisation du multijoueur en ligne ; **Golden Eye 007** avec tous ses gadgets et l'accessibilité des FPS sur console ; **Half-Life** avec son scénario et sa mise en scène ; **Medal of Honor** et sa réalisation à grand spectacle dans un environnement réaliste ; **Quake III** et **Unreal Tournament** et leur totale dédication au multijoueur ; **Halo** et ses adaptations pour le contrôle au pad et son bouclier qui se recharge ; **Halo 2** et son matchmaking.
 
-## FPS
+Le genre est encore très populaire aujourd'hui, les shooters sont de plus en plus complexes et diversifiés, continuent à créer des avancées en terme de gameplay et game design, et mélangent de plus en plus d'autres genres : RPG, aventure, plateforme, puzzle, MMO, etc.
 
-Maze War (1973/1974) : FPS multijoueur, adversaires CPU avec IA basique, couloirs en vecteurs, déplacements par cases, représentation basique des adversaires, triche et hack et mesures préventives, carte du niveau avec position du joueur, éditeur de niveaux, mode spectateur, jouable sur Arpanet à 8, online scoreboard
+## FPS et Immersive Sim
 
-Battlezone (1980, arcade, Atari) : basé sur un simulateur pour l'armée, premier FPS à succès commercial
+**Wayout** (1982, Atari 8 bit, Sirius) est le premier FPS à permettre le **mouvement libre** et non pas sur des cases, et utilise le **ray casting** pour afficher ses niveaux.
 
-Wayout (1982, Atari 8 bit, Sirius) : premiers mouvements libres, utilise du ray casting
+**MIDI Maze** (1987, Atari ST, Xanth) est le premier à permettre du **deathmatch** en LAN sur des machines grand public (le deathmatch était déjà possible sur mainframe et sur bornes d'arcade).
 
-MIDI Maze (1987, Atari ST, Xanth) : premier deathmatch en LAN sur machine grand public
+**The Colony** (1988, Macintosh, Mindscape) est très peu connu et pas très influent, mais très novateur : c'est la **première "immersive sim"** qui permet **énormément d'interactions**, avec une **grande carte à explorer**, et une **visée semi-libre à la souris**.
 
-The Colony (1988, Macintosh, Mindscape) : très peu connu et pas très influent, mais très novateur. Premier "immersive sim" avec plein d'interactions, grande carte à explorer, visée semi-libre à la souris
+**Catacomb 3D** (1991, DOS, id Software) utilise la première version du fameur moteur id Software en **ray-casting avec des murs texturés**, ce qui permet d'accélérer la vitesse d'affichage, et est le premier à **afficher l'arme sélectionnée**. Le moteur était déjà utilisé sur **Hovertank 3D** (1991), mais sans textures. La technique s'inspire de ce que Carmack a entendu du développement en cours de Ultima Underworld.
 
-Catacomb 3-D (1991, DOS, id Software) : premier moteur en ray-casting qui ne traite que ce qu'on voit (utilisé sur Hovertank 3D, jeu précédent de id Software), murs texturés inspiré de ce que Carmack a entendu du développement de Ultima Underworld, affiche l'arme sélectionnée
+:star: **Ultima Underworld** (1992, DOS, Looking Glass) permet le **regard vers le haut et le bas**, affiche des **murs à 45°** (et pas seulement 90), des niveaux sur **plusieurs hauteurs**, des **surfaces inclinées**, permet de **sauter**, a un **inventaire**, et possède un **moteur physique** rudimentaire. C'est plutôt un RPG qu'un FPS, mais son influence sur les FPS est considérable.
 
-Ultima Underworld (1992, DOS, Looking Glass) : regard haut/bas, murs à 45° (et pas seulement 90), plusieurs hauteurs, surfaces inclinées, peut sauter, moteur physique
+:star: **Wolfenstein 3D** (1992, DOS, id Software) est inspiré par Ultima Underworld, mais en **version rapide et nerveuse**. Il n'a **aucun élément narratif** et se contente d'une pure action, et a supprimé de nombreux éléments prévus à la base pour accélérer le gameplay : pouvoir cacher les corps, objets de quête, etc. Il est aussi le premier jeu à se concentrer sur la **représentation du personnage** à travers le **"head bob"** en marchant, ou avec **l'écran qui devient rouge** quand on se fait toucher. Il est encore attaché aux racines des "jeux de labyrinthes" avec beaucoup de recoins et de portes secrètes, et des niveaux tortueux. C'est le **premier gros succès** grâce à (ou malgré) son **ultra violence** et son **imagerie controversiale**.
 
-Wolfenstein 3D (1992, DOS, id Software) : inspiré par Ultima Underworld mais en rapide et nerveux, aucun élément narratif et pur action, suppression de plein d'éléments prévus : cacher les corps, items de quête, etc. Focus sur la représentation du personnage à travers le "head bob" en marchant ou l'écran qui devient rouge quand on se fait toucher. Encore attaché aux racines des "jeux de labyrinthes" avec plein de recoins et de portes secrètes. Premier gros succès grâce à (ou malgré) son ultra violence et imagerie controversiale.
+**Gun Buster** (1992, arcade, Taito) est un **mélange de FPS et de light gun**, et le premier à permettre le **team deathmatch**.
 
-Gun Buster (1992, arcade, Taito) : mélange FPS et light gun, team deathmatch
+:star: **Doom** (1993, DOS, id Software) est un **énorme succès**, et est **encore joué aujourd'hui**. Son moteur permet l'**éclairage localisé et dynamique** pour avoir des zones plus sombres que d'autres, il a des **niveaux vastes**, ouverts et variés, des **musiques** qui tabassent, a un **mode deathmatch** extrêmement populaires (et invente le terme au passage), et a encore une **extrême violence** (pour l'époque) et une **imagerie démoniaque sujette à controverse**. Son succès est également dû à la **facilité de créer des mods** grâce à la séparation des assets et du moteur ; des mods sont d'ailleurs encore créés aujourd'hui.
 
-Doom (1993, DOS, id Software) : énorme succès, encore joué aujourd'hui, éclairage localisé et dynamique, niveaux vastes, ouverts et variés, musiques qui tabassent, deathmatches (+ invention du terme) extrêmement populaires, violence et imagerie démoniaque à controverse, volontairement moddable grâce à la séparation des assets et du moteur, mods encore créés aujourd'hui.
+**Pathways Into Darkness** (1993, Mac, Bungie) est un FPS qui intègre une aventure avec de nombreux **éléments narratifs**.
 
-Pathways Into Darkness (1993, Mac, Bungie) : aventure avec éléments narratifs
+**Heretic** (1994, DOS, Raven) est le premier à permettre la **visée verticale**, et est le premier à implémenter des **"gibs"**, ces morceaux d'ennemis qui volent lorsqu'ils explosent.
 
-Heretic (1994, DOS, Raven) : visée verticale, inventaire, gibs
+**Rise of the Triad** (1994, DOS, Apogee) permet de choisir parmi **cinq personnages**, et a des **objets destructibles**.
 
-Rise of the Triad (1994, DOS, Apogee) : 5 persos, gibs, objets destructibles, physique rudimentaire
+:star: **Marathon** (1994, Mac, Bungie) est le premier à permettre le **"freelook" avec la souris**, le **dual-wield**, à avoir des **armes à deux fonctions** ; il a par ailleurs une **histoire importante** racontée à travers des **logs textuels**, des **PNJ** pacifiques, de **multiples modes multijoueur** dont un **coopératif**, et implémente le **chat vocal**.
 
-Marathon (1994, Mac, Bungie) : freelook, dual-wield, armes à deux fonctions, histoire, logs texte, NPCs, multiples modes multijoueur, coop, chat vocal
+:star: **System Shock** (1994, DOS, Looking Glass) est la **première véritable "immersive sim"**, à mi-chemin entre le FPS et le RPG, qui mélange de l'aventure, de l'exploration, des énigmes et des puzzles. Il est **non linéaire** et permet un **"gameplay émergent"** avec de nombreuses interactions possibles. Il est le premier à permettre de **se pencher sur le côté**, **se baisser** et même **ramper**, avec un inventaire, une **mini-carte**, plein de texte à lire, et des **armes à plusieurs munitions**. Il a une énorme influence sur les "FPS à ambiance" tels que Bioshock.
 
-System Shock (1994, DOS, Looking Glass) : lorgne plutôt du côté RPG, mélange avec aventure/exploration/énigmes/puzzles, non linéaire, "gameplay émergent", possibilité de se pencher, se baisser et même ramper, inventaire, minimap, plein de logs à lire, armes à plusieurs munitions, grosse influence pour les "FPS à ambiance"
+**Dark Forces** (1995, DOS, Lucas Arts) est le premier FPS avec des **objets 3D dans le jeu**, des **effets atmosphériques** comme le brouillard, et surtout la possibilité de **mettre des pièces de niveaux les unes au-dessus des autres**, ce que les moteurs ne permettaient pas jusqu'ici.
 
-Dark Forces (1995, DOS, Lucas Arts) : sauter, objets 3D ingame, effets atmosphériques comme brouillard, et surtout la possibilité de mettre des pièces les unes au-dessus des autres
+**Duke Nukem 3D** (1996, DOS, 3D Realms) est le premier FPS avec un **jet pack** qui permet d'explorer librement la carte, permet une grande **interaction avec l'environnement** (bornes d'arcade, billard, WC...), est **bourré de références de pop-culture**, et son **ambiance américano-macho sexiste parodique** ainsi que les **commentaires audio du personnage** en font un succès, malgré sa technique datée.
 
-Hexen (1995, DOS, Raven) : exploration et backtracking
+:star: **Quake** (1996, DOS, id Software) est le **successeur spirituel de Doom** mais en **3D polygonale complète** ; il fait d'ailleurs partie des premiers jeux à supporter les **cartes d'accélération 3D**, avec un **éclairage totalement dynamique** et des **surfaces courbes** un peu partout. Il a des **maps très verticales** et **standardise le mouselook**. Son **côté multijoueur** est très poussé : c'est le premier avec des **serveurs dédiés**, un **jeu en ligne** avec plein de modes de jeu, il supporte les **"clans"**, et crée les **débuts de l'eSport** avec des tournois sponsorisés. En revanche, son thème et son look sont très aléatoires et pas toujours très cohérents, à cause des dissensions internes qui mèneront au départ de certains membres fondateurs.
 
-Duke Nukem 3D (1996, DOS, 3D Realms) : jet pack, interaction avec l'environnement (arcade, billard, WC...), bourré de références pop-culture, ambiance américano-macho sexiste parodique, commentaires audio du perso
+:star: **Team Fortress** (1996, DOS) est le premier **mod à succès**, et introduit le multijoueur avec **plusieurs classes**, se concentre sur le **jeu en équipe**, et est globalement **l'origine des FPS en équipe** modernes comme Overwatch.
 
-Quake (1996, DOS, id Software) : successeur spirituel à Doom, maps très verticales, full polygones, éclairage totalement dynamique, courbes partout, support accélérateurs 3D, standardise le mouselook, serveurs dédiés, jeu en ligne avec plein de types de jeu, suivi par des "clans" et débuts de l'esport avec tournois sponsorisés, thème/look très aléatoire et pas très cohérent à cause des dissensions internes
+:star: **GoldenEye 007** (1997, N64, Rare) est le **premier FPS console à succès** qui ne soit pas un portage. Il a un style moins "run and gun", plus **lent et méthodique**, adapté au manque de réactivité inhérent au contrôle au pad. C'est l'apparition du **premier fusil de sniper** dans un FPS, et ainsi des **premiers headshots**, il **localise les dégâts** avec des animations correspondantes, à la manière de Virtua Cop. C'est le premier à introduire des **phases d'infiltration**, et le premier à **nécessiter de recharger les armes**. Son **mode multijoueur split screen** est extrêmement populaire, et prouve qu'il est **possible de faire un FPS jouable sur console**.
 
-Team Fortress (1996, DOS) : mod de Quake à succès, plusieurs classes, focus sur jeu en équipe, origine des FPS en équipe modernes comme Overwatch
+**Unreal** (1998, Windows, Epic) utilise un **moteur graphique très avancé** avec des effets inédits comme le **brouillard volumétrique**, et est le premier à proposer au grand public un **outil de modding en temps réel** et du **scripting**.
 
-GoldenEye 007 (1997, N64, Rare) : premier FPS console à succès qui ne soit pas un portage, moins "run and gun" et plus lent et méthodique, premier fusil de sniper dans un FPS, premiers headshots, premières phases d'infiltration, premier à demander de recharger, localisation des tirs avec animations correspondantes, multijoueur split screen hyper populaire, prouve qu'il est possible de faire un FPS jouable sur console
+**Rainbow Six** (1998, Windows, Red Storm) est un des premiers **FPS tactique** multijoueur "réaliste", avec une **localisation avancée des dégâts** qui permet d'incapaciter, un système de permadeath pour l'équipe, et du multijoueur coopératif. Ce n'est pas exactement le premier, mais c'est le mieux réalisé, et il lance une (courte) mode de FPS tactiques, aspect qui sera ensuite simplifié et réintégré dans les FPS grand public comme Call of Duty.
 
-Unreal (1998, Windows, Epic) : moteur très avancé avec effets inédits comme brouillard volumétrique, outil de modding en temps réel et scripting
+:star: **Thief** (1998, Windows, Looking Glass) est une "immersive sim" **basée sur l'infiltration**, la **navigation** et l'**exploration**. Il utilise une **gestion avancée du son et de la lumière**, avec une **IA qui réagit naturellement** aux bruits, aux changements dans l'environnement et au joueur, et peuvent ainsi fuir et prévenir les autres gardes. C'est aussi le premier jeu d'infiltration avec un **indicateur de visibilité**, et il donne le **choix d'éliminer les gardes** ou de passer furtivement.
 
-Rainbow Six (1998, Windows, Red Storm) : FPS tactique multijoueur pseudo-réaliste, localisation des dégâts avec possibilité d'incapaciter, permadeath pour l'équipe, multi coop, pas le premier mais le mieux réalisé, lance une courte mode de FPS tactiques, réintégrés dans les FPS grand public par la suite
+:star: **Half-Life** (1998, Windows, Valve) a une **technique de pointe**, des niveaux qui **alternent entre couloirs et espaces ouverts**, une **IA très avancée** pour l'époque qui cherche à contourner et déloger le joueur, n'a **pas de séparation des niveaux** qui s'enchaînent logiquement et se "fondent" les uns dans les autres, un **fort élément narratif** avec des PNJ qui ont des dialogues, et surtout des **cinématiques "in-game"** qui restent à la première personne en permanence avec des **mises en scène scriptées**. Half-Life deviendra une **référence pour les FPS solo à histoire**.
 
-Thief (1998, Windows, Looking Glass) : basé sur l'infiltration et la navigation/exploration, gestion du son et de la lumière, IA avancée qui réagit naturellement aux sons, aux changements d'environnement (lumière éteinte) et au joueur (peuvent fuir et prévenir les autres), premier avec un indicateur de visibilité, choix d'éliminer les gardes ou non
+**Starsiege Tribes** (1998, Windows, Dynamix) est un FPS purement multijoueur avec des **maps immenses**, **32 joueurs** en simultané, un **jeu en équipe** important avec des classes spécialisée, et un **jet pack** qui permet d'abuser du moteur physique.
 
-Half-Life (1998, Windows, Valve) : technique de pointe, alternance couloirs et espaces ouverts, IA avancée, pas de séparation des niveaux qui se suivent logiquement et se "fondent" les uns dans les autres, fort élément narratif avec PNJ qui ont des dialogues et mises en scène scriptées, cinématiques ingame qui restent à la première personne en permanence, référence pour les FPS solo à histoire
+:star: **Medal of Honor** (1999, Windows, DreamWorks Interactive) est le premier FPS avec un **univers moderne réaliste et crédible** alors que la plupart avaient des éléments de SF ou médiéval/fantastique, et surtout un **scénario de type film d'action** écrit par Spielberg : c'est le **premier FPS à grand spectacle**, notamment avec sa scène viscérale de débarquement sur les plages de Normandie, inspirée de Il Faut Sauver le Soldat Ryan. C'est un gros succès commercial, qui **lance une mode de FPS WWII** encore existante 20 ans après.
 
-Starsiege Tribes (1998, Windows, Dynamix) : maps immenses, 32 joueurs en simultané, jeu en équipe avec classes spécialisée, jet pack
+:star: **Quake III Arena** (1999, Windows, id Software) et **Unreal Tournament** (1999, Windows, Epic) sont parmis les premiers **FPS purement multijoueur**, qui **se concentrent totalement sur le jeu en ligne** sans aucun mode solo, avec de **très nombreux modes de jeux** et une **large possibilité de modding** avec des outils disponibles librement. Bien qu'étant des succès commerciaux, ces deux jeux ont surtout permi la **vente de leurs moteurs** respectifs à des dizaines/centaines de boîtes.
 
-Medal of Honor (1999, Windows, DreamWorks Interactive) : univers moderne réaliste et crédible vs SF/medfan, scénario de type film d'action écrit par Spielberg, premier shooter à grand spectacle, scène de débarquement viscérale inspirée de Il Faut Sauver le Soldat Ryan, gros succès qui lance une mode de FPS WWII encore visible aujourd'hui
+:star: **Counter Strike** (1999, Windows) est le premier FPS multijoueur se concentrant plus sur le **jeu tactique en équipe** que les réflexes et la précision, en étant **plus posé et réfléchi** notamment en **supprimant le respawn immédiat**, avec une **grosse part de furtivité**. C'est aussi le **premier mod avec autant de succès**, et sera ré-intégré en 2000 dans le giron de Valve pour sortir en version standalone. C'est un jeu **extrêmement influent sur l'eSport** et les FPS multijoueur en général, notamment grâce à son **mode spectateur** qui permet à quiconque de suivre l'action.
 
-Quake III Arena (1999, Windows, id Software) et Unreal Tournament (1999, Windows, Epic) : focus sur jeu en ligne sans aucun solo, les deux ont surtout permi la vente de leurs moteurs respectifs à des dizaines/centaines de boîtes
+:star: **Deus Ex** (2000, Windows, Ion Storm) est une **"immersive sim" qui penche énormément du côté RPG**, et est notable pour sa **grande liberté**, avec **toujours plusieurs choix d'approche** : furtivité, hacking ou action.
 
-Counter Strike (1999, Windows) : jeu tactique en équipe, premier mod avec autant de succès, ré-intégré en 2000 dans le giron de Valve et sort en version standalone, extrêmement influent sur l'esport et les FPS multi, plus posé, moins basé sur les réflexes mais plus sur la tactique et le jeu en équipe, grosse part de furtivité, pas de respawn immédiat donc plus réfléchi, plus facile de suivre l'action pour les spectateurs
+**SWAT 3** (2000, Windows, Sierra) est un FPS très tactique qui s'inspire de Rainbow Six, mais cette fois-ci dans un **cadre policier** où l'on doit **suivre les procédures réelles** et **privilégier le non-léthal**, avec notamment la possibilité d'**arrêter les ennemis**.
 
-Deus Ex (2000, Windows, Ion Storm) : à mi-chemin entre RPG et FPS, plein de choix d'approche avec furtivité, hacking ou bourrinage
+:star: **Operation Flashpoint** (2001, Windows, Bohemia Interactive) est le premier FPS qui cherche à **simuler le combat réel** : dégâts réalistes avec **blessures localisées** qui nécessitent de se soigner, **carte immense** sur laquelle on peut utiliser de **nombreux véhicules**, une **IA avancée** qui demande de **suivre les ordres** des supérieurs et de **donner des ordres** aux subordonnés. C'est aussi le premier FPS qui propose une **visée ironsight**, où l'on place l'arme à la joue pour viser, qui sera reprise notamment par Call of Duty.
 
-SWAT 3 (2000, Windows, Sierra) : tactiques et procédures réelles, privilégie le non-léthal, arrêt des ennemis
+:star: **Halo** (2001, Xbox, Bungie) est la **seconde révolution des FPS sur console**, particulièrement avec ses **contrôles repensés** et parfaitement adaptés au pad, et son **auto-aim et bullet magnetism généreux** pour compenser le manque de précision. Le jeu lui-même est relativement original, avec un **look lumineux et flashy** plutôt que sombre, de **multiples véhicules**, les premiers dans un FPS "grand public", des **armes réellement variées** et originales avec souvent plusieurs modes, une **IA évoluée qui interagit entre elle** notamment entre les covenants et les floods, et un **univers travaillé** qui **se concentre beaucoup sur l'histoire** ; c'est aussi le premier FPS à avoir un **bouclier qui se recharge**, qui sera extrêmement influent sur les FPS "sans barre de vie" par la suite : au revoir les allers-retours pour aller chercher les medpacks. Avec son **multijoueur local** en LAN ou en split screen, en versus ou en coop, c'est un **énorme succès commercial**, et un jeu très influent, aussi bien sur consoles que sur PC.
 
-Operation Flashpoint (2001, Windows) : immense carte, simulation de combat réel très réaliste pour l'époque, nombreux véhicules, visée ironsight, IA avancée, suivre les ordres supérieurs, donner des ordres aux alliés
+**Serious Sam** (2001, Windows, Croteam) amorce un **retour aux racines** simples et brutales des FPS.
 
-Halo (2001, Xbox, Bungie) : alternance couloirs et espaces ouverts, look lumineux et fluo plutôt que sombre, multiples véhicules (premiers dans un FPS grand public), armes réellement variées et originales, repense les contrôles des FPS console qui deviennent beaucoup plus accessibles, univers travaillé et gros focus sur l'histoire, IA évoluée qui interagit entre elle (flood/covenant), énorme succès commercial, bouclier qui se recharge, autoaim et bullet magnetism généreux, premier multi LAN sur console
+**Metroid Prime** (2002, Gamecube, Retro) prend la **formule Metroid** avec **exploration et puzzles**, et la fait jouer en mode FPS, mais **sans que le tir soit un aspect primordial**. C'est un FPS novateur et original, il a eu un bon **succès commercial**, mais n'aura que très peu d'influence sur le genre.
 
-Serious Sam (2001, Windows, Croteam) : retour aux racines simples et brutales
+**Battlefield 1942** (2002, Windows, EA) est un FPS uniquement multi avec **beaucoup de joueurs**, et propose un mélange de **multiples classes**, des **véhicules à débloquer**, **plusieurs types d'objectifs** qui permettent à chacun de jouer à sa manière, et **pousse les tactiques de squad** et le jeu en équipe.
 
-Metroid Prime (2002, Gamecube, Retro) : prend la formule Metroid avec exploration et puzzles, et la fait jouer en FPS mais sans que le tir soit un aspect primordial
+**Planetside** (2003, Windows, Sony) est la première tentative de **marier MMO et FPS**. Il n'aura pas un grand succès, mais pose les premières briques de ce que seront les jeux comme Destiny ou The Division.
 
-Battlefield 1942 (2002, Windows, EA) : FPS uniquement multi à beaucoup, classes, véhicules, plusieurs types d'objectifs qui permettent à chacun de jouer à sa manière, pousse les tactiques de squad et le jeu en équipe
+:star: **Call of Duty** (2003, Windows, Activision) reprend la formule de Medal of Honor, mais permet de **changer de personnage** et d'**alterner plusieurs fronts** (USA, Royaume-Uni, Russie) pour suivre le conflit sous différents angles.
 
-Planetside (2003, Windows, Sony) : premier MMO/FPS
+:star: **Far Cry** (2004, Windows, Crytek) initie une mode des FPS en **environnement ouvert** qui peut être exploré à loisir, avec **plusieurs approches** possibles de chaque situation, notamment grâce à son **moteur avancé** avec la gestion de la végétation, et un **moteur physique** complexe (pour l'époque).
 
-Call of Duty (2003, Windows, Activision) : reprend la formule de Medal of Honor mais on change de personnage et on joue sur plusieurs fronts (US, UK, Russe)
+:star: **Halo 2** (2004, Xbox, Bungie) est un très bon jeu mais n'innove pas grand-chose côté solo. En revanche, il sera fondateur sur le multijoueur, en initiant le **matchmaking moderne** : playlists, groupes et clans, ranking, lobbies, etc, font tous leur apparition dans ce jeu.
 
-Far Cry (2004, Windows, Crytek) : moteur avancé avec végétation, moteur physique, environnement ouvert et liberté d'exploration et d'approche des situations
-
-Halo 2 (2004, Xbox, Bungie) : matchmaking moderne : playlists, groupes et clans, ranking, lobbies, etc
-
-Half-Life 2 (2004, Windows, Valve) : moteur physique avancé
+**Half-Life 2** (2004, Windows, Valve) est beaucoup moins révolutionnaire que le premier épisode, et il est surtout remarqué pour son **moteur physique avancé** qui permet de "jouer" avec l'environnement, et sera un aspect des FPS qui deviendra un standard par la suite.
 
 ## TPS
 
-Les TPS sont souvent mélangés avec les FPS pour l'objectif final (tirer sur tout ce qui bouge), mais permettent des types de jeux très différents, notamment au niveau des mouvements possibles. La visualisation constante de l'avatar facilite aussi le développement du personnage.  
+Les TPS sont souvent mélangés avec les FPS pour l'objectif final (tirer sur tout ce qui bouge), mais permettent des types de jeux très différents, notamment au niveau des mouvements possibles. La visualisation constante de l'avatar facilite aussi le développement du personnage au niveau de l'histoire.  
 Dans les TPS ci-dessous j'intègre aussi les jeux plus orientés infiltration comme Metal Gear Solid, qui ont souvent eu beaucoup d'influence sur d'autres TPS.
 
-Last Survivor (1988, arcade, Sega) : premier TPS basique avec déplacements libres
+**Last Survivor** (1988, arcade, Sega) est le **premier TPS**, un peu basique mais avec des déplacements libres.
 
-Virtuoso (1994, DOS, Elite) : moteur type Doom, possibilité de s'adosser aux murs
+**Virtuoso** (1994, DOS, Elite) utilise un moteur en ray-casting comme Doom, et permet de s'**adosser aux murs**.
 
-Fade To Black (1995, DOS, Delphine) : suite de Flashback, 3D polygonale complète avec éléments d'aventure et de plateforme
+**Fade To Black** (1995, DOS, Delphine) est la suite de Flashback en **3D polygonale** complète, et mélange des **éléments d'aventure et de plateforme** : ce sera la formule que choisiront la plupart des TPS.
 
-Tomb Raider (1996, Playstation/Saturn/DOS, Eidos) : étape majeure, premier FPS vraiment jouable même si encore très rigide, mélange de shooter et de Prince of Persia des temps modernes, plateformes/puzzles/combats, nombreux mouvements rendus possibles par la vue extérieure, héroïne à forte... personnalité, mélange de caméra manuelle et automatique avec quelques points de vue larges
+:star: **Tomb Raider** (1996, Playstation/Saturn/DOS, Eidos) est une **étape majeure** du genre. C'est le **premier TPS vraiment jouable**, même si les contrôles sont encore très rigides, et mélange **phases de tir, de plateforme et de puzzle** en mélangeant Prince of Persia et Zelda. Il permet de **nombreux mouvements** comme le poirier, rendus possibles par la vue extérieure. La vue extérieure permet d'avoir une **héroïne à forte... personnalité**, et son **mélange de caméra manuelle et automatique** avec quelques points de vue larges rend le jeu parfaitement contrôlable sans devoir se battre avec la caméra en permanence.
 
-MDK (1997, DOS, Shiny) : esprit FPS dans un TPS, mélange d'autres styles comme plateforme ou snowboard, passe en FPS pour le sniper qui zoome à 100x, parachute qui permet de s'envoler
+**MDK** (1997, DOS, Shiny) intègre un **"esprit FPS" dans un TPS**, et **mélange d'autres styles** comme des phases de shmup, de plateforme ou de "snowboard", et passe en vue FPS pour son fameux **fusil de sniper** qui peut zoomer à 100x.
 
-Metal Gear Solid (1998, Playstation, Konami) : jeu majeur pas seulement en TPS, premier TPS orienté infiltration avec beaucoup de possibilités et de subtilités (Thief sorti la même année avec moins de succès), radar avec cônes de vision, très cinématique qui essaye de copier les films avec cutscenes très longues et gros travail de mise en scène, histoire un peu délirante mais originale et très politique
+:star: **Metal Gear Solid** (1998, Playstation, Konami) est un **jeu vidéo majeur**, et pas seulement pour les TPS. C'est le premier qui est **orienté infiltration**, avec beaucoup de possibilités et de subtilités ; Thief, sorti la même année, aura malheureusement moins de succès. Il initie un **radar avec cônes de vision**, et a une réalisation **très cinématique** en essayant de copier les films, avec des **cutscenes très longues et nombreuses**, un **gros travail de mise en scène**, et une **histoire un peu délirante** mais originale et très politique.
 
-Kill Switch (2003, Playstation 2/Xbox, Namco) : couverture et tir à l'aveugle derrière des murets et autres éléments de décor, repris par tous les TPS depuis notamment Gears of War
+:star: **Kill Switch** (2003, Playstation 2/Xbox, Namco) initie le **système de couverture** et de **tir à l'aveugle** derrière des murets et autres éléments de décor, qui sera repris par un énorme nombre de TPS, notamment Gears of War.
 
-Resident Evil 4 (2005, Gamecube, Capcom) : définit la caméra "par-dessus l'épaule" avec personnage excentré
+:star: **Resident Evil 4** (2005, Gamecube, Capcom) définit la **caméra "par-dessus l'épaule"** avec personnage excentré qui améliore grandement à la fois l'aspect cinématique des jeux et le contrôle du personnage.
