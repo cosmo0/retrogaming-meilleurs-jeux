@@ -4,24 +4,23 @@
 
 Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas vraiment dans le "top" mais valent quand-même le coup d'être joués et découverts.
 
-## NES
+## Les jeux connus mais qui ont eu moins de succès
+
+Globalement, ce sont les jeux qui sont relativement connus, mais ne rentrent pas dans les listes des "meilleurs jeux".
+
+### NES
 
 - Bionic Commando
 - Blaster Master
 - Chip'n Dale Rescue Rangers 1 & 2 (= Tic & Tac Rangers du Risque)
-- Crystalis
 - Darkwing Duck
-- Little Samson
-- Metal Storm
 
-## Master System
+### Master System
 
-- Penguin Land
 - Ancient Ys Vanished Omen
 - Basketball Nightmare
-- Zilion
 
-## GB/GBC
+### GB/GBC
 
 - Heroes of Might and Magic 2
 - Shantae
@@ -29,7 +28,7 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Blaster Master Enemy Below
 - R-Type DX
 
-## Megadrive
+### Megadrive
 
 - Alien Soldier
 - Comix Zone
@@ -45,7 +44,7 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Soleil
 - Strike (Desert, Jungle, Urban)
 
-## SNES
+### SNES
 
 - ActRaiser 1 & 2
 - Breath of Fire 1 & 2
@@ -56,7 +55,7 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - TMNT 4
 - Puzzle Bobble
 
-## NeoGeo
+### NeoGeo
 
 - Spin Master
 - Cyberlip
@@ -65,12 +64,12 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Super Sidekicks
 - Kizuna Encounters
 
-## Gameboy Advance
+### Gameboy Advance
 
 - Dragon Ball Advanced Adventure
 - Drill Dozer
 
-## Playstation
+### Playstation
 
 - Ace Combat (1-2-3)
 - Alundra
@@ -79,12 +78,12 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Moto Racer
 - Front Mission 3
 
-## Nintendo 64
+### Nintendo 64
 
 - Blast Corps
 - Pokemon Stadium
 
-## Gamecube
+### Gamecube
 
 - Animal Crossing
 - Chibi Robot
@@ -93,12 +92,16 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Metal Gear Solid The Twin Snakes
 - Viewtiful Joe
 
-## Dreamcast
+### Dreamcast
 
 - 24h du Mans
 - Bangai O
 
-## Amiga
+### Playstation 2
+
+- Monster Hunter
+
+### Amiga
 
 - Beneath a Steel Sky
 - Black Crypt
@@ -119,34 +122,31 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Worms
 - Wrath of the Demon
 
-## MS-DOS
+### MS-DOS
 
 - Beneath a Steel Sky
+- Betrayal at Krondor
 - Blood
 - Carmageddon
 - Comanche
 - Discworld (1, 2)
 - Duke Nukem 3D
-- EF2000
+- Eye of the Beholder
 - Falcon 3.0
 - Formula One Grand Prix (1, 2)
-- Jazz Jackrabbit
 - Little Big Adventure
-- Master of Orion (1, 2)
 - Mechwarrior 2
 - Panzer General
 - Railroad Tycoon
 - Red Baron
 - Screamer (1, 2, Rally)
-- Su-27 Flanker
 - Tyrian 2000
 - Wasteland
 
-## Windows 95/98
+### Windows 95/98
 
 - Alien vs Predator 1, 2
 - Arcanum
-- Battlezone 1, 2
 - City Builders Impression Games (Caesar 3, Pharaoh...)
 - Commandos 1, 2
 - Heroes of Might & Magic 1, 2, 3
@@ -161,3 +161,50 @@ Parce que beaucoup de jeux sont excellents mais moins connus, ou ne rentrent pas
 - Rollercoaster Tycoon 1, 2
 - Série Madness (Midtown Madness, Motocross Madness, Monster Truck Madness)
 - System Shock 2
+
+### Windows XP
+
+- Morrowind
+- Vampire The Masquerade Bloodlines
+
+---
+
+## Les jeux moins connus
+
+Les perles cachées, les jeux virtuellement inconnus du grand public mais qui proposent des expériences au minimum intéressantes.
+
+### NES
+
+- Crystalis
+- Little Samson
+- Metal Storm
+
+### Master System
+
+- Penguin Land
+- Zilion
+
+### Megadrive
+
+- Rolo to the Rescue
+- Chiki Chiki Boys
+
+### SNES
+
+- Soul Blazer
+- Bahamut Lagoon
+
+### MS-DOS
+
+- EF2000
+- Jazz Jackrabbit
+- Master of Orion (1, 2)
+- Su-27 Flanker
+
+### Windows 95/98
+
+- Battlezone 1, 2
+
+---
+
+Ajouter : **Ys**, **Dragon Quest**, **Final Fantasy**, **Tales Of**, **SaGa**, **Super Robot Wars**, **Suikoden**, **Front Mission**, **Disgaea**, **Vagrant Story**

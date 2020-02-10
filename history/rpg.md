@@ -78,8 +78,6 @@ Les premiers ordinateurs personnels (Apple II et compagnie) sont accompagnés pa
 
 :star: **Fable** (2004, Xbox) marquera les débuts de la **simplification** et de la volonté de **rendre accessible** le genre : **marqueurs sur la carte** et **fil d'ariane** pour guider le joueur, autant de choses décriées à sa sortie et repris par tous les jeux depuis.
 
-A voir aussi : **Eye of the Beholder** (1991, DOS), **Betrayal at Krondor** (1993, DOS), **Arcanum** (2001, Windows), **Morrowind** (2002, Windows), **Star Wars Knights of the Old Republic** (2003, Xbox), **Vampire The Masquerade Bloodlines** (2004, Windows)
-
 ---
 
 ## RPG Japonais (JRPG)
@@ -170,8 +168,6 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 
 :star: **Final Fantasy X** (2001, Playstation 2) affiche une **présentation cinématique**, avec des **détails d'animation** corporelle et faciale jamais vus avant, et un **doublage complet**, et place très haut la barre de ce qui est attendu techniquement pour un JRPG.
 
-A voir aussi : **Heart of Fantasy 2** (1985, PC), **Crystalis** (1990, NES), **Phantasy Star IV** (1993, SNES), **Soul Blazer** (1992, SNES), **Earthbound** (1994, SNES), **Terranigma** (1995, SNES), **Kingdom Hearts** (2002, Playstation 2), **Monster Hunter** (2004, Playstation 2), et les séries **Ys**, **Dragon Quest**, **Final Fantasy**, **Tales Of**, et **SaGa**.
-
 ---
 
 ## Tactical / Strategy RPG (T/SRPG)
@@ -179,6 +175,10 @@ A voir aussi : **Heart of Fantasy 2** (1985, PC), **Crystalis** (1990, NES), **P
 Les Tactical (en occident) ou Strategy (au Japon) RPG sont caractérisés par des combats sur une grille où l'on déplace les personnages lors des combats, tout en conservant certains éléments RPG traditionnels, comme l'inventaire, l'expérience, les niveaux, etc. C'est donc un genre qui trouve ses racines à la fois dans les RPG et les jeux de stratégie.
 
 Certains RPG que l'on qualifierait de "traditionnels" ont des combats qui correspondent à cette définition, comme par exemple **Tunnels of Doom** (1982, TI-99), **The Dragon and Princess** (1982, PC) ou **Ultima III** (1983, Apple II), mais ces jeux sont avant tout des RPG qui ont des combats tactiques, alors que les TRPG sont des jeux de tactique avec des éléments RPG. Il faudra attendre **Wizard's Crown** (1985, Apple II) pour voir apparaître les éléments des TRPG comme on les connaît aujourd'hui.
+
+En occident, les jeux du genre sont plutôt inspirés par XCOM, et sont généralement plus orientés tactiques que RPG, à l'inverse des TRPG Japonais, ont plutôt des personnages génériques et "vides", et racontent rarement une histoire très passionnante. On notera surtout **Jagged Alliance** (1994), **Incubation** (1997), **Fallout Tactics** (2001), et **Freedom Force** (2002).
+
+Les TRPG n'ont pas énormément évolué depuis **Fire Emblem** (1990, Famicom), excepté pour y intégrer de plus en plus des éléments de gestion de relation entre personnages, notamment dans **Fire Emblem: Genealogy of the Holy War** (1996, SNES) et **Sakura Wars** (1996, Saturn). C'est surtout **Final Fantasy Tactics** (1997, Playstation) qui sert de "nouveau modèle" pour les TRPG modernes.
 
 A noter quelques titres de stratégie sans élément de RPG, mais qui ont été très influents sur les TRPG : **Romance of the Three Kingdoms** (1985, PC) par les développeurs de Nobugana's Ambition, et **Daisenryaku** (1985, PC), qui influencera **Famicom Wars** (1988, Famicom) par les développeurs de Fire Emblem.
 
@@ -213,7 +213,3 @@ A noter quelques titres de stratégie sans élément de RPG, mais qui ont été 
 **Sakura Wars 3** (2001, Dreamcast) **abandonne la grille** pour un système de **points d'action**, qui sera repris par Valkyria Chronicles plus tard.
 
 **Fire Emblem The Blazing Blade** (2003, GBA) est le premier épisode localisé, et **introduit la série pour la première fois en occident**.
-
-A voir aussi : **Bahamut Lagoon** (1996, SNES), et les séries **Super Robot Wars**, **Suikoden**, **Front Mission**, **Disgaea**
-
-En occident, les jeux du genre sont plutôt inspirés par XCOM, et sont généralement plus orientés tactiques que RPG, à l'inverse des TRPG Japonais, ont plutôt des personnages génériques et "vides", et racontent rarement une histoire très passionnante. On notera surtout **Jagged Alliance** (1994), **Incubation** (1997), **Fallout Tactics** (2001), et **Freedom Force** (2002).
