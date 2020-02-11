@@ -20,12 +20,13 @@
 
 ### Général
 
+- [Wikipedia](https://en.wikipedia.org/wiki/History_of_video_games) : différents articles sur l'historique des jeux vidéo
 - [Hardcore Gaming 101](http://www.hardcoregaming101.net/) : des milliers d'infos sur les jeux rétro et néorétro
+- [RacketBoy](http://www.racketboy.com/retro) : pas mal d'articles dédiés à des genres ou des jeux
 - [StrategyWiki](https://strategywiki.org/) : un wiki de soluces mais qui a aussi énormément de détails sur les jeux et leurs différentes versions
 - [Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg) : une chaîne Youtube qui raconte diverses histoires et anecdotes
-- [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) : une chaîne Youtube qui retrace l'historique des jeux de chaque plateforme chronologiquement
-- [Wikipedia](https://en.wikipedia.org/wiki/History_of_video_games) : différents articles sur l'historique des jeux vidéo
-- [RacketBoy](http://www.racketboy.com/retro) : pas mal d'articles dédiés à des genres ou des jeux
+- [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) : une chaîne Youtube qui retrace l'historique des jeux chronologiquement, notamment Nintendo
+- [PatmanQC](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA/) : une autre chaîne Youtube qui raconte l'histoire de jeux, notamment arcade
 
 ### Shmups
 
