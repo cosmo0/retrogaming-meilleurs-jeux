@@ -45,6 +45,8 @@ Mega Man (1987, Famicom) : choix de niveau
 
 Super Mario Bros 3 (1988, Famicom) : carte du monde, bourré de secrets
 
+Ninja Gaiden (1988, Famicom) : premières véritables cutscenes racontant une histoire dans un jeu vidéo
+
 Prince of Persia (1989, Apple II) : animations rotoscopées, forte ambiance, exploration, plateforme, puzzles, combats assez rares et intenses. Définit un sous-genre suivi par Another World (1991, Amiga/Atari ST), Flashback (1992, Megadrive/Amiga), ou Oddworld (1997, Playstation/Windows).
 
 Sonic The Hedgehog (1991, Megadrive) : scrolling multidirectionnel avec vastes niveaux (pas le premier), grande vitesse, moteur physique
