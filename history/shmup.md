@@ -46,7 +46,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **Space Seeker** (1981, Taito) permet de **choisir un niveau**, et **alterne scrolling et shoot à la première personne**.
 
-:star: **Xevious** (1982, Namco) est probablement le **second jeu majeur du genre**. Il mélange un **scrolling forcé vertical** avec des **arrière-plans détaillés d'inspiration réaliste** et pas seulement quelques étoiles, des **niveaux distincts visuellement** bien qu'ils utilisent tous le même environnement, **deux niveaux d'attaque** (sol/air), une **IA adaptative**, et des **boss de fin de niveau**. Il n'a inventé aucune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la **"formule de base" des shmups à venir**.
+:star: **Xevious** (1982, Namco) est probablement le **second jeu majeur du genre**. Il mélange un **scrolling forcé vertical** avec des **arrière-plans détaillés d'inspiration réaliste** et pas seulement quelques étoiles, des **niveaux distincts visuellement** bien qu'ils utilisent tous le même environnement, **deux niveaux d'attaque** (sol/air), une **difficulté adaptative** qui augmente lorsque le joueur ne perd pas, et des **boss de fin de niveau**. Il n'a inventé aucune de ces choses, mais c'est le premier à tout mélanger, et devient en ce sens la **"formule de base" des shmups à venir**.
 
 **Zaxxon** (1982, Sega) est le premier shmup **isométrique**, style très peu fréquent dans le genre ; on pourra noter **Desert Falcon** (1987, Atari) ou **Viewpoint** (1992, Sammy).
 
@@ -60,7 +60,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **TwinBee** (1985, Konami) est le premier jeu d'un genre depuis appelé **"cute'em up"** : un shoot'em up, mais mignon et rigolo. Il inspirera plusieurs successeurs, dont **Fantasy Zone** (1986, Sega), ou **Parodius** (1988, Konami).
 
-**Zanac** (1986, Compile) n'innove pas réellement, mais perfectionne un **système avancé de powerups** pour leur donner une identité propre, qui sera repris dans de nombreux shmups du développeur, dont la série **Aleste / Power Strike** (1988, Compile).
+**Zanac** (1986, Compile) invente une **IA adaptative** qui change en fonction du comportement du joueur, et perfectionne un **système avancé de powerups** pour leur donner une identité propre, qui sera repris dans de nombreux shmups du développeur, dont la série **Aleste / Power Strike** (1988, Compile).
 
 **Star Soldier Special Version** (1986, Hudson Soft, Famicom) introduit le concept d'un **"caravan mode"**, une course au high score très courte et technique, système souvent **utilisé en compétition** depuis.
 
