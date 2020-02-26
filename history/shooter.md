@@ -10,7 +10,9 @@ Le genre est encore très populaire aujourd'hui, les shooters sont de plus en pl
 
 ## FPS et Immersive Sim
 
-**Wayout** (1982, Atari 8 bit, Sirius) est le premier FPS à permettre le **mouvement libre** et non pas sur des cases, et utilise le **ray casting** pour afficher ses niveaux.
+**Wayout** (1982, Atari 8 bit, Sirius) est le premier jeu à la première personne à permettre le **mouvement libre** et non pas sur des cases, et utilise le **ray casting** pour afficher ses niveaux. Il n'affiche pas de monstres et ne permet pas de tirer, il faut simplement sortir du labyrinthe.
+
+**Capture the Flag** (1983, Atari 8 bit, Sirius) est le **premier mode "capture the flag"** dérivé de Wayout, et le **premier FPS en split screen**.
 
 **MIDI Maze** (1987, Atari ST, Xanth) est le premier à permettre du **deathmatch** en LAN sur des machines grand public (le deathmatch était déjà possible sur mainframe et sur bornes d'arcade).
 
