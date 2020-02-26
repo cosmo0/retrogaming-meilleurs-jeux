@@ -1,6 +1,6 @@
 # Sport
 
-L'histoire des jeux de sport n'est pas forcément très passionnante, et c'est surtout une course au réalisme et à la complexité. Les jeux les plus populaires inventent rarement quoi que ce soit, et sont simplement mieux réalisés et/ou plus complets que les précédents.
+L'histoire des jeux de sport n'est pas forcément très passionnante, et c'est surtout une course au réalisme et à la complexité. Les jeux les plus populaires et connus inventent rarement quoi que ce soit, et sont simplement mieux réalisés et/ou plus complets que les précédents.
 
 **Tennis For Two** (1958) fait partie des premiers jeux vidéo, et est donc le premier jeu de sport. Durant les années 60/70, les **jeux électro-mécaniques** sont assez populaires et reproduisent divers sports avec plus ou moins de succès.
 
@@ -10,7 +10,7 @@ Les jeux de course sont listés dans [course](racing.md) et les jeux de combat d
 
 ## Liste des jeux
 
-**Pong** (1972, Atari) est un des **premiers jeux commercialisés**, et le **premier jeu vidéo commercial de sport**
+:star: **Pong** (1972, Atari) est un des **premiers jeux commercialisés**, et le **premier jeu vidéo commercial de sport**
 
 **Davis Cup** (1973, Taito) est le premier à permettre à **deux joueurs** de s'affronter.
 
@@ -20,13 +20,13 @@ Les jeux de course sont listés dans [course](racing.md) et les jeux de combat d
 
 **Video Action** (1975, Universal) est le **premier jeu multi-sport**, même si tout se ressemble énormément, et permet le **jeu coopératif**.
 
-**Atari Football** (1978, Atari) est la première **tentative de simulation** avec la gestion des **véritables règles du sport** (certes basique), notamment les règles d'engagement.
+:star: **Atari Football** (1978, Atari) est la première **tentative de simulation** avec la gestion des **véritables règles du sport** (certes basique), notamment les règles d'engagement.
 
 **Football Manager** (1982, ZX Spectrum, Addictive Games) est le premier **jeu de gestion sportive**.
 
 **Dr. J and Larry Bird Go One on One** (1983, Apple II, EA) est le premier à utiliser une **licence officielle**.
 
-**Intellivision World Series Baseball** (1983, Intellivision, Mattel) est le premier à utiliser **différents angles de caméra** qui répliquent ce qui est vu à la télévision.
+:star: **Intellivision World Series Baseball** (1983, Intellivision, Mattel) est le premier à utiliser **différents angles de caméra** qui répliquent ce qui est vu à la télévision.
 
 :star: **Exciting Soccer** (1983, Alpha Denshi) est un des jeux les plus complets et complexes de son époque : **choix d'équipe**, **tous les mouvements** (tacle, passe longue/courte, lob, etc), **corners**, **touches**, **penalties**, **vue de dessus qui scrolle** et qui permet d'élaborer des tactiques... Tous les marqueurs des jeux de foot modernes sont là.
 

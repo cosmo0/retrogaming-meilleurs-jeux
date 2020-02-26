@@ -96,7 +96,7 @@ L'objectif ici est de proposer une liste des titres marquants et influents, et d
 - [Plate-forme](history/platform.md)
 - [Puzzle](history/puzzle.md)
 - [RPGs occidentaux et Japonais, et TRPGs](history/rpg.md)
-- [Shoot'Em Up](history/shmup.md)
+- [Shoot'Em Up, Twin Stick Shooters, Rail Shooters, Light Gun](history/shmup.md)
 - [Shooters, FPS, TPS](history/shooter.md)
 - [Simulation](history/simulation.md)
 - [Sport](history/sports.md)
