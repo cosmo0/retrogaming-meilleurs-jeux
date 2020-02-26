@@ -17,7 +17,7 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ### Aventure et visual novels
 
-- 1977 : Zork
+- 1977 : Zork (PC)
 - 1984 : King's Quest (Apple II, DOS)
 - 1987 : Maniac Mansion (Apple II, DOS)
 - 1988 : Snatcher (Mega CD)
@@ -27,39 +27,56 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 - 1997 : The Last Express (Windows, iOS, Android)
 - 2005 : Fahrenheit (Windows, Playstation 2, Xbox)
 
-### Combat et Beat'Em Up
+### Combat
+
+- 1983 : Punch Out (arcade)
+- 1985 : Yie Ar Kung Fu (arcade)
+- 1991 : Street Fighter II (arcade)
+- 1992 : Mortal Kombat (arcade)
+- 1993 : Virtua Fighter (arcade)
+- 1994 : The King of Fighters 94 (arcade, NeoGeo)
+- 1995 : Battle Arena Toshiden (arcade, Playstation)
+- 1996 : X-Men vs Street Fighter (arcade)
+- 1999 : Garou Mark of the Wolves (arcade, NeoGeo)
+- 1999 : Super Smash Bros. (Nintendo 64)
 
 ### Course
 
+- ?
+
 ### Plate-forme
+
+- ?
 
 ### Puzzle
 
+- ?
+
 ### RPG occidentaux (CRPG)
 
-- 1980 : Rogue
-- 1981 : Wizardry
-- 1981 : Ultima
-- 1985 : Ultima IV
-- 1991 : Might & Magic III
-- 1997 : Diablo
-- 1997 : Fallout
-- 1999 : Planescape Torment
-- 2002 : Morrowind
-- 2003 : Star Wars Knights of the Old Republic
+- 1980 : Rogue (PC)
+- 1981 : Wizardry (PC)
+- 1981 : Ultima (PC)
+- 1985 : Ultima IV (PC)
+- 1991 : Might & Magic III (PC)
+- 1997 : Diablo (PC)
+- 1997 : Fallout (PC)
+- 1999 : Planescape Torment (PC)
+- 2002 : Morrowind (PC)
+- 2003 : Star Wars Knights of the Old Republic (PC)
 
 ### RPG Japonais (JRPG) et T/SRPG
 
-- 1984 : Tower of Druaga
-- 1984 : Hydlide
-- 1986 : The Legend of Zelda
-- 1986 : Dragon Quest
-- 1989 : Phantasy Star II
-- 1991 : Final Fantasy IV
-- 1993 : Secret of Mana
-- 1997 : Final Fantasy VII
-- 1997 : Final Fantasy Tactics
-- 2001 : Final Fantasy X
+- 1984 : Tower of Druaga (arcade)
+- 1984 : Hydlide (PC)
+- 1986 : The Legend of Zelda (Famicom)
+- 1986 : Dragon Quest (Famicom)
+- 1989 : Phantasy Star II (Megadrive)
+- 1991 : Final Fantasy IV (SNES)
+- 1993 : Secret of Mana (SNES)
+- 1997 : Final Fantasy VII (Playstation)
+- 1997 : Final Fantasy Tactics (Playstation)
+- 2001 : Final Fantasy X (Playstation 2)
 
 ### Shoot'Em Up (shmups)
 
@@ -76,11 +93,32 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ### Shooters, FPS, TPS
 
+- 1992 : Wolfenstein 3D (PC)
+- 1993 : Doom (PC)
+- 1994 : System Shock (PC)
+- 1996 : Quake (PC)
+- 1997 : GoldenEye 007 (Nintendo 64)
+- 1998 : Thief (PC)
+- 1998 : Half-Life (PC)
+- 1999 : Medal of Honor (PC)
+- 1999 : Quake III Arena & Unreal Tournament (PC)
+- 2001 : Halo (Xbox)
+
 ### Simulation
+
+- ?
 
 ### Sport
 
+- 1972 : Pong (arcade)
+- 1978 : Atari Football (arcade)
+- 1983 : Intellivision World Series Baseball (Intellivision)
+- 1983 : Exciting Soccer (arcade)
+- 1991 : Tecmo Super Bowl (NES)
+
 ### Stratégie
+
+- ?
 
 ---
 
@@ -102,23 +140,46 @@ L'objectif ici est de proposer une liste des titres marquants et influents, et d
 - [Sport](history/sports.md)
 - [Strategy](history/strategy.md)
 
+### Les prémisces du jeu vidéo
+
+Le "premier jeu vidéo" est sujet à controverse et discussions, et dépend de votre définition de "jeu vidéo" ; jetez donc un oeil à [cette vidéo](https://www.youtube.com/watch?v=uHQ4WCU1WQc) qui explore cette voie.
+
+Une chose est sûre : les premiers jeux universellement reconnus comme étant des jeux vidéo (avec un écran qui reproduit l'action et un moyen de contrôler cette action) viennent des années 60 et sont originaires des mainframes, ces ordinateurs gigantesques qui pèsent plusieurs tonnes, que l'on peut trouver dans les centres de recherche et les universités.  
+Il est difficile de faire l'historique de ces premiers jeux : ils sont développés par des étudiants et chercheurs sur leur temps libre durant plusieurs années, ils sont distribués, recopiés et disséminés : leurs dates d'apparition sont souvent difficiles à déterminer.
+
+Ces premiers jeux vidéo profitent de la (relative) grande puissance qui leur est disponible pour être très complexes, et les jeux commerciaux mettront de nombreuses années à ré-intégrer certaines fonctionnalités disponibles dès les années 70. Les ordinateurs personnels n'existant pas encore, les premiers jeux vidéo commerciaux sont des jeux d'arcade, créés sur des bornes avec des hardwares dédiés.
+
+**Tennis For Two** (1958, oscilloscope) est parfois considéré comme le **premier jeu vidéo**, mais son support (un oscilloscope) rend cette distinction controversiale.
+
+**Spacewar!** (1962, mainframe) est **le premier jeu vidéo** qui correspond à toutes les définitions communément admises. C'est un shoot multijoueur, où les vaisseaux se dirigent comme dans Asteroids, et est étonnamment complexe : les joueurs doivent gérer leurs munitions, leur carburant, et la gravité des étoiles. Il a été développé sur PDP-1, un "mini-ordinateur" d'environ 2 mètres de haut et vendu à 50 exemplaires. Il n'était évidemment disponible qu'aux quelques académiciens et chercheurs qui avaient accès à cette machine, mais son influence est considérable, et sa popularité non négligeable.
+
+**Computer Space** (1971, arcade) est globalement une repompe simplifiée de Spacewar! : il retire les munitions et le carburant, et rajoute des **ennemis qui tirent** sur le joueur. C'est le **premier jeu vidéo commercial**, et la **première borne d'arcade**. Il n'a pas été un succès retentissant, mais a lancé les idées à la fois des jeux vidéo en tant que produit commercial, et des bornes d'arcade avec hardware dédié.
+
+**Pong** (1972, arcade) est le **premier succès commercial** et ouvrira la brèche à tous ses concurrents.
+
+**Maze War** (1973, mainframe) est un le **premier FPS** : les déplacements se font encore **case par case** dans des couloirs tracés en vecteurs, mais il peut avoir des **adversaires contrôlés par le CPU** avec une IA basique, une **représentation basique des adversaires**, une **carte du niveau** qui présente la position du joueur, un **éditeur de niveaux**, il est **jouable en ligne** à 8 (sur Arpanet) et a un **mode spectateur** et un **tableau de scores**, mais aussi des **codes de triche**, des **hacks**, et des **mesures préventives contre la triche**.
+
+**Gun Fight** (1975, arcade) est très peu connu, mais c'est le **premier jeu d'arcade avec un microprocesseur**.
+
+Les RPG n'apparaissent qu'après la sortie de la première édition de Donjons & Dragons en 1974, mais explosent d'un seul coup dès cette année-là. Certains sont beaucoup plus complexes que les premiers RPG commerciaux : **Moria** (1975) a une vue à la première personne, un système de stats basé sur l'utilisation des compétences, le besoin de manger, un monde immense avec une grande ville et plus de 200 niveaux générés dynamiquement, et un mode multijoueur jusqu'à 10. **Oubliette** (1977) a 15 classes, un monde vaste, des boutiques, une ville, des mini-jeux, un temple, et la possibilité de charmer des monstres pour qu'ils combattent à vos côtés.
+
 ### Hardware
 
 Les premiers **ordinateurs centraux "mainframe"**, qui pesaient plusieurs tonnes, sont apparus dans les années 50 et se programmaient avec des cartes à trous, et **dès le début, des chercheurs programment des jeux rudimentaires dessus**.  
 Les années 60 leur apportent des écrans, et le **premier jeu vidéo** tel qu'on les définit aujourd'hui est créé : Spacewar!.  
 Au début des années 70, les mainframes généralisent les terminaux écran/clavier accessibles aux opérateurs, qui affichent généralement des données en texte ou en vecteurs, et **les jeux vidéo suivent**, créés par des chercheurs ou des étudiants, et deviennent relativement courants.
 
-Dans les années 70 apparaissent les **premiers microprocesseurs**, étape cruciale dans l'apparition à la fois des ordinateurs personnels et des consoles : Intel 8008 (1972), Intel 8080 (1974), Motorola 68000 (1974), MOS 6502 (1975), Zilog Z80 (1976). Ces processeurs sont généralement incompatibles entre eux et nécessitent de réécrire ou adapter les programmes à chaque fois.  
+Dans les années 70 apparaissent les **premiers microprocesseurs**, étape cruciale dans l'apparition à la fois des ordinateurs personnels et des consoles, notamment les Intel 4004 (1971), Intel 8008 (1972), Intel 8080 (1974), Motorola 68000 (1974), MOS 6502 (1975), et Zilog Z80 (1976). Ces processeurs sont généralement incompatibles entre eux et nécessitent de réécrire ou adapter les programmes à chaque fois.  
 Les processeurs 16 bits sont commercialisés dès 1976 avec le TI TMS 9900, utilisé dans l'ordinateur TI-99 (1979), et par Intel avec le 8086 en 1978, dont une variante (le 8088) sera utilisée dans le premier IBM PC.  
 En 1979 sort le Motorola 68000, processeur hybride 16/32 bits utilisé dans un très grand nombre de bornes d'arcade dont les CPS1, CPS2 et NeoGeo ; dans les ordinateurs Macintosh, Amiga, l'Atari ST, et Sharp X68000 ; et dans les consoles Megadrive, Mega CD, Jaguar, et Saturn.  
-Intel a capitalisé sur son architecture x86 apparue avec le 8086 en l'améliorant tout en permettant la rétro-compatibilité, chose assez rare à cette époque. La combinaison de rétrocompatibilité, utilisation sur l'IBM PC à philosophie de mises à jour régulières, et copies peu chères par les concurrents, mène à la dominance du format.
+Intel a capitalisé sur son architecture x86 apparue avec le 8086 en l'améliorant tout en permettant la rétro-compatibilité, chose assez rare à cette époque. La combinaison de sa rétrocompatibilité, son utilisation sur l'IBM PC à philosophie de mises à jour régulières, et l'existence de copies peu chères par les concurrents, mène à la dominance du format x86 jusqu'à aujourd'hui.
 
 Des **ordinateurs personnels** sont commercialisés dès 1972, mais il faudra attendre la **"trinité de 1977"** (Apple II, Commodore PET, TRS 80) pour que ces ordinateurs deviennent vraiment populaires. On notera ensuite les Atari 400/800 (1979), TI-99 (1979), BBC Micro (1981), IBM PC (1981), Sinclair ZX Spectrum (1982), et Commodore 64 (1982), Amstrad CPC (1984), Commodore Amiga (1985), Atari ST (1985). Les "clones IBM" écrasent ensuite totalement la concurrence, avec une architecture modulaire, et une compatibilité entre les modèles et fabricants. L'arrivée des **cartes d'accélération 3D** au milieu des années 90, notamment la 3Dfx en 1996, accélère l'arrivée et la popularisation des jeux 3D, en parallèle des consoles 32 bits.
 
 **Côté Japonais**, l'Apple II est localisé avec une version spéciale en 1979, mais sa faible résolution l'empêche d'afficher des Kanjis (il est limité aux Katakanas), et la norme PAL utilisée au Japon, plus complexe, oblige à se limiter au noir & blanc, à moins d'acheter une carte vidéo supplémentaire. Les fabricants Japonais lancent rapidement leurs propres modèles, adaptés à ces critères : Nec PC-8001 (1979) puis PC-8801 (1981) et PC-9801 (1982), Fujitsu FM-7 (1982) puis FM Towns (1989).
 En 1983, le standard MSX est défini par Microsoft et ASCII pour créer une architecture unifiée, et sera utilisé par quasiment tous les constructeurs Japonais à un moment ou un autre. Très populaire au Japon et en Amérique du Sud, il reste inconnu aux USA et très peu répandu en Europe. Le standard est mis à jour plusieurs fois, puis abandonné, n'ayant pas réussi à évoluer aussi vite que la concurrence.
 
-La **première génération de consoles** utilise des hardware dédiés, et ne sont généralement pas capables d'afficher grand-chose de plus que 2 ou 3 carrés et quelques lignes. L'arrivée des microprocesseurs permet de déporter la logique des jeux sur des cartouches interchangeables, et c'est la Fairchild F (1976) qui ouvre le bal, suivie de près par l'Atari 2600 (1977), puis par de nombreux concurrents.
+La **première génération de consoles** utilise des hardware dédiés, et ne sont généralement que des clones de Pong, rarement capables d'afficher grand-chose de plus que 2 ou 3 carrés et quelques lignes. L'arrivée des microprocesseurs permet de déporter la logique des jeux sur des cartouches interchangeables, et c'est la Fairchild F (1976) qui ouvre le bal, suivie de près par l'Atari 2600 (1977), puis par de nombreux concurrents.
 
 Dans les **salles d'arcade**, les **premiers "jeux vidéo"** apparaissent dans les années 60. Ils sont de nature **électro-mécaniques**, et mélangent comme leur nom l'indique des circuits électroniques avec des éléments mécaniques. La plupart des développeurs de jeux d'arcade (Sega, Nintendo, Taito, Namco, Williams...) sont dès le début de gros acteurs dans ce marché. On notera notamment Duck Hunt (1969, Nintendo), Grand Prix (1969, Sega), Missile (1969, Sega), Jet Rocket (1970, Sega), Wild Gunman (1974, Nintendo) ou F-1 (1976, Namco). Tous ces jeux sont bien évidemment impossibles à émuler car ils nécessitent des pièces mécaniques pour fonctionner, et vous devrez vous contenter d'en rechercher des vidéos Youtube.  
 Les jeux électro-mécaniques sont chers à produire et à maintenir, et ils seront progressivement remplacés par les jeux vidéo électroniques, à commencer par Pong (1972, Atari), le premier du genre à connaître le succès. Avec l'arrivée massive des microprocesseurs à la fin des années 70, les jeux d'arcade deviennent de plus en plus complexes, et leur nombre explose suite au phénomène Space Invaders.
@@ -139,8 +200,3 @@ Par ailleurs, **les machines utilisées divergent radicalement en occident et au
 Les Japonais ont ainsi accès à beaucoup de jeux occidentaux, notamment sur Apple II ou avec des portages sur machines locales, mais l'inverse n'est pas vrai, et **énormément de jeux Japonais ne sortiront jamais en occident**, particulièrement à cause de la complexité de localisation.
 
 Enfin, on notera également une simple **préférence pour certains types de jeux** ou sujets d'un côté ou de l'autre de l'océan. Par exemple, les shmups sont créés en très large majorité par des studios Japonais, alors que les simulations sont plus appréciées en occident.
-
-## Sources
-
-- [Wikipedia](https://www.wikipedia.org/)
-- [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/)

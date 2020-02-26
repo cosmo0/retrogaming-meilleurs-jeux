@@ -27,6 +27,7 @@
 - [Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg) : une chaîne Youtube qui raconte diverses histoires et anecdotes
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) : une chaîne Youtube qui retrace l'historique des jeux chronologiquement, notamment Nintendo
 - [PatmanQC](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA/) : une autre chaîne Youtube qui raconte l'histoire de jeux, notamment arcade
+- [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/) : quelques jeux électromagnétiques Sega
 
 ### Shmups
 
