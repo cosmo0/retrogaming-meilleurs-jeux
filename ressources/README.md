@@ -28,6 +28,7 @@
 - [Jeremy Parish](https://www.youtube.com/channel/UCrIttXi0WgLXHI1poCk0D6g) : une chaîne Youtube qui retrace l'historique des jeux chronologiquement, notamment Nintendo
 - [PatmanQC](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA/) : une autre chaîne Youtube qui raconte l'histoire de jeux, notamment arcade
 - [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/) : quelques jeux électromagnétiques Sega
+- [The Digital Antiquarian](https://www.filfre.net/) : un blog de recherches historiques sur divers jeux et sujets
 
 ### Shmups
 
@@ -47,6 +48,9 @@
 - [From D&D To FF7 (The Game Design Forum)](http://thegamedesignforum.com/features/rd_ff7_2.html)
 - [The History of Computer Role-Playing Games (Gamasutra blog)](https://www.gamasutra.com/view/feature/132024/the_history_of_computer_.php)
 - [CRPG History Abridged (Gamasutra blog)](https://www.gamasutra.com/blogs/FelipePepe/20150625/244262/CRPG_History_Abridged__21_RPGs_that_brought_something_new_to_the_table.php)
+- [DRPG Book](https://drpgbook.com) : projet de recensement des dungeon crawlers
+- [CRPG Adventures](https://crpgadventures.blogspot.com/) : un passionné qui joue à chaque RPG dans l'odre de leur sortie
+- [CRPG Addict](https://crpgaddict.blogspot.com/) : un autre passionné qui joue à tous les RPG possibles, mais pas tout à fait dans l'ordre chronologique
 
 ### Jeux d'aventure
 
