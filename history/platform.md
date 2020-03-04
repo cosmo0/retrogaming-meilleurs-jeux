@@ -2,83 +2,82 @@
 
 Il y a beaucoup de sous-genre de platformers : certains plus concentrés sur l'aspect "plateforme" pur, d'autres sur les puzzles, d'autres sur l'action, d'autres encore sur l'exploration. Les jeux d'exploration, aujourd'hui appelés metroidvania, ont une histoire suffisament distincte, mais les autres ont une histoire très mêlée, et il est difficile de les distinguer et séparer.
 
-Les jeux de plateforme les plus influents sont **Donkey Kong** et ses sauts au-dessus d'obstacles et de trous ; **Pitfall** et ses multiples écrans ; **Super Mario Bros**, ses multiples mondes, la précision de son gameplay et ses nombreux secrets ; et **Super Mario 64** et son passage réussi à la 3D.
+Les jeux de plateforme les plus influents sont **Donkey Kong** et ses sauts au-dessus d'obstacles et de trous ; **Pitfall** et ses multiples écrans ; **Super Mario Bros**, ses multiples mondes bourrés de secrets et la précision de son gameplay ; **Super Mario Bros 3**, sa quantité de contenu et son attention aux détails ; et **Super Mario 64** et son passage réussi à la 3D.
 
-Le genre est encore très populaire aujourd'hui, particulièrement chez les développeurs indépendants, qui aiment y mélanger beaucoup d'autres genres : aventure, RPG, etc.  
-Après Symphony of the Night, les metroidvania ont connu un longue période de creux ponctuée de quelques Castlevania sur Game Boy Advance et DS, puis plus rien jusqu'à l'explosion récente de jeux indés dans le genre.
+Les platformers en 3D n'ont pas beaucoup évolué depuis **Mario 64**, mais en 2D, le genre est encore très populaire aujourd'hui, particulièrement chez les développeurs indépendants, qui aiment y mélanger beaucoup d'autres genres : aventure, RPG, roguelike, etc.
+
+En "metroidvania", les jeux majeurs sont **Metroid** et son vaste monde à explorer ; et **Symphony of the Night** qui introduit des éléments de RPG.
+
+Après **Symphony of the Night**, les metroidvania ont connu un longue période de creux ponctuée de quelques **Castlevania** sur Game Boy Advance et DS, puis quasiment plus rien jusqu'à l'explosion de jeux indés du genre dans à la fin des années 2010. Le genre n'a pas beaucoup évolué, ces indés se contentant souvent de singer SotN, avec plus ou moins de succès.
 
 ## Plate-forme, action et puzzle
 
-Space Panic (1980, arcade, Universal) : plateformes desquelles on peut tomber (mais pas sauter)
+**Space Panic** (1980, arcade, Universal) est le premier jeu qui a des **plateformes desquelles on peut tomber**, mais ne permet pas encore de sauter.
 
-Donkey Kong (1981, arcade, Nintendo) : saut au-dessus d'obstacles et trous
+:star: **Donkey Kong** (1981, arcade, Nintendo) est le premier jeu qui permet de **sauter au-dessus d'obstacles** et de trous.
 
-Jump Bug (1981, arcade, Alpha Denshi) : platformer primitif mélangé avec shmup, scrolling vertical et horizontal
+**Jump Bug** (1981, arcade, Alpha Denshi) est un platformer primitif mélangé avec des **éléments de shmup**, et le premier à permettre le **scrolling vertical et horizontal**.
 
-Moon Patrol (1982, arcade, Irem) : shmup où on peut sauter mais scrolling automatique forcé
+**Moon Patrol** (1982, arcade, Irem) est un **shmup qui permet de sauter**, avec un scrolling automatique forcé comme beaucoup de shmups de cette époque.
 
-Pitfall (1982, Atari 2600) : plusieurs écrans
+:star: **Pitfall** (1982, Atari 2600) est le premier véritable jeu de plateforme qui se déroule sur **plusieurs écrans** mais ne permet pas encore le scrolling.
 
-Les Schtroumpfs au château de Gargamel (1982, Colecovision) : terrain irrégulier, scrolling entre écrans
+**Les Schtroumpfs au château de Gargamel** (1982, Colecovision) est le premier à se dérouler sur un **terrain irrégulier** avec des pentes, et affiche un **scrolling entre les écrans fixes**.
 
-Mario Bros (1983, arcade, Nintendo) : deux joueurs, saut sur la tête des ennemis
+:star: **Mario Bros** (1983, arcade, Nintendo) permet de jouer à **deux joueurs**, et est le premier à introduire le concept de **saut sur les ennemis** pour les tuer.
 
-Lode Runner (1983, Apple II/Atari 8 bits) : éditeur de niveaux
+**Lode Runner** (1983, Apple II/Atari 8 bits) est le premier platformer qui inclut un **éditeur de niveaux**, ce qui le rendra extrêmement populaire, notamment au Japon.
 
-Pac-Land (1984, arcade, Namco) : scrolling bidirectionnel, niveaux distincts. Inspire Alex Kidd, Ghost n Goblins, Wonder Boy et Super Mario
+:star: **Pac-Land** (1984, arcade, Namco) permet le **scrolling bidirectionnel**, et permet une progression dans des **niveaux visuellement distincts**. Il sera une influence majeure sur tous les "vieux" platformers classiques : **Alex Kidd**, **Ghost n Goblins**, **Wonder Boy**, **Super Mario Bros**, etc.
 
-Pitfall II (1984, Atari 2600) : exploration libre sans limite de temps ni de vies, juste des checkpoints
+:star: **Knight Lore** (1984, ZX Spectrum) établit le sous-genre du **platformer isométrique** avec de l'exploration, genre très populaire sur ordinateur à l'époque. Il inspirera **Land Stalker** (1992, Megadrive) et globalement tous les RPG/action isométriques comme **Light Crusader** (1995, Megadrive) ou **Diablo** (1997, Windows).
 
-Knight Lore (1984, ZX Spectrum) : établit le sous-genre du platformer isométrique avec de l'exploration, populaire sur PC à l'époque. Inspire Land Stalker (1992, Megadrive) et globalement tous les RPG/action isométriques comme Light Crusader (1995, Megadrive) ou Diablo (1997, Windows).
+:star: **Super Mario Bros** (1985, Famicom) est **un des jeux vidéo les plus importants** de l'Histoire. Il introduit la notion de **collectibles non obligatoires** avec ses pièces, de **powerups** comme dans les shmups, il a des **secrets partout**, des **raccourcis**, c'est le premier platformer avec des **boss**, et est globalement réputé pour l'**extrême précision de son gameplay**. Il deviendra la **référence** et le modèle sur lequel se basent la plupart des platformers suivants.
 
-Super Mario Bros (1985, Famicom) : collectibles (pièces), powerups, secrets partout, raccourcis, boss, précision du gameplay. Le jeu le plus important du genre.
+**Doki Doki Penguin Land** (1985, SG-1000) introduit dans le genre des **éléments de puzzle**, qui sera repris par des jeux comme **Solomon's Key** (1986, arcade)
 
-Doki Doki Penguin Land (1985, SG-1000) : éléments de puzzle
+**Bubble Bobble** (1986, arcade, Taito) retourne à une formule mono-écran, mais propose un jeu plus **orienté action**, avec de nombreux powerups, 100 niveaux et des secrets partout. Il définit un sous-genre assez restreint mais populaire au Japon.
 
-Bubble Bobble (1986, arcade, Taito) : mono-écran, powerups, action, 100 niveaux. Définit un sous-genre assez populaire au Japon.
+:star: **Castlevania** (1986, Famicom) est le premier platformer **totalement orienté action**, avec une **arme principale améliorable** et des **armes secondaires**, et une **difficulté intense** qui ne le met pas à la portée de tous les joueurs, mais le rendra légendaire.
 
-Castlevania (1986, Famicom) : armes secondaires, difficulté intense
+**Wonder Boy in Monster Land** (1987, arcade, Sega) ajoute à la formule des **éléments de RPG** avec l'amélioration d'équipement.
 
-Wonder Boy Monster Land (1987, arcade, Sega) : ajoute éléments de RPG
+**Mega Man** (1987, Famicom) est le premier platformer à permettre le **choix de niveau**, avec un **boss à la fin de chaque niveau**.
 
-Mega Man (1987, Famicom) : choix de niveau
+:star: **Super Mario Bros 3** (1988, Famicom) propose une **carte du monde** avec de multiples chemins possibles, est **bourré de secrets**, utilise le **scrolling multidirectionnel**, et propose globalement une **quantité phénoménale de contenu**, en plus de ses excellentes finitions et de son **attention aux détails** incroyable, ce qui en fera la **nouvelle référence du genre**.
 
-Super Mario Bros 3 (1988, Famicom) : carte du monde, bourré de secrets
+**Ninja Gaiden** (1988, Famicom) est le premier jeu vidéo avec de **véritables cutscenes** racontant une histoire, en plus d'être globalement un bon jeu.
 
-Ninja Gaiden (1988, Famicom) : premières véritables cutscenes racontant une histoire dans un jeu vidéo
+:star: **Prince of Persia** (1989, Apple II) utilise des **animations rotoscopées**, et une **forte ambiance**, pour un jeu **basé sur l'exploration** avec de nombreux pièges et des puzzles, avec des **combats assez rares et intenses**. Il **définit un sous-genre**, le "platformer cinématique", et sera suivi par **Another World** (1991, Amiga/Atari ST), **Flashback** (1992, Megadrive/Amiga), ou encore **Oddworld** (1997, Playstation/Windows).
 
-Prince of Persia (1989, Apple II) : animations rotoscopées, forte ambiance, exploration, plateforme, puzzles, combats assez rares et intenses. Définit un sous-genre suivi par Another World (1991, Amiga/Atari ST), Flashback (1992, Megadrive/Amiga), ou Oddworld (1997, Playstation/Windows).
+:star: **Sonic The Hedgehog** (1991, Megadrive) est apprécié pour sa **grande vitesse** de déplacement, ainsi que son semblant de **moteur physique** qui donne une gestion particulière du personnage.
 
-Sonic The Hedgehog (1991, Megadrive) : scrolling multidirectionnel avec vastes niveaux (pas le premier), grande vitesse, moteur physique
+**Bug!** (1995, Saturn) est le premier platformer qui affiche des niveaux en **3D polygonale**, mais le **gameplay reste en 2D** avec des déplacements sur un seul axe.
 
-The Lost Vikings (1993, SNES) : puzzle multijoueur coop
+**Jumping Flash** (1995, Playstation) est le premier à proposer un **vrai gameplay 3D**, basé sur **l'exploration et le tir**, et est ainsi considéré comme le **premier vrai platformer 3D**.
 
-Bug! (1995, Saturn) : visualisation 3D mais gameplay 2D
+:star: **Super Mario 64** (1996, N64) est le **premier platformer à réussir la transition en 3D**. Il propose une **exploration libre des niveaux**, qui ont chacun **plusieurs objectifs** qui nécessitent de les refaire plusieurs fois. Il utilise le **stick analogique** de la console pour varier la vitesse de déplacement, et surtout, une **caméra dynamique** qui alterne entre différents modes selon les situations, et résoud ainsi réellement la problématique des déplacements dans un espace en 3D. Il sera **la référence** pour les platformers 3D qui le suivront.
 
-Jumping Flash (1995, Playstation) : vrai gameplay 3D, exploration et shoot, premier vrai platformer 3D sur console
+## Exploration (metroidvania)
 
-Crash Bandicoot (1996, Playstation) : premier "vrai" gameplay 3D mais pas partout et très restreint
+**Major Havoc** (1983, arcade, Atari) est le premier platformer à **permettre l'exploration** des niveaux, mais il alterne avec d'autres genres comme le shmup.
 
-Super Mario 64 (1996, N64) : exploration libre de niveaux, plusieurs objectifs nécessitent de refaire plusieurs fois, utilise le stick analogique, caméra dynamique
+**Pitfall II** (1984, Atari 2600) permet l'**exploration libre** de nombreux écrans sans limite de temps ni de vies, juste des checkpoints, et permet ainsi d'explorer son **monde complexe** à loisir.
 
-## Exploration, metroidvania
+**Jet Set Willy** (1984, ZX Spectrum) permet une **exploration relativement libre** des niveaux.
 
-Major Havoc (1983, arcade, Atari) : exploration et alterne avec d'autres genres
+**HERO** (1984, Atari 2600) mélange **exploration et puzzle** avec une gestion de **ressources limitées**.
 
-Jet Set Willy (1984, ZX Spectrum) : exploration relativement libre
+:star: **Montezuma's Revenge** (1984, PC) permet de **transporter des objets**, et se focalise sur la **recherche de clés** pour ouvrir des portes et progresser.
 
-HERO (1984, Atari 2600) : mélange exploration et puzzle avec ressources limitées (dynamite et énergie)
+**Underwurlde** (1984, ZX Spectrum) propose d'explorer un **monde immense** pour l'époque, composé d'environ 600 écrans.
 
-Montezuma's Revenge (1984, PC) : objets à transporter, recherche de clés pour ouvrir des portes
+**Brain Breaker** (1985, Sharp X1) mélange **exploration** avec l'**acquisition d'items et d'armes**, et pose ainsi la **première pierre du genre** qui sera appelé par la suite metroidvania.
 
-Underwurlde (1984, ZX Spectrum) : monde immense pour l'époque (600 écrans)
+:star: **Metroid** (1986, Famicom) est un jeu **inspiré par Zelda** mais en mode plateforme. **Immense**, **non linéaire**, plein **d'armes et d'upgrades** nécessaires ou non pour avancer, des **boss mémorables**, bourré de **secrets**, avec **plusieurs fins**, il **marque durablement le genre**, et **sert encore de modèle** aujourd'hui.
 
-Brain Breaker (1985, Sharp X1) : exploration, items et armes, première pierre du genre metroidvania
+**Castlevania II Simon's Quest** (1987, Famicom) ajoute un **aspect RPG** avec des **quêtes**, de l'**expérience** sous la forme de coeurs, et des **objets** à trouver. Mais le jeu semble **à moitié fini**, et son opacité totale le rend quasiment injouable aujourd'hui.
 
-Metroid (1986, Famicom) : inspiré par Zelda mais en 2D. Immense, non linéaire, plein d'armes et upgrades nécessaires pour avancer (ou pas), boss mémorables, bourré de secrets, plusieurs fins, clin d'oeil avec personnage féminin. Marque durablement le genre, sert encore de modèle aujourd'hui.
+:star: **Wonder Boy III The Dragon's Trap** (1989, Master System) est un jeu **semi-linéaire**, avec **différents mondes** à explorer reliés par un **hub central**, et définit ainsi une **variante du genre**.
 
-Castlevania II Simon's Quest (1987, Famicom) : morceaux de RPG avec quêtes, grind d'XP sous la forme de coeurs, objets
-
-Wonder Boy III The Dragon's Trap (1989, Master System) : semi-linéaire avec différents mondes à explorer mais hub central
-
-Symphony of the Night (1997, Playstation) : ajoute éléments de RPG avec stats, XP et niveaux, inventaire, sorts, etc. Jeu majeur dans la définition du genre, reste un modèle aujourd'hui.
+:star: **Symphony of the Night** (1997, Playstation) insiste fortement sur les **éléments de RPG** avec des **statistiquess**, de **l'expérience et des niveaux**, un **inventaire**, de **multiples armes et équipements**, des **sorts**, une **personnalisation des capacités du personnage**, etc. C'est un **jeu majeur** dans la définition du genre, et reste un modèle aujourd'hui pour énormément de jeux.
