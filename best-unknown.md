@@ -99,7 +99,14 @@ Globalement, ce sont les jeux qui sont relativement connus, mais ne rentrent pas
 
 ### Playstation 2
 
+- Devil May Cry (1, 2, 3)
+- Dragon Quest 8
+- Freedom Fighters
+- Manhunt
 - Monster Hunter
+- Ratchet & Clank
+- Second Sight
+- Silent Hill 2
 
 ### Amiga
 
@@ -193,6 +200,18 @@ Les perles cachées, les jeux virtuellement inconnus du grand public mais qui pr
 
 - Soul Blazer
 - Bahamut Lagoon
+
+### Playstation 2
+
+- Frequency
+- Gitaroo Man
+- God Hand
+- Gradius 5
+- Gregory Horror Show
+- Magic Pengel: The Quest for Colour
+- Metal Arms: Glitch in the System
+- Psi-Ops: The Mindgate Conspiracy
+- Sly Cooper
 
 ### MS-DOS
 

@@ -486,13 +486,13 @@ Les architectures sont très variées, mais se concentrent toutes sur les capaci
 - Grand Theft Auto (3, Vice City, San Andreas)
 - Ico
 - Jak and Daxter
-- Katamari Damacy
+- Katamari Damacy, We Love Katamari
 - Kingdom Hearts (1, 2)
 - Metal Gear Solid (2, 3)
 - Okami
 - Persona (3, 4)
 - Prince of Persia (Sands of Time, Warrior Within, Two Thrones)
-- Pro Evolution Soccer
+- Pro Evolution Soccer (1, 2, 3)
 - Shadow of the Colossus
 - Tekken (4, 5)
 - Tomb Raider Anniversary
