@@ -14,4 +14,8 @@ Star Wars (1983)
 
 Star Trek (1983)
 
+Carrier Command (1988, ZX Spectrum)
+
+Sim Ant (1991, PC) : simulation de fourmillière
+
 Descent (1995, DOS, Parallax) : 6 degrés de liberté, full polygones
