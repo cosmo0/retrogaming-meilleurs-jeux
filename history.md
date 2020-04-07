@@ -42,15 +42,42 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ### Course
 
-- ?
+- 1981 : Turbo
+- 1981 : Pole Position
+- 1986 : Out Run
+- 1988 : Winning Run
+- 1992 : Virtua Racing
+- 1992 : Formula One Grand Prix
+- 1995 : Sega Rally
+- 1996 : Mario Kart 64
+- 1997 : Gran Turismo
+- 1999 : Midtown Madness
 
 ### Plate-forme
 
-- ?
+- 1981 : Donkey Kong
+- 1982 : Pitfall
+- 1984 : Montezuma's Revenge
+- 1985 : Super Mario Bros
+- 1986 : Metroid
+- 1986 : Castlevania
+- 1988 : Super Mario Bros 3
+- 1989 : Prince of Persia
+- 1996 : Super Mario 64
+- 1997 : Castlevania Symphony of the Night
 
 ### Puzzle
 
-- ?
+- 1979 : Heiankyo Alien
+- 1983 : Lode Runner
+- 1984 : Puzzle Panic
+- 1986 : Tetris
+- 1985 : Chain Shot!
+- 1991 : Lemmings
+- 1993 : Myst
+- 1994 : Shariki
+- 1995 : Mario's Picross
+- 2007 : Portal
 
 ### RPG occidentaux (CRPG)
 
