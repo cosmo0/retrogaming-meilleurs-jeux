@@ -572,6 +572,7 @@ Yoshi's Island DS (DS) est aussi très sympathique.
 Encore une série longue et complexe avec de nombreux remasters, portages et remakes, avec autant de classements des meilleurs épisodes qu'il y a de fans.  
 Parmi ceux qui reviennent souvent, on pourra citer notamment la compilation Ys I & II (PC Engine CD, PS2, DS, PSP), Ys The Oath in Felghana (Windows, PSP), Ys IV The Dawn of Ys (PC Engine) et Ys Seven (PSP, Windows).  
 Piochez dans cette liste en fonction de ce qui vous attire et des systèmes qui vous sont accessibles.
+[Un site dédié à vous faire découvrir la série](http://www.digitalemelas.com/)
 
 **Zelda**  
 Les épisodes les plus largement reconnus sont A Link to the Past (SNES), Ocarina of Time (N64, remaster 3DS), et Wind Waker (GC, remaster WiiU).  
