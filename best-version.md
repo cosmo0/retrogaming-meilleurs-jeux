@@ -459,3 +459,12 @@ La version PC Engine est fidèle à l'arcade et inclut des continues infinis ave
 **Wonder Boy III The Dragon's Trap**  
 La version originale est la Master System, mais la version PC Engine lui est légèrement supérieure.  
 A noter l'excellent remaster sorti sur PS4/Xbox One/Switch/PC, qui est la meilleure manière de jouer au jeu, et de loin.
+
+**Ys**  
+Les épisodes après le 6 ne sont plus vraiment du rétrogaming.
+
+- 1 & 2 : préférez la version PSP/PC, ou à défaut la PC Engine CD.
+- 3 : préférez la version PSP/PC (Oath In Felghana), ou à défaut la PC Engine.
+- 4 : préférez la version PS4/Vita/PC (Memories of Celceta). Les versions originales (Mask of the Sun et Dawn of Ys) n'ont jamais été localisées.
+- 5 : n'a jamais été localisé. Si vous trouvez une fantrad, elle sera probablement pour la version SNES.
+- 6 (Ark of Napishtim) : préférez la version PC.
