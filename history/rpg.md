@@ -2,15 +2,17 @@
 
 La définition d'un RPG est assez vague au début, particulièrement chez les Japonais qui connaissent encore peu D&D à l'époque contrairement aux occidentaux, et les "premiers RPG" sont souvent ce qu'on appelle aujourd'hui des jeux d'aventure.
 
+## Les RPG occidentaux et Japonais
+
 Les CRPG (Computer RPG) tirent leurs origines des jeux de rôle "papier", notamment **Donjons & Dragons**, le premier jeu de rôle commercial, dont la première édition date de 1974. Les CRPG sont généralement très ancrés dans les univers D&D ou qui s'en inspirent, et il faudra attendre la sortie de **Final Fantasy VI** en 1994 aux USA pour que le JRPG perce réellement en occident, et que le genre se diversifie.
 
 Très tôt, les RPG Japonais cherchent à **créer leurs propres règles et leurs propres univers**, à l'inverse des RPG occidentaux qui restent longtemps ancrés dans leurs racines "high fantasy" Donjons & Dragons. A partir des années 90, et même vers la fin des années 80, les JRPG préfèrent **raconter une histoire**, là où les CRPG se contentent de **contrôler un "avatar"** vide sur lequel le joueur applique ses propres choix.
 
-Les JRPG aiment aussi intégrer des éléments d'autres styles de jeux : visual novel, drague, "life sim", etc... alors que les CRPG restent centrés uniquement sur les aspects RPG et aventure jusque dans les années 2000. A l'inverse, les CRPG se préoccupent énormément, encore une fois dans la lignée de D&D, de laisser un maximum de choix au joueur, avec des systèmes d'alignement moral, des multiples résolutions de quêtes, une personnalisation des stats et du personnage, etc, tandis que les JRPG ont plutôt tendance à suivre des histoires prédéfinies, parfois avec plusieurs fins possibles.
+Les JRPG aiment aussi **intégrer des éléments d'autres styles de jeux** : visual novel, drague, "life sim", etc... alors que les CRPG restent centrés uniquement sur les aspects RPG et aventure jusque dans les années 2000. A l'inverse, les CRPG se préoccupent énormément, encore une fois dans la lignée de D&D, de laisser un **maximum de choix** au joueur, avec des systèmes d'alignement moral, des multiples résolutions de quêtes, une personnalisation des stats et du personnage, etc, tandis que les JRPG ont plutôt tendance à suivre des histoires prédéfinies, parfois avec plusieurs fins possibles, et parfois même ne permettent pas de modifier les personnages.
 
-Les CRPG les plus influents au début sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres, et **Ultima**, qui y rajoute un peu d'overworld. La plupart des RPG se contenteront de recopier, étendre et améliorer la formule. L'histoire des CRPG est assez linéaire, et même si ils se piquent tous des idées les uns aux autres, à part Wizardry et Ultima, il n'y a pas vraiment de jeu "avant/après" qui définit ou transforme le genre, contrairement aux JRPG ou à d'autres genres.
+Dans l'ensemble, les RPG les plus importants sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres ; **Ultima**, qui y rajoute une histoire et un monde à explorer ; **Rogue**, qui utilise la génération procédurale ; et **Dragon Quest**, qui rend le genre accessible au grand public. D'autres titres ont eu une influence, mais aucun n'a eu un impact aussi profond que ces titres.
 
-Le genre est un peu tombé à l'abandon, et sauf quelques exceptions, se sont très mélangés avec les jeux d'actions et les shooters.
+---
 
 ## RPG occidentaux (CRPG)
 
@@ -21,6 +23,12 @@ L'origine des CRPG et des jeux d'aventure est extrêmement mêlée, les jeux com
 Dans ces anciens jeux sur mainframe, on pourra noter **Maze War** (1973), le premier jeu qui se joue à la première personne dans un labyrinthe en wireframe (mais qui n'est pas un RPG), **dnd** (1974), le premier jeu avec des boss, **Dungeon** (1975), le premier à implémenter les règles de D&D, **pedit5** (1975), le premier dungeon crawler avec un placement aléatoire des ennemis, et surtout **Moria** (1975), un système de stats basé sur l'utilisation des compétences, le besoin de manger, un monde immense avec une grande ville et plus de 200 niveaux, et surtout, c'est le premier jeu multijoueur : jusqu'à 10 personnes peuvent jouer ensemble. **Oubliette** (1977) a 15 classes, un monde vaste, des boutiques, une ville, des mini-jeux, un temple, et la possibilité de charmer des monstres pour qu'ils combattent à vos côtés. En 1980 est créé **MUD** (Multi-User Dungeon), un RPG/jeu d'aventure textuel multijoueur, et le premier jeu jouable sur ARPANET (l'ancêtre d'internet). Il inspirera toute une série de clones, dont certains continueront à sortir dans les années 90.
 
 Les premiers ordinateurs personnels (Apple II et compagnie) sont accompagnés par des manuels, qui donnent souvent des listings de code qui permettent de créer des jeux primitifs, y compris des RPG/dungeon crawlers simples ; les magazines de l'époque ont également des pages dédiées à ce genre de pratique. Dans les années 77 et 78 vous trouverez donc un grand nombre de jeux basiques de ce type.
+
+Les CRPG les plus influents sont **Wizardry** et **Ultima**. La plupart des RPG par la suite se contenteront de recopier, étendre et améliorer la formule. L'histoire des CRPG est assez linéaire, et même si ils se piquent tous des idées les uns aux autres, à part Wizardry et Ultima, il n'y a pas vraiment de jeu "avant/après" qui définit ou transforme le genre, contrairement aux JRPG ou à d'autres genres.
+
+Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, se sont très mélangés avec les jeux d'actions et les FPS.
+
+---
 
 **Temple of Apshai** (1979, TRS-80) est le **premier RPG graphique vendu sur ordinateur personnel**, mais les graphismes sont très... abstraits. Il aura de nombreuses suites, et la série sera **très bien vendue** pour l'époque.
 
@@ -84,7 +92,8 @@ Les premiers ordinateurs personnels (Apple II et compagnie) sont accompagnés pa
 
 Dans les années 80, les Japonais jouent beaucoup sur ordinateur, avec beaucoup de modèles inconnus ici (notamment Nec PC-88/98, Sharp X1, Fujitsu FM, et le standard MSX, tous notés "PC" ci-dessous), et de jeux sortis uniquement là-bas et jamais traduits : il y a donc beaucoup de jeux très influents, mais totalement inconnus en occident. Par conséquent, alors que certains jeux occidentaux ont parfois beaucoup d'influence sur les jeux Japonais (notamment Wizardry et Ultima), l'inverse n'est pas vrai, et **certains jeux Japonais majeurs restent inconnus en occident encore aujourd'hui**. Par exemple, la licence Wizardry a été rachetée par une société Japonaise et une trentaine de jeux y ont été produits, quasiment aucun n'étant sorti en occident en-dehors de la série principale.
 
-Les jeux Japonais sont également très influencés par la culture locale, comme les mangas, mais aussi d'autres types de jeux comme les visual novels, ce qui change énormément le contenu des jeux, qui vont par exemple très tôt inclure des éléments de romance et de drague (premier RPG/jeu d'aventure adulte en 1982 : Danchizuma no Yuwaku), mais aussi les jeux d'action, notamment Tower of Druaga, très peu connu ici mais qui était un phénomène au Japon, et qui est à la racine de tous les ARPG et de tous les jeux d'aventure/action comme Zelda.
+Les jeux Japonais sont également très influencés par la culture locale, comme les mangas, mais aussi d'autres types de jeux comme les visual novels, ce qui change énormément le contenu des jeux, qui vont par exemple très tôt inclure des éléments de romance et de drague (premier RPG/jeu d'aventure adulte en 1982 : Danchizuma no Yuwaku), mais aussi les jeux d'action, notamment Tower of Druaga, très peu connu ici mais qui était un phénomène au Japon, et qui est à la racine de tous les ARPG et de tous les jeux d'aventure/action comme Zelda.  
+Donjons & Dragons, localisé en 1985, y est également assez populaire, même avant sa sortie officielle, mais les développeurs n'y restent pas aussi attachés qu'en occident.
 
 Par la suite, les RPG Japonais sur ordinateur vont décliner et être remplacés par des jeux sur console, ce qui renforce encore cette distinction entre les CRPG occidentaux complexes avec souris et clavier, et les JRPG "facile d'accès" avec des manettes entre 2 et 4 boutons.
 
@@ -92,15 +101,17 @@ Dans les années 90, durant le déclin des JRPG ordinateur, le marché PC verra 
 
 Les JRPG les plus influents sont **Tower of Druaga** qui va influencer les séries Hydlide, Dragon Slayer, Zelda, et Ys ; **Dragon Quest**, qui simplifie les RPG traditionnels au maximum pour les rendre accessibles au grand public et fait passer tout le monde sur console ; et **Phantasy Star II** avec son histoire centrée sur les personnages, plutôt que le classique "sauver le monde/la princesse/tuer le méchant".
 
-**Wizardry** (porté en 1985) et **Ultima III** (porté en 1986) seront les **premiers RPG à succès au Japon**. Wizardry notamment y connaîtra encore plus de succès qu'en occident, et certains épisodes y seront exclusifs.
+---
+
+**Wizardry** (porté en 1985) et **Ultima III** (porté en 1986) seront les **premiers RPG à succès au Japon**, même si leurs version originales sont déjà populaires avant leurs portages, notamment chez les développeurs. Wizardry notamment y connaîtra encore plus de succès qu'en occident, et certains épisodes y seront exclusifs par la suite.
 
 Quelques jeux sortent sur PC au début des années 80, mais leur classification en RPG est discutable : **Underground Exploration** (1982), **The Dragon and Princess** (1982), **Panorama Island** (1983), **Seduction of Condominium Wives** (1983).
 
 **Dungeon** (1983, PC) est le **premier RPG Japonais "traditionnel"**, avec **tous les marqueurs** vus sur les RPG occidentaux : exploration du monde en vue de dessus, exploration des donjons en vue subjective, plusieurs classes, statistiques, etc.
 
-**The Black Onyx** (1984, PC) sera le premier RPG créé par un occidental à être spécifiquement "marketé" au Japon, et est réputé être le jeu qui y aura **mis le genre sur le devant de la scène** vidéoludique. Il permet de **personnaliser son personnage visuellement**, et **l'équipement porté apparaît en jeu**. C'est aussi un des premiers jeux à utiliser une **barre de vie**.
+**The Black Onyx** (1984, PC) sera le premier RPG créé par un occidental à cibler spécifiquement le Japon, et est réputé être le jeu qui y aura **mis le genre sur le devant de la scène** vidéoludique. Il permet de **personnaliser son personnage visuellement**, et **l'équipement porté apparaît en jeu**. C'est aussi un des premiers jeux à utiliser une **barre de vie**.
 
-:star: **Tower of Druaga** (1984, arcade) est inspiré de Dandy (1983, Atari 8 bits), et se joue comme un **Pac-Man avec une épée** mais n'a ni expérience ni niveaux, et utilise un système incroyablement obscur **d'objets à trouver** avec des actions arbitraires pour pouvoir gagner, ce qui génère du buzz et des discussions autour du jeu, internet et GameFaqs n'existant pas encore. Ce sera un **succès majeur au Japon** et avec son **action constante**, il **influencera la création des RPG/action** des années suivantes, particulièrement Hydlide, Dragon Slayer, Zelda et Ys.
+:star: **Tower of Druaga** (1984, arcade) est inspiré par Ultima et Dandy (1983, Atari 8 bits), et se joue comme un **Pac-Man avec une épée** mais n'a ni expérience ni niveaux, et utilise un système incroyablement obscur **d'objets à trouver** avec des actions arbitraires pour pouvoir gagner, ce qui génère du buzz et des discussions autour du jeu, internet et GameFaqs n'existant pas encore. Ce sera un **succès majeur au Japon** et avec son **action constante**, il **influencera la création des RPG/action** des années suivantes, particulièrement Hydlide, Dragon Slayer, Zelda et Ys.
 
 :star: **Dragon Slayer** (1984, PC) est considéré comme le **premier Action-RPG**, combinant des **combats temps réel en vue de dessus** avec une **fiche de personnage**, et introduit également des **puzzles à résoudre**, ce qui influencera énormément Zelda.
 
@@ -112,13 +123,13 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 
 **Hydlide II** (1985, PC) introduit un système de **moralité** qui varie selon nos actions, et détermine la réaction des PNJ à notre égard.
 
-:star: **The Legend of Zelda** (1986, Famicom) sera une tentative de créer un **RPG extrêmement simplifié**, où l'expérience est supprimée, et remplacée par des coeurs et de l'équipement. C'est aussi le premier jeu à introduire le concept de "**New Game+**" avec sa Master Quest.
+:star: **The Legend of Zelda** (1986, Famicom) sera une tentative de créer un **RPG/action extrêmement simplifié**, où l'expérience est supprimée, et remplacée par des coeurs et de l'équipement. C'est aussi le premier jeu à introduire le concept de "**New Game+**" avec sa Master Quest.
 
-:star: **Dragon Quest** (1986, Famicom) est le **premier RPG qui cible le grand public**. Il reprend la formule vue dans Wizardry et Ultima, en en simplifiant énormément les mécaniques : **contrôle à deux boutons**, **personnage qui ne peut pas être modifié** avec des statistiques qui augmentent toutes seules, **combats aléatoires**, **déplacements en vue de dessus** dans un monde ouvert mais aussi dans les donjons, une **histoire simple mais efficace**, **armes et sorts simplifiés** qui nécessitent juste de choisir celui avec le plus gros chiffre, une **facilité générale** qui nécessite de beaucoup grinder mais la mort n'est pas punitive... C'est aussi le premier à introduire le concept de **ralentissement de la progression**, avec des besoins constamment grandissant en points d'expérience pour passer des niveaux. C'est, enfin, le premier JRPG qui utilise un **style graphique inspiré des mangas** qu'utiliseront énormément de JRPG par la suite, avec des illustrations par Akira Toriyama, le créateur de Dragon Ball. C'est sans aucun doute **le JRPG le plus influent**.
+:star: **Dragon Quest** (1986, Famicom) est le **premier RPG qui cible le grand public**. Il combine les éléments de Wizardry et Ultima, et en simplifie énormément les mécaniques : **contrôle à deux boutons**, **personnage qui ne peut pas être modifié** avec des statistiques qui augmentent toutes seules, **combats aléatoires**, **déplacements en vue de dessus** dans un monde ouvert mais aussi dans les donjons, une **histoire simple mais efficace** avec de l'humour, des **armes et sorts simplifiés** qui nécessitent juste de choisir celui avec le plus gros chiffre, une **facilité générale** qui nécessite de beaucoup grinder mais la mort n'est pas punitive... C'est aussi le premier à introduire le concept de **ralentissement de la progression**, avec des besoins constamment grandissant en points d'expérience pour passer des niveaux. C'est, enfin, le premier JRPG qui utilise un **style graphique inspiré des mangas** qu'utiliseront énormément de JRPG par la suite, avec des illustrations par Akira Toriyama, le créateur de Dragon Ball. C'est sans aucun doute **le JRPG le plus influent**.
 
-:star: **Ys Ancient Ys Vanished** (1987, PC) re-simplifie le gameplay de Zelda, et on se content de "percuter" les ennemis pour les attaquer. Il n'invente rien, mais avec ses **graphismes avancés** et ses **musiques considérées comme parmi les meilleures** de l'époque, et la série sera très populaire au Japon.
+**Ys: Ancient Ys Vanished** (1987, PC) simplifie encore plus le gameplay de Zelda, et on se content de "percuter" les ennemis pour les attaquer, comme dans Hydlide. Il n'invente pas grand-chose, mais avec ses **graphismes avancés**, son histoire originale et ses **musiques considérées comme parmi les meilleures** de l'époque, et la série sera très populaire au Japon.
 
-**Digital Devil Story: Megami Tensei** (1987, Famicom) crée un **univers original** mêlant **science-fiction, démonisme et horreur**, avec un système de dialogues tiré de Cosmic Soldier, qui permet de **recruter des ennemis**.
+**Digital Devil Story: Megami Tensei** (1987, Famicom) crée un univers original mêlant **science-fiction, démonisme et horreur**, avec un système de dialogues tiré de Cosmic Soldier, qui permet de **recruter des ennemis**.
 
 **Phantasy Star** (1987, Master System) est parmi les premiers RPG à avoir un **protagoniste féminin** et des **animations d'ennemis** lors des combats.
 
@@ -129,6 +140,8 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 **Digan no Maseki**/The Magic Stone of Digan (1988, PC) est un RPG original avec son focus sur la **simulation du monde** : cycle jour/nuit, le besoin de manger et de dormir, une **gestion des blessures et même des maladies** bénignes ou graves, le **besoin de travailler** pour gagner de l'argent... Des personnages peuvent être recrutés mais ne sont **pas contrôlables directement**, et leurs réactions dépendent de leurs relations avec le joueur.
 
 :star: **Phantasy Star II** (1989, Megadrive) sera un des premiers avec une **histoire centrée sur les personnages** qui touche des **sujets importants et personnels** avec une **morale ambiguë**, plutôt que les classiques "sauver le monde/la princesse/tuer le méchant" ; tout ceci sera **repris par la plupart des JRPG** par la suite, et qui les distinguera des CRPG pendant de nombreuses années.
+
+**Mother** (1989, NES) est un des premiers RPG à utiliser un **environnement du quotidien**, qui n'a pas de chevalier, de magie ou de dragon : même s'il utilise beaucoup le surnaturel, une grande partie du jeu se déroule dans des environnements très banals, et ressemble plus à ce qu'un enfant pourrait imaginer. Mais c'est surtout le premier à **parodier les systèmes classiques des RPG**, ce qui génèrera tout un sous-genre au Japon.
 
 **Sweet Home** (1989, Famicom) est considéré comme le **premier survival horror** et servira de modèle à Resident Evil, bien des années plus tard.
 
