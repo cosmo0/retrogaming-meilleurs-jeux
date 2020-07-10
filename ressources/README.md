@@ -29,6 +29,7 @@
 - [PatmanQC](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA/) : une autre chaîne Youtube qui raconte l'histoire de jeux, notamment arcade
 - [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/) : quelques jeux électromagnétiques Sega
 - [The Digital Antiquarian](https://www.filfre.net/) : un blog de recherches historiques sur divers jeux et sujets
+- [Design Icons (Game Maker Toolkit)](https://www.youtube.com/watch?v=Jbn8IRmSq8M&list=PLc38fcMFcV_su8QqXBnpfr8VJd7iTgwE0) : une série de vidéos sur les jeux avec le plus d'influence
 
 ### Shmups
 
