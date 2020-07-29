@@ -111,9 +111,9 @@ Quelques jeux sortent sur PC au début des années 80, mais leur classification 
 
 **The Black Onyx** (1984, PC) sera le premier RPG créé par un occidental à cibler spécifiquement le Japon, et est réputé être le jeu qui y aura **mis le genre sur le devant de la scène** vidéoludique. Il permet de **personnaliser son personnage visuellement**, et **l'équipement porté apparaît en jeu**. C'est aussi un des premiers jeux à utiliser une **barre de vie**.
 
-:star: **Tower of Druaga** (1984, arcade) est inspiré par Ultima et Dandy (1983, Atari 8 bits), et se joue comme un **Pac-Man avec une épée** mais n'a ni expérience ni niveaux, et utilise un système incroyablement obscur **d'objets à trouver** avec des actions arbitraires pour pouvoir gagner, ce qui génère du buzz et des discussions autour du jeu, internet et GameFaqs n'existant pas encore. Ce sera un **succès majeur au Japon** et avec son **action constante**, il **influencera la création des RPG/action** des années suivantes, particulièrement Hydlide, Dragon Slayer, Zelda et Ys.
-
 :star: **Dragon Slayer** (1984, PC) est considéré comme le **premier Action-RPG**, combinant des **combats temps réel en vue de dessus** avec une **fiche de personnage**, et introduit également des **puzzles à résoudre**, ce qui influencera énormément Zelda.
+
+:star: **Tower of Druaga** (1984, arcade) est inspiré par Ultima et Dandy (1983, Atari 8 bits), et se joue comme un **Pac-Man avec une épée** mais n'a ni expérience ni niveaux, et utilise un système incroyablement obscur **d'objets à trouver** avec des actions arbitraires pour pouvoir gagner, ce qui génère du buzz et des discussions autour du jeu, internet et GameFaqs n'existant pas encore. Ce sera un **succès majeur au Japon** et avec son **action constante**, il **influencera la création des RPG/action** des années suivantes, particulièrement Hydlide, Dragon Slayer, Zelda et Ys.
 
 :star: **Hydlide** (1984, PC) est le premier Action-RPG dans un **monde ouvert**, permet de **changer entre attaque et défense**, la **sauvegarde rapide**, et la **régénération automatique de la vie** lorsque le joueur ne bouge pas.
 
