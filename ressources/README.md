@@ -52,6 +52,7 @@
 - [DRPG Book](https://drpgbook.com) : projet de recensement des dungeon crawlers
 - [CRPG Adventures](https://crpgadventures.blogspot.com/) : un passionné qui joue à chaque RPG dans l'odre de leur sortie
 - [CRPG Addict](https://crpgaddict.blogspot.com/) : un autre passionné qui joue à tous les RPG possibles, mais pas tout à fait dans l'ordre chronologique
+- [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 
 ### Jeux d'aventure
 
