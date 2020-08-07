@@ -90,9 +90,9 @@ Le genre est encore très populaire aujourd'hui, les shooters sont de plus en pl
 
 **Half-Life 2** (2004, Windows, Valve) est beaucoup moins révolutionnaire que le premier épisode, et il est surtout remarqué pour son **moteur physique avancé** qui permet de "jouer" avec l'environnement, et sera un aspect des FPS qui deviendra un standard par la suite.
 
-## TPS
+## TPS (Third Person Shooter)
 
-Les TPS sont souvent mélangés avec les FPS pour l'objectif final (tirer sur tout ce qui bouge), mais permettent des types de jeux très différents, notamment au niveau des mouvements possibles. La visualisation constante de l'avatar facilite aussi le développement du personnage au niveau de l'histoire.  
+Les TPS sont souvent mélangés avec les FPS pour l'objectif final (tirer sur tout ce qui bouge), mais permettent des types de jeux très différents, notamment au niveau des mouvements possibles : on peut notamment se cacher derrière des obstacles. La visualisation constante de l'avatar facilite aussi le développement du personnage au niveau de l'histoire.  
 Dans les TPS ci-dessous j'intègre aussi les jeux plus orientés infiltration comme Metal Gear Solid, qui ont souvent eu beaucoup d'influence sur d'autres TPS.
 
 **Last Survivor** (1988, arcade, Sega) est le **premier TPS**, un peu basique mais avec des déplacements libres.
