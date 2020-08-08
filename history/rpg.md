@@ -16,6 +16,8 @@ Très tôt, les RPG Japonais cherchent à **créer leurs propres règles et leur
 
 Les JRPG aiment aussi **intégrer des éléments d'autres styles de jeux** : visual novel, drague, "life sim", etc... alors que les CRPG restent centrés uniquement sur les aspects RPG et aventure jusque dans les années 2000. A l'inverse, les CRPG se préoccupent énormément, encore une fois dans la lignée de D&D, de laisser un **maximum de choix** au joueur, avec des systèmes d'alignement moral, des multiples résolutions de quêtes, une personnalisation des stats et du personnage, etc, tandis que les JRPG ont plutôt tendance à suivre des histoires prédéfinies, parfois avec plusieurs fins possibles, et parfois même ne permettent pas de modifier les personnages.
 
+---
+
 Dans l'ensemble, les RPG les plus importants sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres ; **Ultima**, qui y rajoute une histoire et un monde à explorer ; **Rogue**, qui utilise la génération procédurale ; et **Dragon Quest**, qui rend le genre accessible au grand public. D'autres titres ont eu une influence, mais aucun n'a eu un impact aussi profond que ces titres.
 
 ---
