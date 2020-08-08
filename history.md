@@ -153,6 +153,8 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 L'objectif ici est de proposer une liste des titres marquants et influents, et de mettre en avant quelques **titres majeurs** (marqués :star: ) pour comprendre l'évolution de chaque genre, pour ceux qui veulent retracer l'évolution de ces jeux eux-même, sans forcément que ce soient les meilleurs jeux aujourd'hui, mais surtout les **jeux les plus innovants**. Les **jeux populaires mais qui n'inventent rien** n'ont donc pas d'étoile.
 
+Il est difficile de réellement **retracer les influences des jeux** : certains jeux à succès sont inspirés par des jeux confidentiels ; des concepts sont imaginés en parallèle par des développeurs sans influence entre eux ; des jeux novateurs sont retardés car trop novateurs ; des développeurs changent de société et emmènent leurs idées avec eux ; des concepteurs en rencontrent d'autres ; etc... Même en interviewant certains développeurs, il arrive que leurs souvenirs contredisent ce qu'ils racontaient dans des interviews passées ! Prenez donc les historiques détaillés avec un peu de recul : de nouvelles découvertes sont faites régulièrement sur les origines et les influences.
+
 ### Historiques par genre
 
 - [Aventure et visual novels](history/adventure.md)
