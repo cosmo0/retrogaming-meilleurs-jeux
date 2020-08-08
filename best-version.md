@@ -403,6 +403,10 @@ Tetris Battle Gaiden sur SNES offre un mode versus comparable à Puyo Puyo.
 Tetris The Grand Master 3 sur arcade est une version survitaminée et largement considérée comme excellente.  
 Tetris continue à sortir sur différentes plateformes, les plus notables récemment étant Puyo Puyo Tetris, Tetris Effect sur PS4 VR, et Tetris 99 sur Switch.
 
+**The Bard's Tale**  
+Les trois premiers épisodes sont sortis sur de multiples supports, dont des remakes en 2018 sur PC et Xbox One ; le jeu de 2004 est un hack & slash très médiocre, et l'épisode 4 n'est pas du rétrogaming.  
+Pour tous les épisodes, les versions d'origine sont les versions Apple II, mais les meilleures sont les versions Amiga. Il existe des versions NES, correctes mais sensiblement différentes.
+
 **The Chaos Engine**  
 La version Amiga est l'originale, et la référence.  
 La version SNES a un framerate plus stable que la version Megadrive, qui est supérieure sur les autres points.
