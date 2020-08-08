@@ -6,7 +6,9 @@ La définition d'un RPG est assez vague au début, particulièrement chez les Ja
 
 Les RPG n'existent tout simplement pas avant la première édition de Donjons & Dragons, qui sort en 1974. Il faut savoir que **la première édition de D&D [était très différente](https://gamasutra.com/view/feature/132457) de ce à quoi on pourrait s'attendre**, et était grosso modo un wargame dans un univers fantastique : c'était un simple dungeon crawler, l'expérience était liée à l'or amassé, la difficulté était extrêmement élevée, il n'y avait même pas de règle des combats dans la première version qui disait en substance "débrouillez-vous", et globalement les règles étaient très floues et peu précises. Tout ceci se retrouve d'une manière ou d'une autre dans les premiers CRPG.
 
-Les CRPG (Computer RPG) tirent leurs origines des jeux de rôle "papier", notamment **Donjons & Dragons**, le premier jeu de rôle commercial, dont la première édition date de 1974. Les CRPG sont généralement très ancrés dans les univers D&D ou qui s'en inspirent, et il faudra attendre la sortie de **Final Fantasy VI** en 1994 aux USA pour que le JRPG perce réellement en occident, et que le genre se diversifie.
+Une **différence fondamentale** entre la plupart des RPG sur ordinateur (CRPG ou Computer RPG) et D&D, en plus de la plus grande souplesse que permet une session "sociale", c'est qu'il est (généralement) possible de **sauvegarder sur ordinateur**, tandis qu'un personnage tué dans une session de D&D le reste définitivement. Cet aspect est bien visible dans les premiers RPG, notamment Wizardry ou Rogue.
+
+Les CRPG sont généralement très ancrés dans les univers D&D ou qui s'en inspirent, et il faudra attendre la sortie de **Final Fantasy VI** en 1994 aux USA pour que le JRPG perce réellement en occident, et que les CRPG s'émancipent de leurs racines.
 
 ## Les RPG occidentaux et Japonais
 
