@@ -145,7 +145,16 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ### Stratégie
 
-- ?
+- 1983 : Nobugana's Ambition
+- 1987 : Panzer Strike
+- 1989 : Herzog Zwei
+- 1989 : Sim City
+- 1990 : Fire Emblem
+- 1991 : Civilization
+- 1992 : Dune II
+- 1994 : UFO: Enemy Unknown
+- 1995 : Command & Conquer
+- 1997 : Final Fantasy Tactics
 
 ---
 
