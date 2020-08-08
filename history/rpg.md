@@ -72,7 +72,7 @@ Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, s
 
 **D&D Gold Box** (1988-1993) est une série de RPG utilisant tous le même moteur, qui sont les premiers à utiliser la **licence officielle Donjons & Dragons**. La série sera suivie par les **Silver Box** et **Black Box**, utilisant de nouveaux moteurs, avant que le développeur ne ferme ses portes, victime de la sur-abondance de nouveaux titres trop proches les uns des autres.
 
-**Wasteland** (1988, Apple II) est un des premiers jeux à avoir un **monde persistant**, dans lequel les actions effectuées sur le monde sont mémorisées, de **multiples façons de résoudre les quêtes**.
+**Wasteland** (1988, Apple II) est un des premiers jeux à avoir un **monde persistant**, dans lequel les actions effectuées sur le monde sont mémorisées, de **multiples façons de résoudre les quêtes**. Il est également le premier à permettre aux personnages de se **désolidariser du groupe** et de les contrôler séparément.
 
 :star: **Quest For Glory/Hero's Quest** (1989, DOS) est un jeu d'aventure Sierra qui est à mi-chemin avec un RPG, en incluant des **classes qui influent sur les quêtes accessibles** et la résolution des puzzles, des statistiques, de l'expérience et des niveaux, ainsi qu'un **cycle jour/nuit** et la **nécessité de manger**. Il est considéré comme un **jeu majeur**, influençant aussi bien les jeux d'aventure que les jeux de rôle.
 
@@ -86,13 +86,15 @@ Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, s
 
 :star: **Fallout** (1997, Windows), inspiré par Wasteland, ajoute à son **gameplay tactique** un **monde ouvert**, des **quêtes non linéaires**, et de l'humour au vitriol.
 
-**Baldur's Gate** (1998, Windows) invente la "**pause tactique**" qui permet de **mélanger temps réel et tour par tour**, avec l'implémentation la plus fidèle à ce jour des **règles Donjons & Dragons**. Le moteur sera repris par plusieurs jeux du développeur, notamment :star: **Planescape Torment** (1999, Windows), notable pour son **système complexe de dialogues**.
+:star: **Baldur's Gate** (1998, Windows) invente la "**pause tactique**" qui permet de **mélanger temps réel et tour par tour**, c'est le **premier RPG vu de dessus avec un groupe dont les membres se contrôles séparément**, et il possède une implémentation fidèle des **règles Donjons & Dragons**. Il est généralement réputé pour **réhausser la réputation de Donjons & Dragons**, dont la pertinence diminuait face aux concurrents de plus en plus complexes.
 
 **Deus Ex** (2000, Windows) mélange **RPG et FPS** d'une manière jamais vue auparavant.
 
 **Neverwiner Nights** (2002, Windows) est le premier RPG multijoueur qui permet à l'un des participants de tenir le rôle de **Dungeon Master** et modifier les événements à la volée.
 
 :star: **Fable** (2004, Xbox) marquera les débuts de la **simplification** et de la volonté de **rendre accessible** le genre : **marqueurs sur la carte** et **fil d'ariane** pour guider le joueur, autant de choses décriées à sa sortie et repris par tous les jeux depuis.
+
+:star: **World of Warcraft** (2004, PC) est loin d'être le premier MMORPG, cette distinction étant difficile à déterminer, mais c'est **le MMORPG avec le plus de succès** de tous les temps, notamment grâce à sa grande **facilité d'accès**, au point d'être réédité en version "classique" en 2019 pendant que la version "normale" continuait sa progression.
 
 ---
 
