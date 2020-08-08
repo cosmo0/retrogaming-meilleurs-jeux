@@ -46,7 +46,7 @@ Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, s
 
 :star: **Wizardry** (1981, Apple II) est le premier à permettre des **combats avec une équipe**. Avec son **bestiaire extrêmement varié**, son **donjon complexe et retors**, son **équilibrage soigné**, et malgré (ou grâce à) sa **difficulté très élevée**, il a une **influence considérable**, particulièrement au Japon où il a eu des dizaines de suites non localisées, et où il inspire encore aujourd'hui de nouveaux jeux, comme la série **Etrian Odyssey** par exemple. C'est le premier **grand succès commercial**, et le premier jeu à créer un marché de **guides et outils d'édition non-officiels**.
 
-:star: **Ultima** (1981, Apple II) définit les standards que vont suivre beaucoup de RPG pendant quelques années : une **aventure épique** avec une **exploration libre du monde** plutôt que seulement des donjons (même s'il y en a encore), une **véritable histoire** qui fait voyager dans le monde et dans le temps (jusqu'à avoir des combats spatiaux !), des **graphismes détaillés**, plus tous les marqueurs classiques du RPG. Le jeu est très court si on le connaît, mais comme beaucoup de jeux de l'époque, masque cette durée de vie avec des énigmes obscures et des fetch quest absurdes.
+:star: **Ultima** (1981, Apple II) définit les standards que vont suivre beaucoup de RPG pendant quelques années : une **aventure épique** avec une **exploration libre du monde** plutôt que seulement des donjons (même s'il y en a encore), des **PNJ** avec lesquels parler, une **véritable histoire** qui fait voyager dans le monde et dans le temps (jusqu'à avoir des combats spatiaux !), des **graphismes détaillés**, plus tous les marqueurs classiques du RPG. Le jeu est très court si on le connaît, mais comme beaucoup de jeux de l'époque, masque cette durée de vie avec des énigmes obscures et des fetch quest absurdes.
 
 **Dungeons of Daggorath** (1982, TRS-80) est le premier RPG avec des **combats en temps réel**.
 
@@ -72,7 +72,7 @@ Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, s
 
 **D&D Gold Box** (1988-1993) est une série de RPG utilisant tous le même moteur, qui sont les premiers à utiliser la **licence officielle Donjons & Dragons**. La série sera suivie par les **Silver Box** et **Black Box**, utilisant de nouveaux moteurs, avant que le développeur ne ferme ses portes, victime de la sur-abondance de nouveaux titres trop proches les uns des autres.
 
-**Wasteland** (1988, Apple II) est un des premiers jeux à avoir un **monde persistant**, dans lequel les actions effectuées sur le monde sont mémorisées.
+**Wasteland** (1988, Apple II) est un des premiers jeux à avoir un **monde persistant**, dans lequel les actions effectuées sur le monde sont mémorisées, de **multiples façons de résoudre les quêtes**.
 
 :star: **Quest For Glory/Hero's Quest** (1989, DOS) est un jeu d'aventure Sierra qui est à mi-chemin avec un RPG, en incluant des **classes qui influent sur les quêtes accessibles** et la résolution des puzzles, des statistiques, de l'expérience et des niveaux, ainsi qu'un **cycle jour/nuit** et la **nécessité de manger**. Il est considéré comme un **jeu majeur**, influençant aussi bien les jeux d'aventure que les jeux de rôle.
 
