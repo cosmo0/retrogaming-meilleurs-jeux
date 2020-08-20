@@ -18,7 +18,7 @@ Les JRPG aiment aussi **intégrer des éléments d'autres styles de jeux** : vis
 
 ---
 
-Dans l'ensemble, les RPG les plus importants sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres ; **Ultima**, qui y rajoute une histoire et un monde à explorer ; **Rogue**, qui utilise la génération procédurale ; et **Dragon Quest**, qui rend le genre accessible au grand public. D'autres titres ont eu une influence, mais aucun n'a eu un impact aussi profond que ces titres.
+Dans l'ensemble, les RPG les plus importants sont **Wizardry**, un dungeon crawler où on se borne à arpenter des labyrinthes et tabasser des monstres ; **Ultima**, qui y rajoute une histoire et un monde à explorer ; **Rogue**, qui utilise la génération procédurale ; **Dragon Quest**, qui rend le genre accessible au grand public ; et **Diablo**, qui définit un nouveau sous-genre. D'autres titres ont eu une influence, mais aucun n'a eu un impact aussi profond que ces titres.
 
 ---
 
