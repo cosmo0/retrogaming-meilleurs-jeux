@@ -9,7 +9,7 @@ Généralités :
 - Quand une version ordinateur est supérieure, si une version console correcte existe, elle sera notée, pour la facilité à utiliser sur émulateur (jouable au pad).
 - Quand un jeu arcade est supérieur, mais a des portages corrects sur console, les meilleures versions consoles sont notées, parce qu'il y a souvent d'autres options bienvenues (difficulté revue, mode entraînement, etc), et il est plus facile d'acquérir le support original.
 
-**After Burner**  
+**After Burner II**  
 La version arcade est l'originale, et la référence.  
 La version 32X en est un bon portage, avec diverses options de difficulté, mais à 30fps.  
 A noter un portage sur 3DS qui apporte un effet 3D.
