@@ -30,6 +30,7 @@
 - [Sega Turns 55 (Arcade Heroes)](https://arcadeheroes.com/2015/06/03/sega-turns-55-lets-remember-their-electromechanical-games/) : quelques jeux électromagnétiques Sega
 - [The Digital Antiquarian](https://www.filfre.net/) : un blog de recherches historiques sur divers jeux et sujets
 - [Design Icons (Game Maker Toolkit)](https://www.youtube.com/watch?v=Jbn8IRmSq8M&list=PLc38fcMFcV_su8QqXBnpfr8VJd7iTgwE0) : une série de vidéos sur les jeux avec le plus d'influence
+- [VC DECIDE](https://www.youtube.com/c/vcdecide/videos) : une chaîne Youtube qui compare les versions de jeux
 
 ### Shmups
 
