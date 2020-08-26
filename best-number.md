@@ -10,6 +10,10 @@ L'objectif est d'aider les gens qui ont entendu parler d'une série mais n'ont j
 L'épisode le plus réputé est le 4e (PS2).  
 Pour un plus facile à émuler, regardez le second épisode (PS1).
 
+**After Burner**  
+After Burner 2 est une "révision" du premier, sorti en arcade plus tard la même année, avec trois niveaux supplémentaires et des ajustements de gameplay.  
+Les jeux sur console sont tous des portages du second épisode, sauf la version Master System.
+
 **Aleste / Power Strike / MUSHA / Zanac / Gunhed / Blazing Lasers / Spriggan**  
 C'est une nébuleuse floue de jeux à la fois très proches et très différents les uns des autres : des shmups à défilement vertical, développés par Compile, avec un système d'armes spécifique.  
 Dans la série Aleste, un des épisodes les plus connus est Super Aleste/Space Megaforce (SNES).  
