@@ -56,6 +56,7 @@
 - [The Secret Origin of the Action RPG](https://medium.com/@obskyr/the-secret-origin-of-the-action-rpg-254a180079dd)
 - [Game Design Essentials - 20 RPGs](https://gamasutra.com/view/feature/132457/game_design_essentials_20_rpgs.php)
 - [RPG Classics](http://shrines.rpgclassics.com/)
+- [Codex Gamicus](https://gamicus.gamepedia.com/Action_role-playing_video_games)
 
 ### Jeux d'aventure
 
