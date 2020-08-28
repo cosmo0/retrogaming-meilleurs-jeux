@@ -1,10 +1,12 @@
 # ![Les meilleurs numéros](images/number.png)
 
-Les meilleurs numéros/versions des suites comportant de multiples épisodes (au moins 3) mais pas forcément tous indispensables.
+Les meilleurs numéros/versions des suites comportant de multiples épisodes, mais pas forcément tous indispensables.
 
-Le but n'est pas de donner une réponse définitive "il suffit de jouer à cet épisode", mais plutôt de pointer les plus complets, les plus équilibrés, les plus emblématiques, etc.
+Le but n'est pas de donner une réponse définitive "il suffit de jouer à cet épisode", ni un classement complet, mais plutôt de pointer les meilleurs épisodes pour "entrer" dans les séries, sans forcément commencer par le premier épisode.
 
 L'objectif est d'aider les gens qui ont entendu parler d'une série mais n'ont jamais joué à un seul épisode de s'orienter rapidement vers le meilleur épisode.
+
+---
 
 **Ace Combat**  
 L'épisode le plus réputé est le 4e (PS2).  
@@ -33,6 +35,11 @@ C'est le troisième épisode (arcade) qui est le plus réputé niveau gameplay.
 Astérix (MS) et la Mission Secrète (MS) sont très sympathiques, bien qu'un peu basiques.  
 Le jeu d'arcade (1992) est un très bon beat'em up.  
 Evitez les épisodes sur Nintendo, développés par Infogrammes, réputé pour la mauvaise qualité de ses jeux.
+
+**Atelier**  
+La série de "JRPG de crafting" Atelier est relativement récente (PS1), mais longue et prolifique : épisodes principaux, portages, remakes, versions deluxe, et spin-off, il y a de quoi se perdre, et beaucoup n'ont jamais été traduits. A noter qu'ils forment généralement des séries entre 2 et 4 épisodes.  
+Dans les épisodes "vraiment rétro" (PS1/PS2), Mana Khemia est la série la plus recommandée, suivie de Iris.  
+Pour les épisodes plus récents, un [guide pour bien démarrer dans la série](https://barrelwisdom.com/info/atelier-series-guide/) existe.
 
 **Batman**  
 Il y a eu de très, très nombreux jeux, totalement différents les uns des autres, par des développeurs souvent différents, de qualité allant de "très mauvais" à "très bon".  
@@ -115,6 +122,15 @@ Les jeux ne sont pas situés dans le même univers, sauf certains qui forment de
 Les épisodes les plus recommandés pour découvrir la série sont les 8 (PS2, 3DS, mobile), 5 (SNES, PS2, DS, mobile) et 4 (NES, PS1, DS, mobile).  
 [Un guide bien pratique pour avoir un aperçu de la série](https://imgur.com/a/cuBFqFB).  
 A noter aussi les spin-off DQ Monsters, qui sont des Pokémon-like.
+
+**Dragon Slayer / Xanadu / Faxanadu / Sorcerian / The Legend of Heroes / Lord Monarch**  
+Comme vous pouvez le constater, la "méga série" Dragon Slayer est composée de nombreux épisodes, sous-séries, et spin-off. C'est aussi une série qui aime changer de style au gré des épisodes (RPG temps réel ou au tour par tour, plateforme, aventure, stratégie...), il est donc très difficile de s'y retrouver.  
+La bonne nouvelle, c'est qu'à part la sous-série Trails, la plupart ne forment pas une continuité, vous pouvez donc les faire dans l'ordre que vous voulez.  
+Si vous souhaitez réellement découvrir le premier épisode et Xanadu, qui ont extrêmement mal vieilli, jouez aux versions Saturn dans la compilation Falcom Classics.  
+Faxanadu est le seul épisode de la sous-série Xanadu a avoir été localisé, sur NES, et c'est un des jeux qui a le mieux vieilli.  
+Sorcerian est complexe mais intéressant, avec une version DOS très fidèle à l'original, et c'est la seule localisée. Les versions Mega CD et PC Engine CD très bonnes mais en Japonais.  
+Lord Monarch est un STR à tester avec le freeware Lord Monarch Online sur Windows, la seule version localisée officiellement.  
+Legend of Heroes est partie de Dragon Slayer pour former progressivement sa propre sous-série, Trails. Le premier, Dragon Slayer The Legend of Heroes, est le seul "vieil" épisode à avoir été localisé (sur TurboGrafx-CD) mais n'a rien de spécial. La duologie Trails in the Sky a été localisée sur PSP, et les jeux sont bons. La série est très bien reçue depuis Trails of Cold Steel.
 
 **Ecco**  
 Le premier épisode (Megadrive, Mega CD) est le plus connu, mais il est aussi débilement difficile (la version Mega CD ajoute des checkpoints).  
@@ -481,6 +497,10 @@ Le premier (Megadrive) est plus basique, et le troisième (Megadrive) est plus c
 
 **Survival Kids / Lost in Blue**  
 Survival Kids (GBC) est encore très bon. En épisode plus moderne, préférez Lost In Blue 2 (DS).
+
+**Tales Of**  
+Les épisodes les plus réputés sont Vesperia, The Abyss, Symphonia, Xillia, et Destiny.  
+Phantasia, le premier, est assez vieillot.
 
 **TMNT / Teenage Mutant Ninja Turtles**  
 Turtles in Time (arcade, SNES) est probablement l'épisode le plus fun, suivi par The Arcade Game (arcade).  
