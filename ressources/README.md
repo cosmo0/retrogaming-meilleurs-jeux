@@ -31,6 +31,7 @@
 - [The Digital Antiquarian](https://www.filfre.net/) : un blog de recherches historiques sur divers jeux et sujets
 - [Design Icons (Game Maker Toolkit)](https://www.youtube.com/watch?v=Jbn8IRmSq8M&list=PLc38fcMFcV_su8QqXBnpfr8VJd7iTgwE0) : une série de vidéos sur les jeux avec le plus d'influence
 - [VC DECIDE](https://www.youtube.com/c/vcdecide/videos) : une chaîne Youtube qui compare les versions de jeux
+- [History of Japanese Video Games Industry](https://www.slideshare.net/yuhsukek/jrc-seminar-history-of-video-game-industry?fbclid=IwAR0tLpLq1C_Obl0G-VHjvnNzEjnw9htgMXpjJ0MF_ZOWzPOXp_Nupixa7E4)
 
 ### Shmups
 
