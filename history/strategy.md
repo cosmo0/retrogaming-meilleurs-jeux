@@ -1,104 +1,138 @@
 # Stratégie, tactique, gestion
 
-Les jeux de stratégie datent de la nuit des temps et des traces peuvent en être trouvés dans les plus anciennes civilisations. Les "jeux de guerre" (wargames) se sont particulièrement développés à la fin du XVIIIe siècle et au début du XIXe, et cherchent avant tout à reproduire de vraies campagnes militaires, et sont destinés à la formation des officiers militaires. Les premiers wargames commerciaux destinés au grand public se développent à partir des années 50 et 60 ; Risk, publié en 1957, en est probablement l'exemple le plus connu.
+Les jeux de stratégie **datent de la nuit des temps** et des traces peuvent en être trouvés dans les plus anciennes civilisations. Les "jeux de guerre" (wargames) se sont particulièrement développés à la fin du XVIIIe siècle et au début du XIXe, et cherchent avant tout à reproduire de vraies campagnes militaires, et sont destinés à la formation des officiers militaires. Les **premiers wargames commerciaux** destinés au grand public se développent à partir des années 50 et 60 ; Risk, publié en 1957, en est probablement l'exemple le plus connu.
 
 Les premiers jeux vidéo de stratégie reproduisent en premier lieu ces jeux de société et de plateau, avant d'utiliser réellement les capacités des machines et de se défaire des contraintes du monde réel ; les jeux de stratégie et de tactique restent cependant longtemps influencés par les jeux de plateau.
+
+Les jeux de stratégie et de tactique peuvent être **regroupés de plusieurs manières** : d'une part les jeux au tour par tour ou en temps réel (STR), mais également **en fonction du "niveau" de gestion**. En effet, certains jeux se concentrent sur la **gestion d'un empire** et ne permettent de donner que de vagues ordres à des groupes d'unités (ou même uniquement à ses généraux), tandis que d'autres préfèrent se concentrer sur la **micro-gestion d'unités** en permettant de diriger chaque unité séparément. Enfin, certains jeux demandent de **gérer ses ressources** et ses lignes de production, tandis que d'autres demandent de se débrouiller avec des **unités fixées en début de partie**.
+
+Les jeux de stratégie les plus influents sont **Nobugana's Ambition** qui influencera fortement tous les jeux de stratégie Japonais ; **Herzog Zwei** qui crée le genre STR ; **Dune II** qui l'affine et marque le genre durablement ; **Command & Conquer** qui le modernise considérablement ; et **StarCraft** qui le rend incontournable dans l'e-sport.
 
 ---
 
 ## Wargames, STR, tactique
 
-Empire (1977, PDP-10) : premier wargame avec map aléatoire
+**Empire** (1977, PDP-10) est le **premier wargame**, et utilise une carte aléatoire.
 
-Computer Bismark (1980, Apple II) : premier wargame commercial
+**Computer Bismark** (1980, Apple II) est le **premier wargame commercial**.
 
-Cytron Masters (1982, Apple II) : premiers marqueurs du STR, temps réel mais pas de création d'unité ni de gestion de ressources
+**Cytron Masters** (1982, Apple II) apporte les **premiers marqueurs du STR** : il se déroule en **temps réel**, mais ne permet pas encore la création d'unité ni la gestion des ressources.
 
-Bokosuka Wars (1983, PC) : pose les fondations des TRPG
+:star: **Bokosuka Wars** (1983, PC) pose les **fondations des TRPG** en introduisant des **éléments de RPG** dans un jeu de stratégie.
 
-Nobugana's Ambition (1983, PC) : mélange stratégie au "niveau national" avec gestion de ressources et diplomatie, et RPG pour les persos principaux
+:star: **Nobugana's Ambition** (1983, PC) mélange la stratégie au "niveau national" avec la **gestion de ressources** et la **diplomatie**, et des **éléments de RPG** pour les personnages principaux.
 
-The Lords of Midnight (1984, ZX Spectrum) : mélange jeu d'aventure/rôle avec de la stratégie/gestion/tactique
+**The Lords of Midnight** (1984, ZX Spectrum) mélange les **jeux d'aventure/rôle** avec de la stratégie, de la gestion et de la tactique.
 
-Panzer Strike (1987, Apple II) : tactique au tour par tour, éditeur de carte
+:star: **Panzer Strike** (1987, Apple II) est un des jeux les plus marquants de **tactique au tour par tour** qui se focalise sur le **réalisme des affrontements**, et est le premier à posséder un **éditeur de carte**, ce qui augmentera sa popularité.
 
-Gain Ground (1988, arcade, Sega) : mélange d'action et de stratégie, contrôle d'unités
+**Gain Ground** (1988, arcade, Sega) mélange **action et stratégie**, en permettant de **contrôler soi-même les unités**.
 
-Nintendo Wars (1988, Famicom) : stratégie au tour par tour avec capture de bâtiments, construction d'unités, etc
+**Nintendo Wars** (1988, Famicom) est le premier jeu de stratégie au tour par tour qui permet la **capture de bâtiments**, et la **construction d'unités**.
 
-Herzog Zwei (1989, Megadrive) : mélange action et stratégie en temps réel, considéré comme le premier "vrai" STR : gestion de ressources, construction, micro-management de ses unités. Inspire Dune II.
+:star: **Herzog Zwei** (1989, Megadrive) mélange **action et stratégie en temps réel**, et est considéré comme le **premier "vrai" STR**, car c'est le premier qui combine **gestion de ressources**, **construction de bâtiments**, et **micro-management** de ses unités.
 
-Rampart (1990, arcade) : premier exemple de Tower Defense moderne avec ennemis qui avancent et défenses qui attaquent automatiquement l'ennemi.
+**Rampart** (1990, arcade) est le **premier Tower Defense** moderne avec des ennemis qui avancent et des **défenses qui attaquent automatiquement** l'ennemi.
 
-Warlords (1990, PC) : mélange RPG et stratégie
+**Warlords** (1990, PC) permet de jouer **jusqu'à 8 personnes** sur le même ordinateur, et utilise une légère couche de RPG, avec des **héros** en plus des unités de base.
 
-Mega-Lo Mania (1991, PC) : gestion de ressources poussée, arbre technologique.
+**Mega-Lo Mania** (1991, PC) propose une **gestion poussée des ressources**, une **progression à travers les âges**, et c'est le premier STR à avoir un **arbre technologique**.
 
-Sim Ant (1991, PC) : orienté gestion mais aspect combat avec armées conduite par un leader
+**Sim Ant** (1991, PC) est un "spin-off" de Sim City plutôt **orienté gestion**, mais ajoute un **aspect stratégique** avec des **armées conduite par un leader**.
 
-Battle Isle (1991, PC) : gestion avancée de la logistique (carburant, munitions), météo qui peut changer le cours d'une bataille
+**Battle Isle** (1991, PC) exige une **gestion avancée de la logistique** (carburant, munitions...), et ajoute la **météo** qui peut changer le cours d'une bataille.
 
-Dune II (1992, PC) : popularise le genre, et définit tous les marqueurs modernes : collecte de ressource, construction de bâtiments, création d'unités, arbre technologique, brouillard de guerre, micro-management, contrôle à la souris en temps réel avec curseur contextuel, factions différentes avec spécificités... N'invente pas grand-chose, mais la combinaison de tout ça est unique, et définit le genre. Plus l'univers populaire et le scénario autour.
+:star: **Dune II** (1992, PC) inspiré par Herzog Zwei, il **affine et popularise le genre STR**, et en définit **tous les marqueurs modernes** : collecte de ressource, construction de bâtiments, création d'unités, arbre technologique, brouillard de guerre, micro-management des unités, contrôle à la souris en temps réel avec un curseur contextuel, factions différentes avec chacune des spécificités... Il **n'invente pas grand-chose**, mais la **combinaison** de tout ça est unique, et sera réutilisée dans la plupart des STR suivants ; seul lui manque la sélection multiple d'unités. Son succès est aidé par **l'univers populaire** à l'époque, et son scénario.
 
-UFO: Enemy Unknown (1994, PC) : batailles tactiques très centrées sur le placement, gestion de ressources à un niveau plus "macro"
+**UFO: Enemy Unknown** (1994, PC) propose des **batailles tactiques** très centrées sur le **placement des unités**, et demande de **gérer ses ressources** à un niveau plus "macro".
 
-Warcraft: Orcs & Humans (1994, PC) : monde heroic-fantasy, popularise le multijoueur sur le genre
+:star: **Warcraft: Orcs & Humans** (1994, PC) **popularise le multijoueur** sur le genre.
 
-Panzer General (1994, PC) : implémentation moderne d'un wargame traditionnel
+**Panzer General** (1994, PC) est la **première implémentation moderne et complète** d'un wargame traditionnel.
 
-Command & Conquer (1995, PC) : affine, perfectionne et modernise le gameplay de Dune II. Moins novateur, mais la somme énorme d'améliorations le modernise énormément, et lui donne un énorme succès. Les STR modernes n'ont pas autant évolué depuis C&C qu'entre Dune II et C&C.
+:star: **Command & Conquer** (1995, PC) **affine, perfectionne et modernise** le gameplay de Dune II. Il est **moins novateur** que ce dernier, mais la **somme de petites améliorations** (comme la sélection multiple d'unités) le modernise considérablement, et lui confère un **énorme succès**. Les STR modernes n'ont **pas autant évolué** depuis C&C qu'entre Dune II et C&C.
 
-Warhammer Shadow of the Horned Rat (1995, PC) : pur tactique, aspect très poussé avec positionnement des unités et gestion du terrain, très fidèle dans la représentation du jeu de plateau
+**Warhammer Shadow of the Horned Rat** (1995, PC) **reproduit fidèlement** le jeu de plateau Warhammer, avec un aspect très poussé de **positionnement des unités** et de **gestion du terrain**.
 
-Close Combat (1995, PC) : focus sur une escouade unique, gestion du moral et des traumatismes, des munitions, des blessures, des unités qui peuvent refuser des ordres, etc. Hyper réaliste, utilisé dans l'entraînement des militaires.
+**Close Combat** (1995, PC) se focalise sur la gestion d'une **escouade unique**, avec la gestion du **moral et des traumatismes**, des **munitions**, des **blessures**, des **unités qui peuvent refuser des ordres**, etc. Extrêmement réaliste, il sera **utilisé dans l'entraînement des militaires**.
 
-Heroes of Might & Magic (1995, PC) : mi-chemin entre stratégie et RPG
+**Heroes of Might & Magic** (1995, PC) est à **mi-chemin entre la stratégie et les RPG**, avec un **héros** qui gagne de l'expérience et obtient de l'équipement à travers des **quêtes**, mais aussi des villes et unités à gérer.
 
-Age of Empires (1997, PC) : combine éléments classique de STR avec la progression à travers les âges de Civilization
+**Total Annihilation** (1997, PC) "remonte" le focus sur le **macro-management** plutôt que le micro-management, et est le premier STR à gérer le **terrain en relief**.
 
-Total Annihilation (1997, PC) : bascule le focus sur le macro- plutôt que micro-management, gestion du terrain en relief.
+:star: **StarCraft** (1998, PC) propose **3 races radicalement différentes** et qui ne se jouent pas du tout de la même manière, sur un **concept pierre/feuille/ciseau** inspiré par Magic The Gathering. Il est **tellement bien réalisé** qu'il est **encore populaire aujourd'hui**, plus de 20 ans après, notamment en se focalisant énormément sur l'**équilibrage en multijoueur**, ce qui lui donnera un succès énorme dans l'**e-sport**, particulièrement en Corée du Sud. Il présente également une **histoire poussée et complexe** avec de nombreux personnages dans un univers S-F travaillé, ce qui servira à Blizzard pour leurs futurs jeux.
 
-Dungeon Keeper (1997, PC) : mélange de gestion et de tower defense, humour noir
+**Battlezone** (1998, PC) mélange **STR et FPS** en permettant de **contrôler directement le général** sur le champ de bataille, et d'affronter les ennemis soi-même.
 
-StarCraft (1998, PC) : monde alien SF, encore populaire aujourd'hui
+**Homeworld** (1999, PC) est le premier STR **complètement en 3D**, et permet de déplacer les unités sur **tous les axes**.
 
-Battlezone (1998, PC) : mélange de STR et de FPS/tank
+:star: **Shogun Total War** (2000, PC) **change complètement le focus** des STR "traditionnels" du moule Dune II/C&C, en ne permettant plus de diriger les unités individuelles, mais **uniquement les bataillons entiers**. Avec une **gestion de moral**, un **management au niveau du pays**, et de  la **diplomatie**, il **se rapproche des anciens jeux** de stratégie tels que Nobugana's Ambition.
 
-Homeworld (1999, PC) : complètement 3D, déplacement des unités sur tous les axes
+**Cossacks: European Wars** (2001, PC) permet de gérer des **dizaines de milliers d'unités** et propose ainsi des batailles épiques.
 
-Ground Control (2000, PC) : supprime la gestion de ressources, gestion de squads plutôt que d'unités individuelles
-
-Shogun Total War (2000, PC) : change de focus des STR "traditionnels" du moule Dune II/C&C en mettant moins de micro-management et plus de gestion "large" avec des blocs d'unités, gestion de moral, management niveau étatique et diplomatie, etc.
-
-Cossacks: European Wars (2001, PC) : gestion de dizaines de milliers d'unités
-
-DotA (2003, PC) : mod de Warcraft III, crée le MOBA en éliminant une grosse partie des éléments de STR
-
-Warhammer 40.000 Dawn of War (2004, PC) : remplace la collecte de ressources par le contrôle de points
+:star: **DotA** (2003, PC) démarre sa vie comme "mod" de Warcraft III, et **crée le genre MOBA** à lui tout seul : un mélange d'action, de tower defense, et de stratégie, le tout en multijoueur.
 
 ---
 
-## Gestion
+## Gestion, 4X
 
-Utopia (1981, Intellivision) : premier "God Game" et premier "City Builder" en temps réel
+Les jeux de gestion ne permettent généralement pas l'affrontement entre factions, ou bien à la marge, et préfèrent se concentrer sur l'**aspect économique et sociétal** de ce que l'on gère, que ce soit un pays, une ville, une entreprise, ou une ferme.
 
-Populous (1989, PC)
+Les jeux du genre "4X" (eXplore, eXpand, eXploit, eXterminate) se focalisent quant à eux sur l'équilibre entre les quatre composants : exploration de la carte, extension de son territoire, exploitation de ressources, et extermination de la concurrence. A mi-chemin entre la gestion et la stratégie, ils sont un genre à part entière, mais finalement assez peu représenté en-dehors de la série Civilization.
 
-Sim City (1989, PC)
+Les jeux de gestion les plus influents sont globalement les créateurs de chacun des sous-genre : **Utopia** qui pose les bases du genre ; **Populous** le premier God Game ; **Sim City** le premier City Builder ; **Railroad Tycoon** le premier gestionnaire d'entreprise ; **Civilization** le premier 4X moderne ; et **Harvest Moon** le premier jeu de "farming".
 
-Theme Park
+--
 
-Theme Hospital
+**Intopia** (1963, mainframe) est un **jeu éducatif** utilisé dans l'enseignement des cours de gestion et de business.
 
----
+**The Sumerian Game** (1964, mainframe) est le **premier jeu vidéo de gestion** d'une ville dans l'empire Sumérien.
 
-## 4X
+**Lemonade Stand** (1973, divers) est un **jeu textuel très basique** où l'on gère un stand de limonade sur le trottoir, qui demande de s'adapter aux aléas des événements. Il sera porté sur un peu tous les ordinateurs des années 70/80, et il **inspirera une litanie de jeux similaires**, plus ou moins complexes.
 
-Reach for the Stars (1983, PC) : premier 4X avec balance entre technologie, gestion économique, et combat
+:star: **Utopia** (1982, Intellivision) est le **premier "God Game"** et le **premier "City Builder"** en temps réel, et est un des rares jeux sur console de l'époque à se focaliser sur la réflexion plutôt que les réflexes.
 
-Civilization (1991, PC)
+:star: **Nobugana's Ambition** (1983, PC) est à mi-chemin **entre stratégie et gestion**, et influencera les deux genres, d'où son inclusion dans les deux listes.
 
-Master of Orion (1993, PC)
+**Reach for the Stars** (1983, PC) est le **premier 4X**, avec une gestion de la balance entre technologie, gestion économique, et combat, mais reste assez rudimentaire.
+
+**Mugsy** (1984, ZX Spectrum) est un **simulateur de mafia**, où l'on incarne un gangster qui cherche à devenir le plus puissant de la ville.
+
+**Little Computer People** (1985, PC) est le premier jeu qui permet de **gérer la vie courante de personnes fictives** qui vivent leur vie en semi-autonomie, principe repris par Les Sims.
+
+**A-Train** (1985, PC) est le premier d'une très longue série de jeux de **gestion ferroviaire** qui existe encore aujourd'hui, quasiment inconnue en occident mais **très populaire au Japon**.
+
+:star: **Populous** (1989, PC) est le **"god game" le plus influent**, en permettant de **modifier le terrain** et de **déclencher des catastrophes**.
+
+:star: **Sim City** (1989, PC) inspiré par Utopia, c'est **le plus connu des City Builders**, avec une **gestion détaillée** de sa ville, des emplacements de chaque bâtiment et de leurs influences entre eux, des routes, des lignes de courant, des impôts et des finances... C'est un **jeu majeur** et encore un **modèle du genre**, et son immense succès génèrera toute une **franchise "Sim"** sur divers sujets, qui perdure encore aujourd'hui.
+
+:star: **Railroad Tycoon** (1990, PC) est le premier jeu populaire du sous-genre de **gestion de compagnie transport**, et demande de s'adapter aux changements dans les villes desservies, que l'on influence indirectement, ainsi qu'à la concurrence.
+
+:star: **Civilization** (1991, PC) est le **4X le plus célèbre** et le plus important, avec de **nombreuses nations** à diriger, une IA changeante suivant la **personnalité des adversaires**, un **arbre technologique** complexe, plusieurs **conditions de victoire**, et globalement une **complexité et une profondeur** très importantes. C'est **la référence** sur laquelle se baseront tous les autres jeux du genre.
+
+**Caesar** (1992, PC) est un City Builder qui utilise **l'époque de la Rome Antique**, et remplace ainsi les lignes électriques par les aqueducs.
+
+**Stronghold** (1993, PC) mélange **City Building et RPG**, avec un **héros** et **différentes races** qui ont chacune leur style architectural, ainsi qu'une gestion des relations diplomatiques et militaires avec les villes voisines.
+
+**The Settlers** (1993, PC) mélange **gestion et STR** d'une manière jamais vue auparavant, et demande de gérer simultanément la construction de ses villes, son économie, et les combats et conquêtes.
+
+:star: **Transport Tycoon** (1994, PC) étend la formule de Railroad Tycoon en permettant de gérer **tous les moyens de transport** : bus, camions, trains et avions, et demande de gérer de **complexes lignes commerciales** en transportant des matières premières, des produits et des passagers, et en s'adaptant aux changements dans l'offre et la demande, et à l'évolution des villes.
+
+:star: **Theme Park** (1994, PC) est le premier jeu de **gestion de parc d'attraction**, et demande de **tout gérer** depuis le positionnement des manèges jusqu'au prix des boissons et la quantité de sel des burgers. Il aura un immense succès, notamment grâce à son **humour omniprésent**.
+
+**Capitalism** (1995, PC) permet de **gérer une entreprise** dans le domaine de son choix, et demande de jongler entre la R&D, l'offre et la demande, les filiales, les fournisseurs, les concurrents, la bourse, etc.
+
+:star: **Harvest Moon** (1996, SNES) est le premier jeu de **simulation de ferme**, dans lequel le joueur doit semer et récolter, s'occuper des bêtes, et construire des relations avec les autres villageois. Il aura un bon succès au Japon, aura de **nombreuses suites**, qui sortent encore aujourd'hui, et génèrera de **nombreux clones**.
+
+**Creatures** (1996, PC) est une simulation de vie artificielle, et sera considéré comme un point important dans **l'évolution de l'IA** dans les jeux.
+
+**Theme Hospital** (1997, PC) demande de **gérer un hôpital** et de placer les pièces, rechercher de nouveaux remèdes, et gérer les nouvelles maladies qui apparaissent. C'est un succès commercial grâce à son **humour** et à la complexité de son gameplay.
+
+**Dungeon Keeper** (1997, PC) mélange **gestion d'un donjon maléfique** et **tower defense**, et comme la plupart des productions Bullfrog, il est rempli d'**humour noir**.
+
+:star: **Anno 1602** (1998, PC) demande de **gérer l'évolution de l'ensemble d'une colonie** répartie sur plusieurs îles avec des ressources différentes, et comporte des relations diplomatiques avec les empires voisins mais également la "mère-patrie".
+
+**RollerCoaster Tycoon** (1999, PC) perfectionne la formule initiée par Theme Park, mais permet surtout de créer des **montagnes russes personnalisées** qui doivent tenir compte de l'**élévation du terrain**.
 
 ---
 
