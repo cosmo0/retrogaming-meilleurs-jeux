@@ -62,28 +62,26 @@ Sauf exception, tous ces jeux d'aventure sont sortis sur les PC de l'époque.
 
 Les jeux d'aventure ont connu une évolution parallèle en occident et au Japon, avec très peu d'influence les uns sur les autres : les objectifs sont similaires, mais les moyens sont totalement différents. Notamment, les PC Japonais ont une résolution très largement supérieure, nécessaire pour afficher les caractères Japonais de manière lisible, et souvent beaucoup plus de couleurs affichables. La différence en terme de capacités graphiques permet donc aux Japonais d'avoir des jeux d'aventure avec d'immenses images magnifiques et un peu de texte, alors que les jeux occidentaux doivent souvent se contenter de texte agrémenté d'une image moche.
 
-**Night Life** (1982) et **Seduction of the Condominium Wife** (1982) sont des jeux d'aventure, parfois avec quelques éléments RPG, et ont du **contenu érotique**, et marqueront les débuts d'une longue tradition Japonaise d'inclusion d'érotisme dans leurs jeux d'aventure.
+**Night Life** (1982, Koei) et **Seduction of Condominium Wives** (1982, Koei) sont des jeux d'aventure, parfois avec quelques éléments RPG, avec du **contenu érotique**, et marqueront les débuts d'une longue tradition Japonaise d'inclusion d'érotisme dans leurs jeux d'aventure.
 
-:star: **Portopia Serial Murder Case** (1983) est un jeu **majeur et fondateur du genre**. Son déroulement est **non linéaire**, avec un **open world** à explorer, des **mystères à résoudre**, de **nombreux PNJ**, des **dialogues à embranchements**, et de **multiples fins**. La version Famicom (1985) ajoute un curseur qui permet de **chercher des hotspots**, comme les point & click de l'époque.
+:star: **Portopia Serial Murder Case** (1983, Enix) est un jeu **majeur et fondateur du genre**. Son déroulement est **non linéaire**, avec un **open world** à explorer, des **mystères à résoudre**, de **nombreux PNJ**, des **dialogues à embranchements**, et de **multiples fins**. La version Famicom (1985) ajoute un curseur qui permet de **chercher des hotspots**, comme les point & click de l'époque.
 
-**Spy 007** (1983) apporte une **interface à menus déroulants** qui remplace l'entrée de texte, et qui sera **utilisé partout** à cette époque.
+**Legends of Star Arthur Planet Mephius** (1983, T&E Soft) est le **premier point & click Japonais**, un an avant Enchanted Scepter en occident.
 
-**Planet Mephius** (1983) est le **premier point & click Japonais**, un an avant Enchanted Scepter en occident.
+**Will: The Death Trap II** (1985, Square) est le premier jeu Japonais d'aventure sur ordinateur avec des **images animées**.
 
-**Will: The Death Trap II** (1985) est le premier jeu Japonais d'aventure sur ordinateur avec des **images animées**.
+**Suisho no Dragon** (1986, Famicom, Square) affiche également des images animées, mais surtout des **menus avec des icônes plutôt que du texte**.
 
-**Suisho no Dragon** (1986, Famicom) affiche également des images animées, mais surtout des **menus avec des icônes plutôt que du texte**.
+:star: **J.B. Harold Murder Club** (1986, Riverhill) innove avec un **système de multiples réponses** avec des **tons et objectifs différents** (agressif, amical, etc). Ce sera le premier épisode de la **série la plus vendue** dans le genre.
 
-:star: **J.B. Harold Murder Club** (1986) innove avec un **système de multiples réponses** avec des **tons et objectifs différents** (agressif, amical, etc). Ce sera le premier épisode de la **série la plus vendue** dans le genre.
+**Reviver: The Real-Time Adventure** (1987, Arsys) se déroule en **temps réel**, avec un **cycle jour/nuit**, et des **PNJ qui vivent leur vie** et ne sont pas toujours disponibles.
 
-**Reviver: The Real-Time Adventure** (1987) se déroule en **temps réel**, avec un **cycle jour/nuit**, et des **PNJ qui vivent leur vie** et ne sont pas toujours disponibles.
+:star: **Snatcher** (1988, Konami), réalisé par le fameux Hideo Kojima, a une **réalisation de très haute qualité** technique, un **excellent scénario**, des **doublages**, et une **base de données ingame** qui développe l'univers. Il ne sera localisé en occident qu'en 1994, notamment sur Mega CD.
 
-:star: **Snatcher** (1988), réalisé par le fameux Hideo Kojima, a une **réalisation de très haute qualité** technique, un **excellent scénario**, des **doublages**, et une **base de données ingame** qui développe l'univers. Il ne sera localisé en occident qu'en 1994, notamment sur Mega CD.
+**Policenauts** (1994, Konami) propose des **doublages quasi-systématiques**, et un **résumé de la progression** quand on charge une sauvegarde.
 
-**Policenauts** (1994) propose des **doublages quasi-systématiques**, et un **résumé de la progression** quand on charge une sauvegarde.
+**EVE Burst Error** (1995, C's Ware) donne la possibilité de **passer d'un protagoniste à un autre n'importe quand** plutôt que de devoir terminer un scénario/chapitre pour en commencer un autre, et de les **jouer en simultané**, ce qui est d'ailleurs nécessaire pour terminer le jeu.
 
-**EVE Burst Error** (1995) donne la possibilité de **passer d'un protagoniste à un autre n'importe quand** plutôt que de devoir terminer un scénario/chapitre pour en commencer un autre, et de les **jouer en simultané**, ce qui est d'ailleurs nécessaire pour terminer le jeu.
+:star: **YU-NO: A girl who chants love at the bound of this world** (1996, Saturn, Elf Co) a une **histoire non linéaire**, avec des **univers parallèles** et du **voyage dans le temps**, et permet de **visualiser les branches de possibilités**, ce qui fait que **le public veut des histoires plus complexes** dans les visual novels. C'est un **jeu majeur du genre**, qui influencera la création de tous les suivants.
 
-:star: **YU-NO: A girl who chants love at the bound of this world** (1996, Saturn/Vita/PS4/Switch) a une **histoire non linéaire**, avec des **univers parallèles** et du **voyage dans le temps**, et permet de **visualiser les branches de possibilités**, ce qui fait que **le public veut des histoires plus complexes** dans les visual novels. C'est un **jeu majeur du genre**, qui influencera la création de tous les suivants.
-
-**Ace Attorney** (2001, GBA), aussi appelé **Phoenix Wright** lors de sa localisation sur DS, relance l'intérêt pour le genre, et de nombreux visual novels sur DS connaîtront le succès, notamment **Professor Layton** (2007, DS)
+**Ace Attorney** (2001, GBA, Capcom), aussi appelé **Phoenix Wright** lors de sa localisation sur DS, relance l'intérêt pour le genre, et de nombreux visual novels sur DS connaîtront le succès, notamment **Professor Layton** (2007, DS)
