@@ -82,7 +82,7 @@ Les jeux du genre "4X" (eXplore, eXpand, eXploit, eXterminate) se focalisent qua
 
 Les jeux de gestion les plus influents sont globalement les créateurs de chacun des sous-genre : **Utopia** qui pose les bases du genre ; **Populous** le premier God Game ; **Sim City** le premier City Builder ; **Railroad Tycoon** le premier gestionnaire d'entreprise ; **Civilization** le premier 4X moderne ; et **Harvest Moon** le premier jeu de "farming".
 
---
+---
 
 **Intopia** (1963, mainframe) est un **jeu éducatif** utilisé dans l'enseignement des cours de gestion et de business.
 
