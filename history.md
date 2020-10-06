@@ -133,7 +133,16 @@ Si vous souhaitez jouer à ces vieux jeux, pensez à en trouver le **manuel orig
 
 ### Simulation
 
-- ?
+- 1979 : Flight Simulator
+- 1980 : Red Baron
+- 1980 : Battlezone
+- 1986 : Ace of Aces
+- 1989 : Indianapolis 500
+- 1989 : M1 Tank Platoon
+- 1996 : Densha De Go!
+- 1997 : Gran Turismo
+- 2002 : Hard Truck: 18 Wheels of Steel
+- 2008 : Farming Simulator 2008
 
 ### Sport
 
