@@ -77,3 +77,15 @@ Difficile de parler de simulation pour le vol spatial, totalement fictif à l'ex
 **Hard Truck: 18 Wheels of Steel** (2002, PC, SCS Software) est le **premier simulateur de camion** qui simule aussi l'**aspect ennuyeux du métier** à rouler tout droit pendant des heures, en plus de l'aspect **gestion d'entreprise**. Ce sont les même développeurs que **Euro Truck Simulator** (2008, PC), série étonnament populaire.
 
 **Farming Simulator 2008** (2008, PC, Giants Software) est le **premier simulateur de ferme moderne** ; le premier épisode était un peu limité (un seul type de culture, un seul constructeur...) mais les suites deviendront progressivement extrêmement complètes.
+
+---
+
+## Simulation de vie
+
+**Little Computer People**
+
+**Creatures**
+
+**The Sims**
+
+**Spore**
