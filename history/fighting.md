@@ -16,6 +16,8 @@ Sauf exception (notée), la plupart des jeux de combat sont sortis sur arcade av
 
 **Karate Champ** (1984, Data East) permet de faire **plusieurs coups**, et malgré ses contrôles encore trop complexes, il commence à **populariser le genre** dans les salles d'arcade.
 
+:star: **Karateka** (1984, Jordan Mechner, Apple II) se déroule comme un jeu d'aventure, avec une **vraie progression**, et a un **système complexe** de position offensive ou mobile, et de coups de pieds et de poings à différents niveaux. Il est remarqué pour ses **animations très fluides** qui préfigurent le rotoscoping utilisé sur **Prince of Persia**, mais aussi pour son **utilisation des cinématiques**.
+
 :star: **Yie Ar Kung Fu** (1985, Konami) est le premier à demander d'affronter **plusieurs adversaires** avec des **styles différents**, plutôt qu'une simple succession d'adversaires de plus en plus difficiles.
 
 **Way of the Exploding Fist** (1985, Beam Software, Commodore 64) est globalement une repompe de Karate Champ ; c'est le **premier gros succès sur ordi**, et il sera à son tour copié par **International Karate** (1985, System 3, PC).
