@@ -11,14 +11,23 @@ Globalement, ce sont les jeux qui sont relativement connus, mais ne rentrent pas
 ### NES
 
 - Bionic Commando
+- Blades of Steel
 - Blaster Master
 - Chip'n Dale Rescue Rangers 1 & 2 (= Tic & Tac Rangers du Risque)
 - Darkwing Duck
+- Super Spike V Ball
+- Tecmo Super Bowl
 
 ### Master System
 
 - Ancient Ys Vanished Omen
+- Baku Baku Animal
 - Basketball Nightmare
+- California Games
+- Operation Wolf
+- Prince of Persia
+- Psycho Fox
+- R-Type
 
 ### GB/GBC
 
@@ -34,10 +43,15 @@ Globalement, ce sont les jeux qui sont relativement connus, mais ne rentrent pas
 - Comix Zone
 - Cool Spot
 - Eternal Champions
+- FIFA 95
 - La Légende de Thor (Beyond Oasis aux US)
 - Le Roi Lion
+- Madden NFL 95
 - Micro Machines 2
 - Moonwalker
+- Mutant League Football
+- NHL 94
+- PGA Tour 3
 - Quackshot
 - Road Rash (1, 2, 3)
 - Rocket Knight
@@ -50,8 +64,14 @@ Globalement, ce sont les jeux qui sont relativement connus, mais ne rentrent pas
 - Breath of Fire 1 & 2
 - Dragon Ball Z (Hyper Dimension, Super Butouden, Legende Saien, Ultime Menace)
 - Final Fight (1, 2, 3)
+- International Superstar Soccer Deluxe
 - Illusion of Gaia
+- Kirby Dream Course
+- NBA Jam Tournament Edition
+- NHL 96
 - Super Aleste
+- Super Punch Out
+- Tiny Toons Wacky Sports
 - TMNT 4
 - Puzzle Bobble
 
