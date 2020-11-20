@@ -2,7 +2,7 @@
 
 Les jeux de combat et les beat'em up ont une histoire mêlée, les seconds s'inspirant beaucoup des premiers.
 
-Les jeux les plus influents sont **Yie Ar Kung Fu** et ses multiples adversaires ; **Street Fighter II** et ses combos qui rendent le jeu technique ; **Battle Arena Toshiden** et ses pas latéraux qui font entrer le style dans la 3D, même si c'est plutôt **Tekken** qui le popularisera ; et **Super Smash Bros** et ses combats à 4 en simultané et son orientation "tout public".
+Les jeux les plus influents sont **Yie Ar Kung Fu** et ses adversaires variés ; **Street Fighter II** et ses combos qui rendent le jeu technique ; **Battle Arena Toshiden** et ses pas latéraux qui font entrer le style dans la 3D, même si c'est plutôt **Tekken** qui le popularisera ; et **Super Smash Bros** et ses combats à 4 en simultané et son orientation "tout public".
 
 Le genre a connu son heure de gloire dans les années 90, mais comme pour les shmups, la technicité toujours plus grande des jeux a progressivement fait basculer les jeux de baston vers une niche de joueurs hardcore.
 
@@ -24,7 +24,7 @@ Sauf exception (notée), la plupart des jeux de combat sont sortis sur arcade av
 
 :star: **Street Fighter** (1987, Capcom) est le premier à avoir des **coups spéciaux** cachés, à exécuter par une **séquence de boutons et directions**. C'est le jeu qui popularisera les **contrôles à 6 boutons**, le premier qui permet le **blocage juste en reculant**, et le premier qui **permet à un second joueur de s'imposer** en tant qu'adversaire au milieu d'une partie.
 
-:star: **Street Fighter II** (1991, Capcom) reprend et étend la formule du premier, avec un **grand nombre de personnages variés**, c'est le premier à adopter "officiellement" les **combos** (série de coups), et il apporte surtout une **fiabilité des contrôles** qui rend l'exécution des coups spéciaux fiable : jusque là, les joysticks n'étaient pas assez précis pour garantir que les séquences de boutons feraient toujours la même chose. C'est aussi le premier jeu à avoir de **nombreuses versions qui le rééquilibrent et l'améliorent**, et servira de **modèle pour tous les jeux de combats à venir**.
+:star: **Street Fighter II** (1991, Capcom) reprend et étend la formule du premier, avec un **grand nombre de personnages variés**, c'est le premier à **permettre d'incarner plusieurs personnages**, le premier à adopter "officiellement" les **combos** (série de coups), et il apporte surtout une **fiabilité des contrôles** qui rend l'exécution des coups spéciaux fiable : jusque là, les joysticks n'étaient pas assez précis pour garantir que les séquences de boutons feraient toujours la même chose. C'est aussi le premier jeu à avoir de **nombreuses versions qui le rééquilibrent et l'améliorent**, et servira de **modèle pour tous les jeux de combats 2D à venir**.
 
 **Fatal Fury** (1991, SNK) est le premier à mettre en avant son **histoire**, et permet de combattre sur **deux plans** de jeu, système qui sera repris par quelques autres jeux de combat SNK.
 
@@ -32,7 +32,7 @@ Sauf exception (notée), la plupart des jeux de combat sont sortis sur arcade av
 
 :star: **Mortal Kombat** (1992, Midway) déclenche une controverse de par sa **violence extrême** et réaliste (pour l'époque) grâce à ses **sprites de photographies numérisées** (même si ce n'est pas le premier à en avoir) et ses **finishers** (fatalités), et il a de **nombreux secrets**. Sa version Megadrive sera l'un des jeux à l'origine de la création de l'ESRB, l'organisme de classification Américain.
 
-**Samurai Shodown** (1993, SNK) se focalise sur des combats à base de **gros coups puissants**, marqués par des **ralentissements lors des frappes**, en utilisant exclusivement des **armes blanches**. Des **objets apparaissent aléatoirement** qui permettent parfois de renverser le cours des combats.
+**Samurai Shodown** (1993, SNK) se focalise sur des combats à base de **gros coups puissants**, en utilisant exclusivement des **armes blanches**. Des **objets apparaissent aléatoirement** qui permettent parfois de renverser le cours des combats.
 
 :star: **Virtua Fighter** (1993, Sega) introduit le concept des **ring out**, et utilise une **3D polygonale** mais un **gameplay 2D** ; le gameplay en 3D a été essayé par Sega avec **Dark Edge** en 1992, mais il n'avait pas été trouvé assez fun. Sa **technique avancée** pour l'époque influence un grand nombre de jeux dans divers genres.
 
