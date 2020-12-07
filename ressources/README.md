@@ -78,6 +78,10 @@
 - [The origin of FPS arcade games (Charleston Fun Park)](https://charlestonfunpark.com/the-origin-of-first-person-shooter-arcade-games/)
 - [The 10 most influencial FPS in history (Gamecrate)](https://www.gamecrate.com/10-most-influential-games-fps-history/17217)
 
+### Stratégie
+
+- [An oral history of Age of Empire](https://www.shacknews.com/article/121405/a-bit-of-foolishness-an-oral-history-of-age-of-empires)
+
 ## Livres
 
 - "The Untold History of Japanese Game Developers" (John Szczepaniak) : l'histoire des développeurs Japonais
