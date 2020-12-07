@@ -15,7 +15,7 @@ Beaucoup de jeux de puzzle ou de réflexion se contentent de **reproduire des je
 
 **PuzzlePanic** (1984, Commodore 64, Epyx) mélange aventure et un **grand nombre de puzzles** divers et variés.
 
-:star: **Tetris** (1986, divers) est relativement populaire dès sa sortie, mais **explose en popularité** avec sa version Game Boy. C'est **le jeu du genre le plus connu**, il génère des **armées de clones** et inspire des **milliers d'autres** du genre.
+:star: **Tetris** (1984, mainframe) est créé sur mainframe puis porté sur ordinateurs. Relativement populaire dès sa sortie, il **explose en popularité** avec sa version Game Boy. C'est **le jeu du genre le plus connu**, il génère des **armées de clones** et en inspire des **milliers d'autres**.
 
 :star: **Chain Shot!** (1985, PC-88, Morisuke) nécessite de trouver des **motifs de couleur**, est porté sur à peu près toutes les plateformes possibles, et **inspirera les match-3** bien des années plus tard. Il existe aujourd'hui sous forme open source sous le nom de **SameGame**.
 
