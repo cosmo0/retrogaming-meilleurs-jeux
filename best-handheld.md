@@ -5,7 +5,7 @@
 - Castlevania (II, Adventure, Legends)
 - Donkey Kong Land (1, 2, 3)
 - Duck Tales (1, 2)
-- Final Fantasy (Adventures, Legend, Legend II)
+- Final Fantasy (Adventures/Mystic Quest, Legend, Legend II, Legend III)
 - Gargoyle's Quest
 - Kirby (1, 2)
 - Metroid II
