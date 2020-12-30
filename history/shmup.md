@@ -32,6 +32,8 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **Radar Scope** (1980, Nintendo) est le premier shmup qui permet de **tirer plusieurs projectiles à la suite**, alors que les précédents n'autorisaient qu'un seul tir à l'écran, et introduit un **effet de perspective** qui sera repris par Beam Rider (1983, Atari 2600) et Silpheed (1993, PC-88). Radar Scope est aussi célèbre pour s'être tellement mal vendu que Nintendo a développé **Donkey Kong** (1981, Nintendo) en réutilisant le hardware de la borne.
 
+:star: **Phoenix** (1980, AmStar) est le premier shmup avec un **boss de fin**.
+
 :star: **Defender** (1981, Williams) est le premier shmup à **scrolling libre** en ayant aussi un **écran orienté horizontalement**. C'est aussi un des premiers à avoir une **mini-map**, ce qui permet au jeu de "continuer hors écran", et il introduit les **mégabombes** qui nettoient l'écran des tirs ennemis. Le jeu est **extrêmement difficile**, notamment à cause de ses **contrôles complexes** basés sur un grand nombre de boutons, mais ça ne l'empêche pas de rencontrer un **grand succès**.
 
 :star: **Scramble** (1981, Konami) n'est pas très connu par le grand public, mais c'est pourtant une **étape importante** dans l'histoire des shmups : c'est le premier shmup à **scrolling automatique**, et qui a de **multiples niveaux** avec des styles visuels différents, un **terrain sur lequel on peut s'écraser** et qui n'est pas uniquement esthétique, **deux tirs** (laser et bombe) qui peuvent tous deux affecter toutes les cibles... soit à peu près la base de tous les shmups modernes. Il y aura une **vague de "Scramble Clones"** comme il y a eu une vague de "Space Invaders Clones".
@@ -42,7 +44,7 @@ Le genre stagne au début des années 90 malgré l'amélioration de la qualité,
 
 **Bosconian** (1981, Namco) est le premier shmup à **déplacement libre**, où l'on peut explorer la carte à loisir, finalement assez peu exploré dans le genre des shmups, et repris par **Time Pilot** (1982, Konami).
 
-**Gorf** (1981, Midway) a cinq **tableaux qui se jouent totalement différemment**, et reprend successivement Space Invaders, Galaxian, Space Firebird, ainsi que d'autres tableaux plus originaux. C'est aussi un des premiers jeux avec un **combat de boss** dans le dernier tableau.
+**Gorf** (1981, Midway) a cinq **tableaux qui se jouent totalement différemment**, et reprend successivement Space Invaders, Galaxian, Space Firebird, ainsi que d'autres tableaux plus originaux.
 
 **Space Seeker** (1981, Taito) permet de **choisir un niveau**, et **alterne scrolling et shoot à la première personne**.
 
