@@ -44,6 +44,7 @@
 - [Hardcore Gaming 101](http://www.hardcoregaming101.net/)
 - [Games That Defined the Shmups Genre (Racketboy)](http://www.racketboy.com/retro/games-that-defined-the-shmups-genre)
 - [Japan:History of Shooting Games (Shmups.eu)](https://shmups.eu/video/japan-history-of-shooting-game/)
+- [The First Video Game Bosses](http://www.retrogamedeconstructionzone.com/2020/08/the-first-video-game-bosses.html)
 
 ### RPG
 
