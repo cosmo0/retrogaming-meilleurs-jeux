@@ -61,6 +61,7 @@
 - [Game Design Essentials - 20 RPGs](https://gamasutra.com/view/feature/132457/game_design_essentials_20_rpgs.php)
 - [RPG Classics](http://shrines.rpgclassics.com/)
 - [Codex Gamicus](https://gamicus.gamepedia.com/Action_role-playing_video_games)
+- [The history of MUDs, virtual worlds & MMORPG](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
 
 ### Jeux d'aventure
 
