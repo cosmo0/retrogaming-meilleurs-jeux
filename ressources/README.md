@@ -84,6 +84,10 @@
 
 - [An oral history of Age of Empire](https://www.shacknews.com/article/121405/a-bit-of-foolishness-an-oral-history-of-age-of-empires)
 
+### Combat
+
+- [Le versus fighting à travers les âges](https://www.neogeokult.com/articles/le-versus-fighting-%C3%A0-travers-les-%C3%A2ges/)
+
 ## Livres
 
 - "The Untold History of Japanese Game Developers" (John Szczepaniak) : l'histoire des développeurs Japonais
