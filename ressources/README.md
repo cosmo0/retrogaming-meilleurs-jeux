@@ -21,6 +21,7 @@
 ### Général
 
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_video_games) : différents articles sur l'historique des jeux vidéo
+- [Mobygames](https://www.mobygames.com/)
 - [Hardcore Gaming 101](http://www.hardcoregaming101.net/) : des milliers d'infos sur les jeux rétro et néorétro
 - [RacketBoy](http://www.racketboy.com/retro) : pas mal d'articles dédiés à des genres ou des jeux
 - [StrategyWiki](https://strategywiki.org/) : un wiki de soluces mais qui a aussi énormément de détails sur les jeux et leurs différentes versions
@@ -34,6 +35,7 @@
 - [History of Japanese Video Games Industry](https://www.slideshare.net/yuhsukek/jrc-seminar-history-of-video-game-industry?fbclid=IwAR0tLpLq1C_Obl0G-VHjvnNzEjnw9htgMXpjJ0MF_ZOWzPOXp_Nupixa7E4)
 - [Early Consoles games release dates](https://www.atariarchive.org/release-dates/)
 - [How Japan learned to live PC gaming again](https://www.pcgamer.com/how-japan-learned-to-love-pc-gaming-again/)
+- [Game Developers Research Institute](http://gdri.smspower.org/)
 
 ### Shmups
 
