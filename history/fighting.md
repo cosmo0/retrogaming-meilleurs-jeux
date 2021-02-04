@@ -14,7 +14,7 @@ Le genre a connu son heure de gloire dans les années 90, mais comme pour les sh
 
 Sauf exception (notée), la plupart des jeux de combat sont sortis sur arcade avant tout.
 
-**Karate Champ** (1984, Data East) permet de faire **plusieurs coups**, et malgré ses contrôles encore trop complexes, il commence à **populariser le genre** dans les salles d'arcade.
+**Karate Champ** (1984, Data East) permet de faire **plusieurs coups**, possède de **nombreux décors** bien que l'on y affronte toujours le même adversaire, des **niveaux bonus** où l'on affronte des taureaux ou on casse des briques, et malgré ses contrôles très complexes, il commence à **populariser le genre** dans les salles d'arcade.
 
 :star: **Karateka** (1984, Jordan Mechner, Apple II) se déroule comme un jeu d'aventure, avec une **vraie progression**, et a un **système complexe** de position offensive ou mobile, et de coups de pieds et de poings à différents niveaux. Il est remarqué pour ses **animations très fluides** qui préfigurent le rotoscoping utilisé sur **Prince of Persia**, mais aussi pour son **utilisation des cinématiques**.
 
