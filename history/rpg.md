@@ -38,11 +38,17 @@ Les CRPG "purs" sont un peu tombés à l'abandon, et sauf quelques exceptions, s
 
 ---
 
+**Beneath Apple Manor** (1978, Apple II, Don Worth) est **un des premiers Rogue-like** bien qu'il soit sorti 2 ans avant Rogue.
+
+**Dungeon Campaign** (1978, Apple II, Synergistic Software) propose du dungeon crawling basique, avec de l'**auto-mapping** qui se désactive quand le Nain meurt.
+
 **Temple of Apshai** (1979, TRS-80, Automated Simulations) est le **premier RPG graphique vendu sur ordinateur personnel**, mais les graphismes sont très... abstraits. Il aura de nombreuses suites, et la série sera **très bien vendue** pour l'époque.
+
+**Wilderness Campaign** (1979, Apple II, Synergistic Software) mélange **RPG et tactique** en permettant de gérer son armée.
 
 **Akalabeth World of Doom** (1980, Apple II, Richard Garriott), créé par Richard Gariott qui développera Ultima par la suite, est un dungeon crawler basique et qui a mal vieilli, et c'est le premier à afficher une **carte du monde**.
 
-:star: **Rogue** (1980, Unix) crée son propre style de jeu : **génération procédurale** et **mort définitive** en font un jeu à la fois extrêmement difficile et addictif, mais malgré tout assez **simple à comprendre** : on tape sur des monstres, et on équipe des objets. Rogue étant **open source**, il a eu de très nombreux clones et variations, et sa génération procédurale a inspiré un nombre incroyable de jeux. En "roguelike classique", on notera Brogue, très facile d'accès et plutôt joli tout en gardant un rendu ASCII.
+:star: **Rogue** (1980, Unix) crée son propre style de jeu : **génération procédurale** et **mort définitive** mélangés à des **systèmes obscurs et complexes** en font un jeu à la fois extrêmement difficile et addictif, mais malgré tout assez **simple à comprendre** : on tape sur des monstres, et on équipe des objets. Rogue étant **open source**, il a eu de très nombreux clones et variations, et sa génération procédurale a inspiré un nombre incroyable de jeux. En "roguelike classique", on notera Brogue, très facile d'accès et plutôt joli tout en gardant un rendu ASCII.
 
 :star: **Wizardry: Proving Grounds of the Mad Overlord** (1981, Apple II, Sir-Tech) est le premier à permettre des **combats avec une équipe**. Avec son **bestiaire extrêmement varié**, son **donjon complexe et retors**, son **équilibrage soigné**, et malgré (ou grâce à) sa **difficulté très élevée**, il a une **influence considérable**, particulièrement au Japon où il a eu des dizaines de suites non localisées, et où il inspire encore aujourd'hui de nouveaux jeux, comme la série **Etrian Odyssey** par exemple. C'est le premier **grand succès commercial**, et le premier jeu à créer un marché de **guides et outils d'édition non-officiels**.
 
