@@ -113,9 +113,9 @@ Les palettes de couleurs sont généralement très limitées et il n'est pas enc
 - Dokidoki Penguin Land
 - Flicky
 - Girls Garden
+- Gulkave
 - H.E.R.O.
 - Monaco GP
-- Sega-Galaga
 - Star Jacker
 
 ## Génération 3
