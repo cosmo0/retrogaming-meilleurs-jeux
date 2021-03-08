@@ -89,6 +89,7 @@
 ### Combat
 
 - [Le versus fighting à travers les âges](https://www.neogeokult.com/articles/le-versus-fighting-%C3%A0-travers-les-%C3%A2ges/)
+- [Street Fighter: An Oral History](https://www.polygon.com/2020/7/7/21270906/street-fighter-1-oral-history-takashi-nishiyama) (et les articles suivants)
 
 ## Livres
 
