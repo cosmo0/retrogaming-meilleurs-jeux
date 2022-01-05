@@ -36,7 +36,7 @@
 - [Early Consoles games release dates](https://www.atariarchive.org/release-dates/)
 - [How Japan learned to live PC gaming again](https://www.pcgamer.com/how-japan-learned-to-love-pc-gaming-again/)
 - [Game Developers Research Institute](http://gdri.smspower.org/)
-- [A short oral history of the NeoGeo][https://www.eurogamer.net/articles/2021-05-14-pro-gear-spec-reminisicing-about-snks-90s-vision-of-the-future)
+- [A short oral history of the NeoGeo](https://www.eurogamer.net/articles/2021-05-14-pro-gear-spec-reminisicing-about-snks-90s-vision-of-the-future)
 - [The Video Game History Booklist](https://thehistoryofhowweplay.wordpress.com/2020/08/27/the-video-game-history-booklist/)
 
 ### Shmups
