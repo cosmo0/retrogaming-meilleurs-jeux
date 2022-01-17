@@ -66,6 +66,7 @@
 - [RPG Classics](http://shrines.rpgclassics.com/)
 - [Codex Gamicus](https://gamicus.gamepedia.com/Action_role-playing_video_games)
 - [The history of MUDs, virtual worlds & MMORPG](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
+- [Where do RPGs come from?](https://www.youtube.com/watch?v=XL9wUR92l-w)
 
 ### Jeux d'aventure
 
