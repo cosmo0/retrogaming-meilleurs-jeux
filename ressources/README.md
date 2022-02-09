@@ -53,7 +53,7 @@
 ### RPG
 
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_Western_role-playing_video_games)
-- [History of CRPGs Book](crpg_book_2.0_hq.pdf) : livre dédié à l'histoire des RPG occidentaux ([source](https://crpgbook.wordpress.com/))
+- [The CRPG Book](https://crpgbook.wordpress.com/) : livre dédié à l'histoire des RPG PC
 - [Thèse : Histoire Formelle Du Jeu D'aventure sur Ordinateur](lessard_jonathan_2013_these.pdf) ([source](http://www.omnsh.org/sites/default/files/lessard_jonathan_2013_these.pdf))
 - [From D&D To FF7 (The Game Design Forum)](http://thegamedesignforum.com/features/rd_ff7_2.html)
 - [The History of Computer Role-Playing Games (Gamasutra blog)](https://www.gamasutra.com/view/feature/132024/the_history_of_computer_.php)
