@@ -50,6 +50,8 @@ Le genre est toujours relativement populaire, mais a du mal à se diversifier : 
 
 :star: **Formula One Grand Prix** (1992, DOS, Geoff Crammond) est la **seconde simulation** à exister, et reprend tout de **Indianapolis 500**, en y ajoutant une **saison complète** avec 16 circuits correctement modélisés, de **nombreuses assistances de conduite** dont le **freinage automatique**, l'affichage d'une **ligne idéale de conduite**, le **rapport idéal** pour un virage, et a un moteur qui **"lisse" les inputs** quand on joue au clavier pour réduire les à-coups. Il n'a pas de licence officielle mais inclut un **éditeur de noms**, a des **graphismes avancés** et des **sons réalistes**, et reproduit l'**ambiance du bord de piste** avec l'affichage des commissaires de piste et du "pit crew". Ce sera une **référence de la simulation** jusqu'à sa suite en 1995.
 
+**Ridge Racer** (1993, Namco) met l'accent sur le **drift** pour aller plus vite, et c'est probablement le premier jeu d'arcade avec des **polygones texturés**.
+
 **Daytona USA** (1993, Sega) est un des premiers jeux avec des **textures filtrées**, ce qui lui donne un aspect relativement moderne encore aujourd'hui malgré son grand âge.
 
 :star: **Sega Rally** (1995, Sega) est le premier jeu de course avec **différentes surfaces qui changent la maniabilité** sur un même circuit.
