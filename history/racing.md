@@ -56,7 +56,7 @@ Le genre est toujours relativement populaire, mais a du mal à se diversifier : 
 
 :star: **Sega Rally** (1995, Sega) est le premier jeu de course avec **différentes surfaces qui changent la maniabilité** sur un même circuit.
 
-:star: **Mario Kart 64** (1996, N64, Nintendo) permet d'obtenir des **items aléatoirement selon la posisiton du joueur**, ce qui crée un mécanismes de **"rubber banding" multijoueur** et permet aux moins doués de rester dans la course ou même d'inverser les situations. Cette orientation en fait un jeu extrêmement populaire en multijoueur, et il génère des tas de clones, qui n'arriveront jamais à dépasser la popularité de la série principale.
+:star: **Mario Kart 64** (1996, N64, Nintendo) permet d'obtenir des **items aléatoirement selon la position du joueur**, ce qui crée un mécanismes de **"rubber banding" multijoueur** et permet aux moins doués de rester dans la course ou même d'inverser les situations. Cette orientation en fait un jeu extrêmement populaire en multijoueur, et il génère des tas de clones, qui n'arriveront jamais à dépasser la popularité de la série principale.
 
 :star: **Gran Turismo** (1997, Playstation, Polyphony) est le premier jeu de course **orienté simulation sur console** mais qui **sait rester accessible** avec un moteur physique permissif et de nombreuses aides à la conduite. Le jeu a un **mode carrière** très complet avec une progression libre et un système de permis, des **tonnes de véhicules** à acheter allant **de la citadine à la voiture de course**, et de **nombreuses options de tuning**. Le jeu est une **référence**, et sa quantité de contenu sera une inspiration pour tous les types de jeux de course par la suite.
 
