@@ -93,6 +93,7 @@
 
 - [Le versus fighting à travers les âges](https://www.neogeokult.com/articles/le-versus-fighting-%C3%A0-travers-les-%C3%A2ges/)
 - [Street Fighter: An Oral History](https://www.polygon.com/2020/7/7/21270906/street-fighter-1-oral-history-takashi-nishiyama) (et les articles suivants)
+- [Birth of the Cool: How The King of Fighters came to be](https://www.eurogamer.net/birth-of-the-cool-how-the-king-of-fighters-came-to-be)
 
 ## Livres
 
