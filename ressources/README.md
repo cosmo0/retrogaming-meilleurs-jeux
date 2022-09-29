@@ -38,6 +38,7 @@
 - [Game Developers Research Institute](http://gdri.smspower.org/)
 - [A short oral history of the NeoGeo](https://www.eurogamer.net/articles/2021-05-14-pro-gear-spec-reminisicing-about-snks-90s-vision-of-the-future)
 - [The Video Game History Booklist](https://thehistoryofhowweplay.wordpress.com/2020/08/27/the-video-game-history-booklist/)
+- [Namco System 12: The Fastest Route to the Third Dimension](https://nicole.express/2022/the-closest-ill-get-to-covering-the-playstation.html)
 
 ### Shmups
 
@@ -98,3 +99,4 @@
 ## Livres
 
 - "The Untold History of Japanese Game Developers" (John Szczepaniak) : l'histoire des développeurs Japonais
+- [The Book of CP System](https://fabiensanglard.net/cpsb/)
