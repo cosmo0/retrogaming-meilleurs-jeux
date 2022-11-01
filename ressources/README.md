@@ -76,6 +76,7 @@
 - [A Truly Graphic Adventure (Ars Technica)](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/)
 - [The Rise and Fall of Adventure Games (Digital Museum)](https://www.digitalgamemuseum.org/the-rise-and-fall-of-adventure-games/)
 - [The Past, Present and Future of Adventure Games (IGN)](https://www.ign.com/articles/2015/03/02/the-past-present-and-future-of-adventure-games)
+- [What makes a Japanese dating sim/adventure game/novel game?](https://cohost.org/iiotenki/post/66875-what-makes-a-japanes)
 
 ### Shooters
 
